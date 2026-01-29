@@ -77,7 +77,9 @@ The generated 3,000 images were split into:
 - **Training Set**: 2,400 images (80%)
 - **Test Set**: 600 images (20%)
 
-**Kaggle Dataset:** [graph-plots](https://www.kaggle.com/datasets/shahriar26s/graph-plots)
+**Datasets:**
+- **Kaggle**: [graph-plots](https://www.kaggle.com/datasets/shahriar26s/graph-plots)
+- **Google Drive**: [Synthetic Plots Dataset](https://drive.google.com/drive/folders/1Xm35AgzmbG1gSHRStqrMRqYmUwfLfbSo)
 
 ---
 
