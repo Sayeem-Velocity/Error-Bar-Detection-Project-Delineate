@@ -1,0 +1,109 @@
+{
+  "image_file": "0160fd20-5ca8-4d40-8946-c2febd06bee3.png",
+  "model": "Chartqwen",
+  "error_bars": [
+    {
+      "lineName": "",
+      "points": [
+        {
+          "data_point": {
+            "x": 102.8,
+            "y": 49.5
+          },
+          "upper_error_bar": {
+            "x": 102.8,
+            "y": 39.0
+          },
+          "lower_error_bar": {
+            "x": 102.8,
+            "y": 60.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 188.5,
+            "y": 194.8
+          },
+          "upper_error_bar": {
+            "x": 188.5,
+            "y": 184.3
+          },
+          "lower_error_bar": {
+            "x": 188.5,
+            "y": 205.3
+          }
+        },
+        {
+          "data_point": {
+            "x": 264.3,
+            "y": 277.2
+          },
+          "upper_error_bar": {
+            "x": 264.3,
+            "y": 266.7
+          },
+          "lower_error_bar": {
+            "x": 264.3,
+            "y": 287.7
+          }
+        },
+        {
+          "data_point": {
+            "x": 360.3,
+            "y": 340.6
+          },
+          "upper_error_bar": {
+            "x": 360.3,
+            "y": 330.1
+          },
+          "lower_error_bar": {
+            "x": 360.3,
+            "y": 351.1
+          }
+        },
+        {
+          "data_point": {
+            "x": 382.1,
+            "y": 350.6
+          },
+          "upper_error_bar": {
+            "x": 382.1,
+            "y": 340.1
+          },
+          "lower_error_bar": {
+            "x": 382.1,
+            "y": 361.1
+          }
+        },
+        {
+          "data_point": {
+            "x": 504.9,
+            "y": 388.5
+          },
+          "upper_error_bar": {
+            "x": 504.9,
+            "y": 378.0
+          },
+          "lower_error_bar": {
+            "x": 504.9,
+            "y": 399.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 602.9,
+            "y": 404.2
+          },
+          "upper_error_bar": {
+            "x": 602.9,
+            "y": 393.7
+          },
+          "lower_error_bar": {
+            "x": 602.9,
+            "y": 414.2
+          }
+        }
+      ]
+    }
+  ]
+}

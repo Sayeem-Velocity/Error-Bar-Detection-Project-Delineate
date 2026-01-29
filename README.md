@@ -5,50 +5,34 @@
   <img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=white" alt="HuggingFace">
-  <img src="https://img.shields.io/badge/Platform-Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/Platform-Kaggle_T4_GPU-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
 </p>
 
 <p align="center">
-  <strong>Automatic detection and measurement of error bars in scientific plot images using Computer Vision and Vision-Language Models</strong>
+  <strong>Automatic detection and measurement of error bars in scientific plot images</strong>
 </p>
 
 ---
 
-## Table of Contents
+## Project Background
 
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-  - [Pipeline 1: CV + ROI with ML Refinement](#pipeline-1-cv--roi-with-ml-refinement)
-  - [Pipeline 2: Vision-Language Model Approach](#pipeline-2-vision-language-model-approach)
-- [Results Summary](#results-summary)
-- [Detailed Results](#detailed-results)
-- [Running on Kaggle Free Tier GPU](#running-on-kaggle-free-tier-gpu)
-- [Dataset Format](#dataset-format)
-- [Output Format](#output-format)
-- [Model Artifacts](#model-artifacts)
-- [References](#references)
+This project was completed as a two-phase assignment:
+
+| Phase | Task | Description |
+|:-----:|------|-------------|
+| **1** | Synthetic Data Generation | Generated 3,000 synthetic scientific plots with ground truth error bar annotations |
+| **2** | Error Bar Detection | Developed detection pipelines to automatically measure error bars from plot images |
+
+**Dataset:** [Google Drive - Synthetic Plots Dataset](https://drive.google.com/drive/folders/1Xm35AgzmbG1gSHRStqrMRqYmUwfLfbSo)
 
 ---
 
-## Overview
-
-This project addresses the challenge of automatically detecting and measuring error bars in scientific chart images. Given an input image and data point coordinates, the system outputs the pixel distances from each data point to its corresponding upper and lower error bar endpoints.
-
-### Task Definition
+## Task Definition
 
 | Component | Description |
 |-----------|-------------|
-| **Input** | Scientific plot image (PNG/JPG) + Data point coordinates (x, y) in pixel space |
-| **Output** | `topBarPixelDistance`: Pixels from data point to upper error bar endpoint |
-|  | `bottomBarPixelDistance`: Pixels from data point to lower error bar endpoint |
-
-### Key Challenges
-
-- Variable plot styles, colors, and resolutions
-- Overlapping error bars and dense data points
-- Distinguishing error bars from grid lines and other visual elements
-- Handling missing or asymmetric error bars
+| **Input** | Scientific plot image + Data point coordinates (x, y) in pixels |
+| **Output** | `topBarPixelDistance` and `bottomBarPixelDistance` in pixels |
 
 ---
 
@@ -57,37 +41,38 @@ This project addresses the challenge of automatically detecting and measuring er
 ```
 Error-Bar-Detection-Project/
 |
-|-- README.md                                          # This documentation
-|-- figure 1.png                                       # Pipeline 1 architecture diagram
-|-- figure 2.png                                       # Pipeline 2 architecture diagram
+|-- README.md
+|-- .gitignore
+|-- figure 1.png                              # Pipeline 1 architecture
+|-- figure 2.png                              # Pipeline 2 architecture
 |
 |-- Basic OpenCV + ROI/
-|   |-- OpenCV + ROI.ipynb                             # Basic CV-only approach notebook
+|   |-- OpenCV + ROI.ipynb
 |   |-- Results/
-|       |-- summary_metrics.csv                        # Aggregate performance metrics
-|       |-- per_image_metrics.csv                      # Per-image detailed metrics
-|       |-- error_distributions.png                    # Error distribution visualization
-|       |-- predictions/                               # Individual JSON predictions
+|       |-- summary_metrics.csv
+|       |-- per_image_metrics.csv
+|       |-- predictions/
 |
-|-- OpenCV + ROI (Geometry-Based Deterministic Pipeline) + ML Refinement/
-|   |-- cv-ml-hybrid-errorbar-detection-new.ipynb      # Hybrid CV+ML pipeline notebook
+|-- OpenCV + ROI + ML Refinement/
+|   |-- cv-ml-hybrid-errorbar-detection-new.ipynb
 |   |-- Results/
-|       |-- final_model_comparison_600samples.csv      # Model comparison results
-|       |-- ablation_study.csv                         # Ablation study results
-|       |-- improvement_over_baseline_600samples.csv   # Improvement analysis
-|       |-- feature_descriptions.csv                   # ML feature documentation
-|       |-- hybrid_features_dataset.csv                # Extracted features dataset
-|       |-- predictions/                               # Individual JSON predictions
+|       |-- final_model_comparison_600samples.csv
+|       |-- ablation_study.csv
+|       |-- feature_descriptions.csv
+|       |-- predictions/
 |
 |-- Zero shot QWEN2.5-VL-7B base & finetuned/
-|   |-- Zero shot QWEN2.5-VL-7B inference.ipynb        # Base model inference notebook
-|   |-- qwen2-5-vl-error-bar-detection-fine-tuning.ipynb  # Fine-tuning notebook
-|   |-- Chartqwen inference.ipynb                      # Fine-tuned model inference
+|   |-- Zero shot QWEN2.5-VL-7B inference.ipynb
+|   |-- qwen2-5-vl-error-bar-detection-fine-tuning.ipynb
+|   |-- Chartqwen inference.ipynb
 |   |-- Results of base QWEN2.5-VL-7B-INSTRUCT/
-|   |   |-- qwen_vqa_summary_metrics.csv               # Base model metrics
-|   |   |-- qwen_vqa_per_image_metrics.csv             # Base model per-image results
-|   |   |-- predictions/                               # Base model predictions
-|   |-- Results of Chartqwen/                          # Fine-tuned model results
+|   |   |-- qwen_vqa_summary_metrics.csv
+|   |   |-- qwen_vqa_per_image_metrics.csv
+|   |   |-- predictions/
+|   |-- Results of Chartqwen/
+|       |-- chartqwen_summary_metrics.csv
+|       |-- chartqwen_per_image_metrics.csv
+|       |-- predictions/
 ```
 
 ---
@@ -101,9 +86,9 @@ This project implements two distinct pipelines for error bar detection, each wit
 ### Pipeline 1: CV + ROI with ML Refinement
 
 <p align="center">
-  <img src="figure 1.png" alt="Pipeline 1 Architecture" width="400">
+  <img src="figure 1.png" alt="Pipeline 1 Architecture" width="500">
 </p>
-<p align="center"><em>Figure 1: Computer Vision + Machine Learning Hybrid Pipeline Architecture</em></p>
+<p align="center"><em>Figure 1: Computer Vision + Machine Learning Hybrid Pipeline</em></p>
 
 #### Architecture Overview
 
@@ -127,8 +112,6 @@ Input Image + Coordinates --> ROI Extraction --> Edge Detection --> Vertical Lin
 
 #### Stage 1: Computer Vision Baseline
 
-The CV stage performs geometric analysis using classical image processing techniques:
-
 | Step | Operation | Parameters |
 |------|-----------|------------|
 | 1 | ROI Extraction | 30px width x 150px height around data point |
@@ -148,8 +131,6 @@ VERTICAL_TOLERANCE = 3  # Max x-axis deviation
 ```
 
 #### Stage 2: ML Refinement
-
-The ML stage learns to correct systematic CV errors using extracted features:
 
 **Feature Categories (14 total):**
 
@@ -186,9 +167,9 @@ The ML stage learns to correct systematic CV errors using extracted features:
 ### Pipeline 2: Vision-Language Model Approach
 
 <p align="center">
-  <img src="figure 2.png" alt="Pipeline 2 Architecture" width="800">
+  <img src="figure 2.png" alt="Pipeline 2 Architecture" width="650">
 </p>
-<p align="center"><em>Figure 2: Vision-Language Model (VLM) Pipeline Architecture</em></p>
+<p align="center"><em>Figure 2: Vision-Language Model Pipeline</em></p>
 
 #### Architecture Overview
 
@@ -222,7 +203,7 @@ User Prompt (with coordinates) --> Tokenizer --> Text Tokens
 | Context Length | 32K tokens |
 | Image Resolution | Dynamic (up to 768px) |
 
-**Zero-Shot Configuration:**
+**Inference Configuration:**
 
 ```python
 MODEL_NAME = "Qwen/Qwen2.5-VL-7B-Instruct"
@@ -234,7 +215,7 @@ PRECISION = "float16"  # FP16 for T4 GPU
 
 #### Fine-tuning: Chartqwen
 
-The base model is fine-tuned using LoRA (Low-Rank Adaptation) for task-specific performance:
+The base model is fine-tuned using LoRA (Low-Rank Adaptation) for task-specific performance.
 
 **LoRA Configuration:**
 
@@ -258,8 +239,7 @@ The base model is fine-tuned using LoRA (Low-Rank Adaptation) for task-specific 
 | Warmup Ratio | 0.03 |
 | Max Gradient Norm | 1.0 |
 
-**Published Model:**
-- HuggingFace Hub: [`Sayeem26s/Chartqwen`](https://huggingface.co/Sayeem26s/Chartqwen)
+**Published Model:** [Sayeem26s/Chartqwen](https://huggingface.co/Sayeem26s/Chartqwen)
 
 #### Prompt Engineering
 
@@ -291,29 +271,20 @@ Output as JSON array:
 
 ## Results Summary
 
-### Comparative Performance (600 Test Images, 10,229 Data Points)
+### All Methods Comparison
 
-| Rank | Approach | Mean Error (px) | RMSE (px) | Acc@5px (%) | Acc@10px (%) | Acc@20px (%) |
-|:----:|----------|:---------------:|:---------:|:-----------:|:------------:|:------------:|
-| 1 | **CV Only (Baseline)** | **21.07** | **37.74** | 0.5 | **10.5** | **72.7** |
-| 2 | MLP Refinement | 23.93 | 36.36 | 0.0 | 2.7 | 52.3 |
-| 3 | Tuned MLP | 24.04 | 36.26 | 0.1 | 2.3 | 51.0 |
-| 4 | Linear Regression | 24.79 | 36.70 | 0.1 | 1.0 | 44.2 |
-| 5 | Ridge Regression | 24.79 | 36.70 | 0.1 | 1.0 | 44.2 |
-| 6 | Gradient Boosting | 27.67 | 56.71 | 0.1 | 6.3 | 65.3 |
-| 7 | Random Forest | 30.26 | 70.28 | 0.4 | 8.9 | 67.0 |
-| 8 | Basic CV + ROI | 34.38 | 52.50 | **16.84** | 29.35 | 44.27 |
-| 9 | Qwen2.5-VL (Zero-shot) | 40.22 | 67.77 | 17.50 | 27.18 | 44.09 |
-
-### Key Findings
-
-| Finding | Observation |
-|---------|-------------|
-| Best Overall Accuracy | CV Only achieves lowest mean error (21.07px) and highest Acc@20px (72.7%) |
-| ML Refinement | Does not improve over CV baseline; increases error by 13-44% |
-| VLM Zero-shot | Comparable to Basic CV but slower; 40.22px mean error |
-| Fine-tuning Impact | Chartqwen expected to improve over base Qwen2.5-VL |
-| Speed vs Accuracy | CV pipeline 100x faster than VLM approach |
+| Rank | Method | Test Set | Mean Error (px) | RMSE (px) | Acc@5px | Acc@10px | Acc@20px |
+|:----:|--------|:--------:|:---------------:|:---------:|:-------:|:--------:|:--------:|
+| 1 | **CV Only (Baseline)** | 600 img / 10,229 pts | **21.07** | 37.74 | 0.5% | 10.5% | **72.7%** |
+| 2 | MLP Refinement | 600 img / 10,229 pts | 23.93 | 36.36 | 0.0% | 2.7% | 52.3% |
+| 3 | Tuned MLP | 600 img / 10,229 pts | 24.04 | 36.26 | 0.1% | 2.3% | 51.0% |
+| 4 | Linear Regression | 600 img / 10,229 pts | 24.79 | 36.70 | 0.1% | 1.0% | 44.2% |
+| 5 | Ridge Regression | 600 img / 10,229 pts | 24.79 | 36.70 | 0.1% | 1.0% | 44.2% |
+| 6 | Gradient Boosting | 600 img / 10,229 pts | 27.67 | 56.71 | 0.1% | 6.3% | 65.3% |
+| 7 | Random Forest | 600 img / 10,229 pts | 30.26 | 70.28 | 0.4% | 8.9% | 67.0% |
+| 8 | Basic CV + ROI | 600 img / 10,229 pts | 34.38 | 52.50 | 16.8% | 29.4% | 44.3% |
+| 9 | Qwen2.5-VL (Zero-shot) | 600 img / 10,229 pts | 40.22 | 67.77 | 17.5% | 27.2% | 44.1% |
+| 10 | **Chartqwen (Fine-tuned)** | 100 img / 784 pts | 41.75 | 71.06 | 9.1% | 22.2% | 40.9% |
 
 ---
 
@@ -343,7 +314,7 @@ Output as JSON array:
 
 ### Pipeline 2: VLM Results
 
-#### Qwen2.5-VL Zero-Shot Performance
+#### Qwen2.5-VL Zero-Shot Performance (600 Images)
 
 | Metric | Value |
 |--------|:-----:|
@@ -357,7 +328,21 @@ Output as JSON array:
 | Accuracy @ 10px | 27.18% |
 | Accuracy @ 20px | 44.09% |
 
-### Basic CV + ROI Results
+#### Chartqwen Fine-tuned Performance (100 Images)
+
+| Metric | Value |
+|--------|:-----:|
+| Total Images | 100 |
+| Total Points | 784 |
+| Mean Top Error | 41.76 px |
+| Mean Bottom Error | 41.75 px |
+| Mean Overall Error | 41.75 px |
+| RMSE | 71.06 px |
+| Accuracy @ 5px | 9.06% |
+| Accuracy @ 10px | 22.19% |
+| Accuracy @ 20px | 40.94% |
+
+### Basic CV + ROI Results (600 Images)
 
 | Metric | Value |
 |--------|:-----:|
@@ -374,281 +359,35 @@ Output as JSON array:
 
 ---
 
-## Running on Kaggle Free Tier GPU
+## Key Findings
 
-### Prerequisites
-
-- Kaggle account (free)
-- GPU quota available (30 hours/week on free tier)
-- Dataset uploaded to Kaggle: `graph-plots`
-
-### Hardware Specifications (Kaggle Free Tier)
-
-| Component | Specification |
-|-----------|---------------|
-| GPU | NVIDIA Tesla T4 |
-| VRAM | 16 GB |
-| System RAM | 13 GB |
-| Disk | 73 GB |
-| Weekly Quota | 30 GPU hours |
+| Finding | Details |
+|---------|---------|
+| Best Overall | CV-only baseline achieves lowest mean error (21.07px) and highest Acc@20px (72.7%) |
+| ML Refinement | Does not improve over CV baseline; increases error by 13-44% |
+| VLM Zero-shot | Comparable to basic CV but significantly slower (40.22px mean error) |
+| Fine-tuning Impact | Chartqwen shows similar performance to base model on smaller test set |
+| Speed vs Accuracy | CV pipeline is ~100x faster than VLM approach |
 
 ---
 
-### Running Pipeline 1: CV + ROI + ML Refinement
-
-#### Step 1: Create New Kaggle Notebook
-
-1. Navigate to [kaggle.com/code](https://www.kaggle.com/code)
-2. Click **"+ New Notebook"**
-3. In **Settings** (right sidebar):
-   - Accelerator: **None** (CPU sufficient for CV pipeline)
-   - Internet: **On**
-
-#### Step 2: Add Dataset
-
-1. Click **"+ Add data"** in right sidebar
-2. Search for `graph-plots`
-3. Click **"Add"** to attach dataset
-
-#### Step 3: Upload Notebook
-
-1. Click **"File"** > **"Import Notebook"**
-2. Select one of:
-   - `Basic OpenCV + ROI/OpenCV + ROI.ipynb`
-   - `OpenCV + ROI (Geometry-Based Deterministic Pipeline) + ML Refinement/cv-ml-hybrid-errorbar-detection-new.ipynb`
-
-#### Step 4: Run All Cells
-
-1. Click **"Run All"** or press `Ctrl+Shift+Enter`
-2. Expected runtime: **5-15 minutes** (CPU)
-
-#### Expected Output Files
-
-```
-/kaggle/working/
-|-- per_image_metrics.csv
-|-- summary_metrics.csv
-|-- predictions/
-    |-- *.json (600 files)
-```
-
----
-
-### Running Pipeline 2: VLM Approach
-
-#### Option A: Zero-Shot Inference (Base Model)
-
-##### Step 1: Create New Kaggle Notebook
-
-1. Navigate to [kaggle.com/code](https://www.kaggle.com/code)
-2. Click **"+ New Notebook"**
-3. In **Settings** (right sidebar):
-   - Accelerator: **GPU T4 x2**
-   - Internet: **On** (required for model download)
-
-##### Step 2: Add Dataset
-
-1. Click **"+ Add data"** in right sidebar
-2. Search for `graph-plots`
-3. Click **"Add"** to attach dataset
-
-##### Step 3: Upload Notebook
-
-1. Click **"File"** > **"Import Notebook"**
-2. Select: `Zero shot QWEN2.5-VL-7B base & finetuned/Zero shot QWEN2.5-VL-7B inference.ipynb`
-
-##### Step 4: Run All Cells
-
-1. Click **"Run All"** or press `Ctrl+Shift+Enter`
-2. Expected runtime: **30-60 minutes** for 600 images
-3. GPU quota usage: ~0.5-1.0 hours
-
-#### Option B: Fine-tuned Model Inference (Chartqwen)
-
-##### Step 1: Create New Kaggle Notebook
-
-1. Navigate to [kaggle.com/code](https://www.kaggle.com/code)
-2. Click **"+ New Notebook"**
-3. In **Settings** (right sidebar):
-   - Accelerator: **GPU T4 x2**
-   - Internet: **On** (required for model download)
-
-##### Step 2: Add Dataset
-
-1. Click **"+ Add data"** in right sidebar
-2. Search for `graph-plots`
-3. Click **"Add"** to attach dataset
-
-##### Step 3: Upload Notebook
-
-1. Click **"File"** > **"Import Notebook"**
-2. Select: `Zero shot QWEN2.5-VL-7B base & finetuned/Chartqwen inference.ipynb`
-
-##### Step 4: Run All Cells
-
-1. Click **"Run All"** or press `Ctrl+Shift+Enter`
-2. Expected runtime: **1-3 minutes** for 100 images (optimized)
-3. GPU quota usage: ~0.03-0.05 hours
-
-#### Option C: Fine-tuning (Training Chartqwen)
-
-> **Note:** Fine-tuning requires approximately 1-1.5 hours of GPU time.
-
-##### Step 1: Create New Kaggle Notebook
-
-1. Navigate to [kaggle.com/code](https://www.kaggle.com/code)
-2. Click **"+ New Notebook"**
-3. In **Settings** (right sidebar):
-   - Accelerator: **GPU T4 x2**
-   - Internet: **On**
-
-##### Step 2: Add Dataset
-
-1. Click **"+ Add data"** in right sidebar
-2. Search for `graph-plots`
-3. Click **"Add"** to attach dataset
-
-##### Step 3: Add HuggingFace Token Secret
-
-1. In **Settings**, scroll to **"Secrets"**
-2. Click **"Add a new secret"**
-3. Name: `HF_TOKEN`
-4. Value: Your HuggingFace write token from [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
-
-##### Step 4: Upload and Run Notebook
-
-1. Click **"File"** > **"Import Notebook"**
-2. Select: `Zero shot QWEN2.5-VL-7B base & finetuned/qwen2-5-vl-error-bar-detection-fine-tuning.ipynb`
-3. Run all cells
-4. Model will be uploaded to HuggingFace Hub upon completion
-
----
-
-### GPU Memory Optimization Tips
-
-For VLM pipelines on Kaggle T4 GPU (16GB VRAM):
-
-| Optimization | Setting | Impact |
-|--------------|---------|--------|
-| Precision | FP16 (float16) | 50% memory reduction |
-| Image Size | 512px max | 40% faster processing |
-| Max Tokens | 512 | 50% faster generation |
-| Memory Clearing | Every 10 images | Prevents OOM errors |
-| Batch Size | 1 | VLMs require small batches |
-
-**Optimized Configuration (Chartqwen inference):**
-
-```python
-IMAGE_MAX_SIZE = 512      # Aggressive reduction for T4
-MAX_NEW_TOKENS = 512      # Minimal tokens for speed
-TEMPERATURE = 0.0         # Deterministic outputs
-torch_dtype = torch.float16  # FP16 precision
-```
-
----
-
-### Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| CUDA Out of Memory | Reduce `IMAGE_MAX_SIZE` to 384 or 256 |
-| Model Download Fails | Enable Internet in notebook settings |
-| Slow Inference | Ensure GPU accelerator is selected |
-| Import Errors | Run pip install cell first |
-| Dataset Not Found | Verify dataset is attached to notebook |
-
----
-
-## Dataset Format
-
-### Input Labels (test_labels/)
-
-```json
-{
-  "image_file": "00271e61-86e3-453f-8101-fe906ae927eb.png",
-  "data_points": [
-    {
-      "lineName": "Line 1",
-      "points": [
-        {"x": 96.6, "y": 70.9},
-        {"x": 120.3, "y": 85.2}
-      ]
-    }
-  ]
-}
-```
-
-### Ground Truth Labels (labels/)
-
-```json
-[
-  {
-    "lineName": "Line 1",
-    "points": [
-      {
-        "x": 96.6,
-        "y": 70.9,
-        "label": "",
-        "topBarPixelDistance": 15.5,
-        "bottomBarPixelDistance": 15.5,
-        "deviationPixelDistance": 15.5
-      }
-    ]
-  }
-]
-```
-
----
-
-## Output Format
-
-### Prediction JSON
-
-```json
-{
-  "image_file": "00271e61-86e3-453f-8101-fe906ae927eb.png",
-  "model": "Chartqwen",
-  "error_bars": [
-    {
-      "lineName": "",
-      "points": [
-        {
-          "data_point": {"x": 96.6, "y": 70.9},
-          "upper_error_bar": {"x": 96.6, "y": 55.4},
-          "lower_error_bar": {"x": 96.6, "y": 86.4}
-        }
-      ]
-    }
-  ]
-}
-```
-
-### Metrics CSV
-
-**Summary Metrics:**
-
-| Column | Description |
-|--------|-------------|
-| Metric | Name of the metric |
-| Value | Numeric value |
-
-**Per-Image Metrics:**
-
-| Column | Description |
-|--------|-------------|
-| Image | Image filename |
-| Points | Number of data points |
-| Mean_Top_Error | Average top error (px) |
-| Mean_Bottom_Error | Average bottom error (px) |
-| Mean_Overall_Error | Average error (px) |
-| Max_Top_Error | Maximum top error (px) |
-| Max_Bottom_Error | Maximum bottom error (px) |
+## Running the Notebooks
+
+All notebooks run on **Kaggle Free Tier T4 GPU** (30 hrs/week quota).
+
+| Notebook | GPU | Runtime |
+|----------|:---:|:-------:|
+| OpenCV + ROI.ipynb | CPU | ~10 min |
+| cv-ml-hybrid-errorbar-detection-new.ipynb | CPU | ~15 min |
+| Zero shot QWEN2.5-VL-7B inference.ipynb | T4 | ~45 min |
+| qwen2-5-vl-error-bar-detection-fine-tuning.ipynb | T4 | ~1.5 hr |
+| Chartqwen inference.ipynb | T4 | ~3 min |
 
 ---
 
 ## Model Artifacts
 
-### Published Models
+### Published Model
 
 | Model | Hub | Link |
 |-------|-----|------|
@@ -691,31 +430,6 @@ processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
 - [Transformers](https://huggingface.co/docs/transformers) - Model loading and inference
 - [PEFT](https://huggingface.co/docs/peft) - Parameter-efficient fine-tuning
 - [scikit-learn](https://scikit-learn.org/) - Machine learning models
-
-### Platform
-
-- [Kaggle Notebooks](https://www.kaggle.com/docs/notebooks) - GPU compute environment
-
----
-
-## License
-
-This project is provided for educational and research purposes.
-
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{error-bar-detection-2024,
-  title={Error Bar Detection in Scientific Charts using CV and VLM Approaches},
-  author={Sayeem},
-  year={2024},
-  howpublished={\url{https://github.com/Sayeem-Velocity/Error-Bar-Detection-Project}}
-}
-```
 
 ---
 

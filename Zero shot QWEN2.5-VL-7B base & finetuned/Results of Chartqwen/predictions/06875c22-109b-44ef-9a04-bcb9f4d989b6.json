@@ -1,0 +1,137 @@
+{
+  "image_file": "06875c22-109b-44ef-9a04-bcb9f4d989b6.png",
+  "model": "Chartqwen",
+  "error_bars": [
+    {
+      "lineName": "",
+      "points": [
+        {
+          "data_point": {
+            "x": 134.7,
+            "y": 172.9
+          },
+          "upper_error_bar": {
+            "x": 134.7,
+            "y": 162.4
+          },
+          "lower_error_bar": {
+            "x": 134.7,
+            "y": 183.4
+          }
+        },
+        {
+          "data_point": {
+            "x": 165.2,
+            "y": 213.0
+          },
+          "upper_error_bar": {
+            "x": 165.2,
+            "y": 202.5
+          },
+          "lower_error_bar": {
+            "x": 165.2,
+            "y": 223.5
+          }
+        },
+        {
+          "data_point": {
+            "x": 267.2,
+            "y": 277.5
+          },
+          "upper_error_bar": {
+            "x": 267.2,
+            "y": 267.0
+          },
+          "lower_error_bar": {
+            "x": 267.2,
+            "y": 288.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 268.4,
+            "y": 256.9
+          },
+          "upper_error_bar": {
+            "x": 268.4,
+            "y": 246.39999999999998
+          },
+          "lower_error_bar": {
+            "x": 268.4,
+            "y": 267.4
+          }
+        },
+        {
+          "data_point": {
+            "x": 276.3,
+            "y": 269.2
+          },
+          "upper_error_bar": {
+            "x": 276.3,
+            "y": 258.7
+          },
+          "lower_error_bar": {
+            "x": 276.3,
+            "y": 279.7
+          }
+        },
+        {
+          "data_point": {
+            "x": 313.3,
+            "y": 288.2
+          },
+          "upper_error_bar": {
+            "x": 313.3,
+            "y": 277.7
+          },
+          "lower_error_bar": {
+            "x": 313.3,
+            "y": 298.7
+          }
+        },
+        {
+          "data_point": {
+            "x": 389.1,
+            "y": 353.7
+          },
+          "upper_error_bar": {
+            "x": 389.1,
+            "y": 343.2
+          },
+          "lower_error_bar": {
+            "x": 389.1,
+            "y": 364.2
+          }
+        },
+        {
+          "data_point": {
+            "x": 583.2,
+            "y": 409.2
+          },
+          "upper_error_bar": {
+            "x": 583.2,
+            "y": 398.7
+          },
+          "lower_error_bar": {
+            "x": 583.2,
+            "y": 419.7
+          }
+        },
+        {
+          "data_point": {
+            "x": 659.1,
+            "y": 383.3
+          },
+          "upper_error_bar": {
+            "x": 659.1,
+            "y": 372.8
+          },
+          "lower_error_bar": {
+            "x": 659.1,
+            "y": 393.8
+          }
+        }
+      ]
+    }
+  ]
+}

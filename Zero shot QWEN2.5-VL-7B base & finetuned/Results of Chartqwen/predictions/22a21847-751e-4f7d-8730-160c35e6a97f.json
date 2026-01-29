@@ -1,0 +1,109 @@
+{
+  "image_file": "22a21847-751e-4f7d-8730-160c35e6a97f.png",
+  "model": "Chartqwen",
+  "error_bars": [
+    {
+      "lineName": "",
+      "points": [
+        {
+          "data_point": {
+            "x": 118.0,
+            "y": 84.9
+          },
+          "upper_error_bar": {
+            "x": 118.0,
+            "y": 74.9
+          },
+          "lower_error_bar": {
+            "x": 118.0,
+            "y": 94.9
+          }
+        },
+        {
+          "data_point": {
+            "x": 240.6,
+            "y": 223.5
+          },
+          "upper_error_bar": {
+            "x": 240.6,
+            "y": 213.5
+          },
+          "lower_error_bar": {
+            "x": 240.6,
+            "y": 233.5
+          }
+        },
+        {
+          "data_point": {
+            "x": 249.4,
+            "y": 234.6
+          },
+          "upper_error_bar": {
+            "x": 249.4,
+            "y": 224.6
+          },
+          "lower_error_bar": {
+            "x": 249.4,
+            "y": 244.6
+          }
+        },
+        {
+          "data_point": {
+            "x": 257.6,
+            "y": 244.4
+          },
+          "upper_error_bar": {
+            "x": 257.6,
+            "y": 234.4
+          },
+          "lower_error_bar": {
+            "x": 257.6,
+            "y": 254.4
+          }
+        },
+        {
+          "data_point": {
+            "x": 465.8,
+            "y": 376.3
+          },
+          "upper_error_bar": {
+            "x": 465.8,
+            "y": 366.3
+          },
+          "lower_error_bar": {
+            "x": 465.8,
+            "y": 386.3
+          }
+        },
+        {
+          "data_point": {
+            "x": 481.7,
+            "y": 380.3
+          },
+          "upper_error_bar": {
+            "x": 481.7,
+            "y": 370.3
+          },
+          "lower_error_bar": {
+            "x": 481.7,
+            "y": 390.3
+          }
+        },
+        {
+          "data_point": {
+            "x": 515.5,
+            "y": 387.5
+          },
+          "upper_error_bar": {
+            "x": 515.5,
+            "y": 377.5
+          },
+          "lower_error_bar": {
+            "x": 515.5,
+            "y": 397.5
+          }
+        }
+      ]
+    }
+  ]
+}

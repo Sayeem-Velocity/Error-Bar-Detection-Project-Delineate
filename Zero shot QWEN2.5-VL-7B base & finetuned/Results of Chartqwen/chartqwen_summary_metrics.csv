@@ -1,0 +1,11 @@
+Metric,Value
+Method,Chartqwen (Fine-tuned Qwen2.5-VL)
+Total Images,100
+Total Points,784
+Mean Top Error (px),41.76
+Mean Bottom Error (px),41.75
+Mean Overall Error (px),41.75
+RMSE (px),71.06
+Accuracy @ 5px (%),9.06
+Accuracy @ 10px (%),22.19
+Accuracy @ 20px (%),40.94

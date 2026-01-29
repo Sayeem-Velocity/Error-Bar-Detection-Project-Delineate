@@ -1,0 +1,81 @@
+{
+  "image_file": "26a44c0c-46a4-408a-b05f-4808d905192e.png",
+  "model": "Chartqwen",
+  "error_bars": [
+    {
+      "lineName": "",
+      "points": [
+        {
+          "data_point": {
+            "x": 125.7,
+            "y": 408.4
+          },
+          "upper_error_bar": {
+            "x": 125.7,
+            "y": 397.9
+          },
+          "lower_error_bar": {
+            "x": 125.7,
+            "y": 418.9
+          }
+        },
+        {
+          "data_point": {
+            "x": 152.6,
+            "y": 363.4
+          },
+          "upper_error_bar": {
+            "x": 152.6,
+            "y": 352.9
+          },
+          "lower_error_bar": {
+            "x": 152.6,
+            "y": 373.9
+          }
+        },
+        {
+          "data_point": {
+            "x": 429.0,
+            "y": 218.5
+          },
+          "upper_error_bar": {
+            "x": 429.0,
+            "y": 208.0
+          },
+          "lower_error_bar": {
+            "x": 429.0,
+            "y": 229.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 472.6,
+            "y": 133.2
+          },
+          "upper_error_bar": {
+            "x": 472.6,
+            "y": 122.69999999999999
+          },
+          "lower_error_bar": {
+            "x": 472.6,
+            "y": 143.7
+          }
+        },
+        {
+          "data_point": {
+            "x": 618.9,
+            "y": 69.0
+          },
+          "upper_error_bar": {
+            "x": 618.9,
+            "y": 58.5
+          },
+          "lower_error_bar": {
+            "x": 618.9,
+            "y": 79.0
+          }
+        }
+      ]
+    }
+  ]
+}
