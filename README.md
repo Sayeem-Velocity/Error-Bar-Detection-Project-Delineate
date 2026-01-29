@@ -23,7 +23,61 @@ This project was completed as a two-phase assignment:
 | **1** | Synthetic Data Generation | Generated 3,000 synthetic scientific plots with ground truth error bar annotations |
 | **2** | Error Bar Detection | Developed detection pipelines to automatically measure error bars from plot images |
 
-**Dataset:** [Google Drive - Synthetic Plots Dataset](https://drive.google.com/drive/folders/1Xm35AgzmbG1gSHRStqrMRqYmUwfLfbSo)
+---
+
+## Phase 1: Synthetic Data Generation
+
+**Script:** `generate_synthetic_plots.py`
+
+A custom Python script was developed to generate 3,000 synthetic scientific plots with pixel-perfect error bar annotations. The generator uses matplotlib as the single source of truth for coordinate transformations.
+
+### Generation Process
+
+**Plot Types:**
+- Pharmacokinetic (PK) profiles - concentration vs time curves
+- Biomarker responses - various temporal patterns (increasing, decreasing, plateau, flat)
+
+**Plot Styles:**
+- Line plots with error bars (45%)
+- Scatter plots with error bars (25%)
+- Bar charts with error bars (20%)
+- Mixed styles (10%)
+
+**Complexity Distribution:**
+- Simple (1 data series): 40%
+- Medium (2 data series): 35%
+- Complex (3-4 data series): 25%
+
+**Error Bar Patterns:**
+- Symmetric error bars: 20-28%
+- Asymmetric (top-heavy): 20%
+- Asymmetric (bottom-heavy): 20%
+- CV-based variability: 25%
+- No error bar: 12-15% of points
+
+**Visual Diversity:**
+- 15 marker styles (circle, square, triangle, diamond, etc.)
+- 4 color palettes + random colors (25%)
+- 6 line styles (solid, dashed, dotted, etc.)
+- Variable grid styles, spine visibility, and tick parameters
+- Optional titles and legends
+
+### Key Features
+
+| Feature | Description |
+|---------|-------------|
+| **Pixel-Perfect Annotations** | Matplotlib's coordinate transformation ensures exact pixel positions |
+| **Asymmetric Error Bars** | Top and bottom error bars can differ (realistic clinical data) |
+| **Rich Metadata** | Each plot labeled with drug names, biomarkers, doses, treatment groups |
+| **Axis Bounds** | xmin, xmax, ymin, ymax positions included for reference |
+
+### Dataset Split
+
+The generated 3,000 images were split into:
+- **Training Set**: 2,400 images (80%)
+- **Test Set**: 600 images (20%)
+
+**Kaggle Dataset:** [graph-plots](https://www.kaggle.com/datasets/shahriar26s/graph-plots)
 
 ---
 
@@ -43,8 +97,9 @@ Error-Bar-Detection-Project/
 |
 |-- README.md
 |-- .gitignore
-|-- figure 1.png                              # Pipeline 1 architecture
-|-- figure 2.png                              # Pipeline 2 architecture
+|-- generate_synthetic_plots.py                # Synthetic data generation script
+|-- figure 1.png                                # Pipeline 1 architecture
+|-- figure 2.png                                # Pipeline 2 architecture
 |
 |-- Basic OpenCV + ROI/
 |   |-- OpenCV + ROI.ipynb
