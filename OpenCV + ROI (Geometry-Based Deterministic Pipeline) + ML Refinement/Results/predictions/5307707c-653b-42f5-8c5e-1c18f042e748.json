@@ -1,0 +1,116 @@
+{
+  "image_file": "5307707c-653b-42f5-8c5e-1c18f042e748.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_500mg_Low"
+      },
+      "points": [
+        {
+          "x": 76.9227224623605,
+          "y": 145.37116936905994,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 267.62017150812994,
+          "y": 336.5482994676096,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 374.7694498100035,
+          "y": 387.8938500860668,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 431.47338613843436,
+          "y": 400.64844392899175,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 446.421007275736,
+          "y": 403.06853439807185,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 611.6202478564752,
+          "y": 416.16498562955417,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Pembrolizumab_100mg_High"
+      },
+      "points": [
+        {
+          "x": 76.59925512174262,
+          "y": 103.51190477684435,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 130.20497854250567,
+          "y": 49.43940401558183,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 156.6322849970849,
+          "y": 97.73154416677909,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 303.3697124177184,
+          "y": 290.97247853059895,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 332.2902099272549,
+          "y": 313.5263820581061,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 336.2693691676384,
+          "y": 316.34481428055153,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

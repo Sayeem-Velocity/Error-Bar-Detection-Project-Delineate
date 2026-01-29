@@ -1,0 +1,132 @@
+{
+  "image_file": "1277fbd6-8d99-4b78-a299-e460fc1a4c7d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ipilimumab_10mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 109.25955127385414,
+          "y": 82.91835983925353,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 190.56166271835195,
+          "y": 77.83141930522015,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 202.30023259426545,
+          "y": 92.61021735301574,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 212.92934346556967,
+          "y": 106.39164699183334,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 215.93599488027957,
+          "y": 110.31366545464766,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 224.15971412595152,
+          "y": 121.02845853809265,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 249.90152238318353,
+          "y": 153.74046764543334,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 645.8343790921745,
+          "y": 389.3384527960584,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_0.1mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 151.8877234303125,
+          "y": 265.7046008602872,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 214.95022729539428,
+          "y": 324.26415212218274,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 234.93808138055678,
+          "y": 338.18309604514667,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 287.43697641564114,
+          "y": 366.0545942986204,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 289.96592214380735,
+          "y": 367.13324474903703,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 429.61675269924046,
+          "y": 403.20221789058104,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

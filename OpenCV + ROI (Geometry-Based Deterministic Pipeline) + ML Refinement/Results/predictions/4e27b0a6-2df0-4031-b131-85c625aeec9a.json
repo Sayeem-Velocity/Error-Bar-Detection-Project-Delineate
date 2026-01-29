@@ -1,0 +1,132 @@
+{
+  "image_file": "4e27b0a6-2df0-4031-b131-85c625aeec9a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 81.57838858695652,
+          "y": 280.98868793948645,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 98.2036557690799,
+          "y": 257.7092862462321,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 260.729046202869,
+          "y": 338.18526291013967,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 585.7076547859385,
+          "y": 411.70028352209545,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 662.4002621024764,
+          "y": 416.1096210757262,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Nivolumab_500mg_single"
+      },
+      "points": [
+        {
+          "x": 71.61609236737667,
+          "y": 175.92668249913163,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 164.45039582942428,
+          "y": 77.48958959055403,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 187.32872236935833,
+          "y": 99.52315888038373,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 236.1676033389886,
+          "y": 145.59162580132477,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 241.54309425581593,
+          "y": 150.36353753024974,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 276.0747175182808,
+          "y": 179.35224522955468,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 307.2729571352604,
+          "y": 203.11436872926691,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 365.86201251102773,
+          "y": 242.08141724600756,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 373.1133053720499,
+          "y": 246.4365544798864,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

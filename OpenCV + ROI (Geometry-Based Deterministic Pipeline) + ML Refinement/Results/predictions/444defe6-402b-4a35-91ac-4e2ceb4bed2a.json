@@ -1,0 +1,124 @@
+{
+  "image_file": "444defe6-402b-4a35-91ac-4e2ceb4bed2a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_200mg_QD"
+      },
+      "points": [
+        {
+          "x": 86.26634100785934,
+          "y": 150.99999277057316,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 181.82593984102817,
+          "y": 82.34842243669482,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 204.9730738766446,
+          "y": 110.62901607460634,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 394.8390692462119,
+          "y": 278.08401945534297,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 518.1766068468019,
+          "y": 336.11993750480076,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 526.2863907931239,
+          "y": 339.02860576750805,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 605.8913407397681,
+          "y": 363.1067728899045,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 630.3739385975057,
+          "y": 369.10403004414997,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Etanercept_100mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 126.60109800901147,
+          "y": 307.29836245535023,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 161.49882414774174,
+          "y": 297.5724018979803,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 265.98919289877034,
+          "y": 335.5751741131362,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 292.52782824941187,
+          "y": 347.4167049221658,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 472.45073438738757,
+          "y": 403.1107688359117,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

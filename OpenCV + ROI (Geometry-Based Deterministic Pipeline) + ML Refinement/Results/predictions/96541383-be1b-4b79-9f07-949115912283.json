@@ -1,0 +1,93 @@
+{
+  "image_file": "96541383-be1b-4b79-9f07-949115912283.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Durvalumab_500mg_multi"
+      },
+      "points": [
+        {
+          "x": 92.40104623363305,
+          "y": 94.18202125347312,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 220.68425279461536,
+          "y": 305.1875062464548,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 332.72574336114826,
+          "y": 379.6841038636197,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 432.5588506186306,
+          "y": 408.9919968082165,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 492.8103415736946,
+          "y": 418.42734605657347,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 518.5261055555505,
+          "y": 421.30389431565624,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 542.332874449654,
+          "y": 423.50636898147627,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 572.2498855433759,
+          "y": 425.7612739452532,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 649.1830830531744,
+          "y": 429.66010906851346,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 651.3186036905433,
+          "y": 429.73891613776505,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

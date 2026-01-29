@@ -1,0 +1,85 @@
+{
+  "image_file": "a8fdbf90-9215-4b9c-a1cc-5fbfb32b9a3b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Platelets_Mid"
+      },
+      "points": [
+        {
+          "x": 103.50904541277859,
+          "y": 399.2806109542487,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 112.90376046674629,
+          "y": 367.83389838779476,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 180.17412554784218,
+          "y": 217.0789876727498,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 305.0618859020826,
+          "y": 114.80843662238726,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 390.01443103656703,
+          "y": 93.8842181910303,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 465.3157438878287,
+          "y": 86.29377186663771,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 475.0086031569324,
+          "y": 85.69994232427905,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 592.8487492492915,
+          "y": 81.87632886860001,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 631.3831050954396,
+          "y": 81.38121137830922,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

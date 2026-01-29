@@ -1,0 +1,77 @@
+{
+  "image_file": "bddc74a7-2ad6-446c-bec1-ef4bd971ad72.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_3mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 89.80291617990915,
+          "y": 113.60705213699617,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 158.2222892822463,
+          "y": 82.01176723833538,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 220.11248977939522,
+          "y": 175.8984082329555,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 315.6184292694389,
+          "y": 281.3530097314138,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 351.2858273381417,
+          "y": 308.63268160477054,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 362.52699984563344,
+          "y": 316.1649564395929,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 367.004549293658,
+          "y": 319.03594154320587,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 651.0177742010392,
+          "y": 409.1331972213699,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

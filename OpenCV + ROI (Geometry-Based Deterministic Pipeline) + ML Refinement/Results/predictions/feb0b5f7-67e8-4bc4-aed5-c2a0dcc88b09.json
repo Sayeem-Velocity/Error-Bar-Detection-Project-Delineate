@@ -1,0 +1,69 @@
+{
+  "image_file": "feb0b5f7-67e8-4bc4-aed5-c2a0dcc88b09.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_0.1mg_kg_CohortA"
+      },
+      "points": [
+        {
+          "x": 118.63797318886401,
+          "y": 69.34184572649764,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 127.89071179626427,
+          "y": 76.98873098869973,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 218.46299232471978,
+          "y": 152.03292049142266,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 243.2019198706903,
+          "y": 171.92894016844042,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 485.1223737047702,
+          "y": 337.1334445363515,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 521.8358902126196,
+          "y": 357.2806165039803,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 636.905797331948,
+          "y": 412.91668788757505,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "image_file": "6a591762-f536-48dc-9e84-18e61e2ae809.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_0.1mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 127.31051649328069,
+          "y": 318.93901713389016,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 213.66225443977186,
+          "y": 354.25143892454855,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 280.6694645639585,
+          "y": 381.85898281036646,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 481.1708076585264,
+          "y": 420.2959367024756,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Trastuzumab_10mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 126.84678534764039,
+          "y": 175.9689299205122,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 167.90112710812417,
+          "y": 220.10368755118498,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 307.3708498372857,
+          "y": 332.240140363985,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 344.9052637172905,
+          "y": 350.4935281912401,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 383.44562304734694,
+          "y": 365.6937813258802,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 401.88285281294026,
+          "y": 371.9000104657472,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 460.7063572056658,
+          "y": 387.9676637275315,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_50mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 101.57359655805377,
+          "y": 152.32477003902198,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 185.80649425964896,
+          "y": 92.73766577885067,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 471.41863057038364,
+          "y": 304.1195738763355,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 482.89696219778534,
+          "y": 309.1907123169607,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_200mg_BID"
+      },
+      "points": [
+        {
+          "x": 199.23644319634536,
+          "y": 339.5140057317834,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 385.9965287221571,
+          "y": 389.9253943001627,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 396.05095408798337,
+          "y": 391.54166714366204,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 579.5049968657838,
+          "y": 410.4268478485272,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 628.8659723782637,
+          "y": 413.19031060378666,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

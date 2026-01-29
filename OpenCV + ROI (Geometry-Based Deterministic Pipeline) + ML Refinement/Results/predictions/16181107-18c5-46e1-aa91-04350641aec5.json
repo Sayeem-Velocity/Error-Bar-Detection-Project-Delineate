@@ -1,0 +1,69 @@
+{
+  "image_file": "16181107-18c5-46e1-aa91-04350641aec5.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Glucose_TrtA"
+      },
+      "points": [
+        {
+          "x": 116.02772927275745,
+          "y": 60.51930812653052,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 239.7438808209184,
+          "y": 357.47148385925146,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 350.4634480393386,
+          "y": 383.70284069709726,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 466.27451853600746,
+          "y": 382.31308386664466,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 487.7387228862318,
+          "y": 386.8407342367204,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 503.00949048368193,
+          "y": 349.2388996795618,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 629.0024941985054,
+          "y": 401.5754684022065,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

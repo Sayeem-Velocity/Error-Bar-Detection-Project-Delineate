@@ -1,0 +1,147 @@
+{
+  "image_file": "ae7f5fae-10cd-41c7-a80f-ce84aad3a729.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_0.3mg_kg_TrtB"
+      },
+      "points": [
+        {
+          "x": 122.13216560045768,
+          "y": 251.9127512562711,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 210.69506196884294,
+          "y": 320.80857898813804,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 263.7755007868357,
+          "y": 353.2693525989463,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 280.6206555497697,
+          "y": 361.54281138414655,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 449.6466890910903,
+          "y": 409.7303100937155,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 550.0311310976749,
+          "y": 421.4697279638337,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 600.1227712363982,
+          "y": 425.0462400021219,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Etanercept_200mg_TrtA"
+      },
+      "points": [
+        {
+          "x": 187.50488300841005,
+          "y": 165.60352597780013,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 347.8409430381438,
+          "y": 366.37059344440917,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 522.9971395087457,
+          "y": 414.5811853704424,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 631.0119678845485,
+          "y": 422.2299728236844,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_50mg_Control"
+      },
+      "points": [
+        {
+          "x": 138.47908338292456,
+          "y": 70.3793538605994,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 188.31537295317048,
+          "y": 109.09903068342874,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 500.58988484320247,
+          "y": 353.9250895072678,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 565.1806169155719,
+          "y": 373.8121277263299,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image_file": "cc985bc4-2973-44c8-a3cf-53c1dc9c916c.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Pembrolizumab_200mg_QD"
+      },
+      "points": [
+        {
+          "x": 92.37755555818207,
+          "y": 153.12064102376218,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 107.10389392328966,
+          "y": 99.6966899993572,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 165.322271510316,
+          "y": 77.89167943870495,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 422.8910082137849,
+          "y": 314.284710948423,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 450.64217505641307,
+          "y": 330.4656835282274,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 464.6523653586454,
+          "y": 338.0307409013219,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 485.2748694583994,
+          "y": 348.4825314146724,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 502.6499751357992,
+          "y": 356.695072613938,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 605.7936254121945,
+          "y": 396.0001460659319,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 653.6890354306208,
+          "y": 409.76752358610014,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

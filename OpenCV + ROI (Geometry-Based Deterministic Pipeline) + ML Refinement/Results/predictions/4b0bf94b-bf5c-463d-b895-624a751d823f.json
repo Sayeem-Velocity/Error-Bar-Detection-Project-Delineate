@@ -1,0 +1,124 @@
+{
+  "image_file": "4b0bf94b-bf5c-463d-b895-624a751d823f.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Troponin-I_Placebo"
+      },
+      "points": [
+        {
+          "x": 80.88492373052851,
+          "y": 161.67428236324463,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 169.2860889528729,
+          "y": 289.61627708054874,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 243.17998091005597,
+          "y": 355.6890851597773,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 275.2533135484522,
+          "y": 390.7223214651952,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 461.9106512734494,
+          "y": 437.4487087116131,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 486.1705643655954,
+          "y": 443.7335751345332,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "VEGF_Control"
+      },
+      "points": [
+        {
+          "x": 90.33775578713526,
+          "y": 247.2636109821441,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 115.9625394949012,
+          "y": 208.46242232324448,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 140.94304643284102,
+          "y": 178.12201041542335,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 171.70961324698044,
+          "y": 148.7795753342446,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 201.26312017419718,
+          "y": 127.11099711951385,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 620.9758608411372,
+          "y": 55.21535238892881,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 634.2382283342899,
+          "y": 55.00732211088058,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

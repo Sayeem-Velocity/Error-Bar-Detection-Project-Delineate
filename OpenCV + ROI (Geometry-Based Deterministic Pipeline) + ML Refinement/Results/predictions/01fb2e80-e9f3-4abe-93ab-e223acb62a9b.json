@@ -1,0 +1,77 @@
+{
+  "image_file": "01fb2e80-e9f3-4abe-93ab-e223acb62a9b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Solanezumab_50mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 124.21029924281781,
+          "y": 48.73321890175856,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 196.55225903457236,
+          "y": 149.89028051402238,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 242.6921009418391,
+          "y": 207.57660045091563,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 370.0692719234303,
+          "y": 319.2709240161096,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 427.13865667491245,
+          "y": 351.9669641439391,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 486.6089819093337,
+          "y": 378.11734317234175,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 565.0849385718417,
+          "y": 403.39002923618034,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 619.2926049555816,
+          "y": 416.26387689984193,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "image_file": "6da6d28b-13f6-4e2a-ba66-8b59789fd0cf.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "ALT_Control"
+      },
+      "points": [
+        {
+          "x": 109.94871453931964,
+          "y": 416.16265734358115,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 114.53252213706985,
+          "y": 406.25360589284406,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 225.93515031677305,
+          "y": 339.50401178226133,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 433.3233560197496,
+          "y": 219.81885994675594,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 437.7048647967997,
+          "y": 226.23134350264849,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 524.5965777112701,
+          "y": 173.54113797524957,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 601.8044254160974,
+          "y": 104.24677733888763,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 618.6814793347999,
+          "y": 69.80981822025257,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

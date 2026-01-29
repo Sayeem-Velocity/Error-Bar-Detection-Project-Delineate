@@ -1,0 +1,37 @@
+{
+  "image_file": "7b3753a7-af0e-43cf-9604-377ba1aadb5e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_500mg_BID"
+      },
+      "points": [
+        {
+          "x": 125.69087198816351,
+          "y": 52.24979271484335,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 256.53323806321987,
+          "y": 62.3141631470844,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 636.6593735497388,
+          "y": 402.8999617472573,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

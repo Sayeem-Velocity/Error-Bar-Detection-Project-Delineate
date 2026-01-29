@@ -1,0 +1,132 @@
+{
+  "image_file": "5372bd49-5ad3-405d-aadb-48c033bd7c39.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_100mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 120.13564514063447,
+          "y": 74.74804316747179,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 147.49635305939438,
+          "y": 96.8369387815095,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 210.4710924857611,
+          "y": 157.54669533010656,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 265.83565996406026,
+          "y": 204.80143503981287,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 314.5190966514182,
+          "y": 238.77937565255155,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 342.8331806880218,
+          "y": 255.5302312418681,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 519.3153610702207,
+          "y": 323.5409138747409,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 540.0255110385623,
+          "y": 328.55121341927116,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_100mg_BID"
+      },
+      "points": [
+        {
+          "x": 210.4316597677441,
+          "y": 294.3124112570131,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 316.650904772187,
+          "y": 364.61234821531957,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 519.3181190732414,
+          "y": 403.06829661117695,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 526.1756593266948,
+          "y": 403.53032321690625,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 585.5917985440761,
+          "y": 406.5654564352637,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 639.1080089965049,
+          "y": 408.23618001190056,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

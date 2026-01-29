@@ -1,0 +1,76 @@
+{
+  "image_file": "3a8a92db-ab91-4725-90ca-4b2ab2d1930e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_500mg_QW"
+      },
+      "points": [
+        {
+          "x": 124.04957362134157,
+          "y": 206.86301513250748,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 394.95075917531574,
+          "y": 362.63800463458745,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 407.9564568673796,
+          "y": 366.0892716636949,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 506.65126195930776,
+          "y": 386.1455140913709,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_100mg_Mid"
+      },
+      "points": [
+        {
+          "x": 101.52267835400474,
+          "y": 67.56198719075758,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 186.6475396664954,
+          "y": 140.78346633882325,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 651.8948203638666,
+          "y": 379.08728376250343,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

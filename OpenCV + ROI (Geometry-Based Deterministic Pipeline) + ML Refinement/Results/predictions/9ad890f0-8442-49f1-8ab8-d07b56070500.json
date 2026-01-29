@@ -1,0 +1,108 @@
+{
+  "image_file": "9ad890f0-8442-49f1-8ab8-d07b56070500.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_200mg_Low"
+      },
+      "points": [
+        {
+          "x": 101.26729308590046,
+          "y": 88.1939750434642,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 102.99105265635,
+          "y": 87.87255038542003,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 248.91526292164838,
+          "y": 265.3887909842863,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 333.1301229774947,
+          "y": 327.4070647903794,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 424.0173957703617,
+          "y": 368.85021735651713,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 426.3477873735371,
+          "y": 369.6643862919174,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Solanezumab_0.3mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 299.7488560448296,
+          "y": 352.82758552845877,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 369.12711484991,
+          "y": 385.2182880204827,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 435.38086731650947,
+          "y": 404.59439760958935,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 571.1415173151952,
+          "y": 424.66953920140946,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 625.6155977871891,
+          "y": 428.6543151361942,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

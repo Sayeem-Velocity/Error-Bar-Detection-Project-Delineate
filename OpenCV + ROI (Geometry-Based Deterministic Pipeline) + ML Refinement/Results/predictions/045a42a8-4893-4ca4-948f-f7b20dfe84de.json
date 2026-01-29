@@ -1,0 +1,100 @@
+{
+  "image_file": "045a42a8-4893-4ca4-948f-f7b20dfe84de.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_0.1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 78.75949083176322,
+          "y": 159.39130681537114,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 353.27431964464506,
+          "y": 137.24999148146992,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 446.63741661858563,
+          "y": 203.16257413862314,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 602.3965135615813,
+          "y": 281.8558594077724,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 605.2715804099531,
+          "y": 283.0168650202179,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_10mg_kg_Q2W"
+      },
+      "points": [
+        {
+          "x": 177.51593297137063,
+          "y": 67.86344912285233,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 329.97360425272814,
+          "y": 241.80895606296417,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 410.97840956938353,
+          "y": 305.02948050675025,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 430.01107272922155,
+          "y": 316.7878113717429,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 633.2618433447042,
+          "y": 394.1229985927845,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

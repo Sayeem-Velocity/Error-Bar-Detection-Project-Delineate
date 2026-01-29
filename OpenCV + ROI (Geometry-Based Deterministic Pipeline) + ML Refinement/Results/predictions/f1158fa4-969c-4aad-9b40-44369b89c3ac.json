@@ -1,0 +1,108 @@
+{
+  "image_file": "f1158fa4-969c-4aad-9b40-44369b89c3ac.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_300mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 105.86597925261752,
+          "y": 58.91618010028941,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 133.77154656735496,
+          "y": 101.2200076803831,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 147.48399699297732,
+          "y": 122.05761665634162,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 251.22483623841754,
+          "y": 247.4210610575244,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 266.4190511768448,
+          "y": 260.8174066911653,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 286.8445604655905,
+          "y": 277.16201733144436,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 314.40618924727045,
+          "y": 296.50435550546064,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 400.48091115682627,
+          "y": 341.0401198013428,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_500mg_QW"
+      },
+      "points": [
+        {
+          "x": 400.8568373725582,
+          "y": 408.37009551109674,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 638.2759742194298,
+          "y": 426.0300630240164,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 654.5030144581032,
+          "y": 426.5627555719143,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Feature,Category,Description
+roi_mean_intensity,ROI Intensity,Mean pixel brightness in ROI
+roi_std_intensity,ROI Intensity,Std deviation of pixel brightness
+roi_min_intensity,ROI Intensity,Minimum pixel value
+roi_max_intensity,ROI Intensity,Maximum pixel value
+roi_grad_y_mean,ROI Gradients,Mean vertical gradient strength
+roi_grad_y_std,ROI Gradients,Std deviation of vertical gradients
+roi_edge_density,ROI Edges,Percentage of edge pixels (Canny)
+roi_center_col_mean,ROI Center,Mean brightness of center column
+roi_center_col_std,ROI Center,Std deviation of center column
+roi_center_col_min,ROI Center,Min value in center column
+roi_center_col_max,ROI Center,Max value in center column
+cv_coarse_top_dist,CV Coarse,CV-detected top error bar distance
+cv_coarse_bottom_dist,CV Coarse,CV-detected bottom error bar distance
+cv_confidence,CV Coarse,CV detection confidence (0–1)

@@ -1,0 +1,53 @@
+{
+  "image_file": "435de5b7-8955-4ab8-b72a-8f8f1ef189c1.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "LDL-C_CohortA"
+      },
+      "points": [
+        {
+          "x": 83.07515118611339,
+          "y": 87.75951882955081,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 583.3947660126272,
+          "y": 410.22761951811174,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 598.6786082070382,
+          "y": 396.8449109961113,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 605.0225688579617,
+          "y": 378.06001059289304,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 608.5609866148984,
+          "y": 385.4162170899199,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

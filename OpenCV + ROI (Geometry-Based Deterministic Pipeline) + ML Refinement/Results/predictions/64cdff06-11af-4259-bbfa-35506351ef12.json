@@ -1,0 +1,147 @@
+{
+  "image_file": "64cdff06-11af-4259-bbfa-35506351ef12.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Hemoglobin_High"
+      },
+      "points": [
+        {
+          "x": 177.06938298738396,
+          "y": 276.83439101160064,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 219.83592812671947,
+          "y": 263.1308485811517,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 281.2095970902419,
+          "y": 241.7247900261877,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 609.1962059055829,
+          "y": 117.99401727404694,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Creatinine_CohortB"
+      },
+      "points": [
+        {
+          "x": 214.49235230039443,
+          "y": 103.85871600906796,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 215.8960639428655,
+          "y": 103.21843875536678,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 290.23625108033616,
+          "y": 83.25543342479585,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 322.37872503303083,
+          "y": 79.62062235861958,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 389.15659651541915,
+          "y": 75.97794803426052,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "TNF-alpha_Low"
+      },
+      "points": [
+        {
+          "x": 122.95042072136786,
+          "y": 271.2792723523536,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 128.56996560548268,
+          "y": 282.53893496319415,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 144.98252863888277,
+          "y": 289.73783756161816,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 249.77863748070018,
+          "y": 402.91019065389355,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 296.45034086801405,
+          "y": 417.14875976585586,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 345.97648947919635,
+          "y": 415.9711512853501,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

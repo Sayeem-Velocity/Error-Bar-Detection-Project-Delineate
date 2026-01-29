@@ -1,0 +1,37 @@
+{
+  "image_file": "1f34491f-b78e-4850-baf8-b1424463b271.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "EGF_TrtA"
+      },
+      "points": [
+        {
+          "x": 116.37046520699175,
+          "y": 166.3795478745909,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 123.70534899394707,
+          "y": 70.64562811755059,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 630.0878221779949,
+          "y": 419.69716329436017,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

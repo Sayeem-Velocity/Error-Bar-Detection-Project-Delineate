@@ -1,0 +1,61 @@
+{
+  "image_file": "bb8647c2-27c3-4523-9ff9-208721d9e953.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_300mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 96.64385848170579,
+          "y": 82.8203959300763,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 177.49958410311498,
+          "y": 103.94849622326547,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 184.16474129385787,
+          "y": 108.09896327052184,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 633.5428739766102,
+          "y": 391.1692460805875,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 635.609203003817,
+          "y": 392.04253713936816,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 655.6153240645851,
+          "y": 400.31284790474103,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

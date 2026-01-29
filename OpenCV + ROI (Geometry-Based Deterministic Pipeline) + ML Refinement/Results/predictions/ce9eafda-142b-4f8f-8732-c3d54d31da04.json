@@ -1,0 +1,85 @@
+{
+  "image_file": "ce9eafda-142b-4f8f-8732-c3d54d31da04.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_10mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 94.84559777470874,
+          "y": 398.8650678684054,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 118.06057603867808,
+          "y": 279.5092689310635,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 187.9942438178228,
+          "y": 107.25171783655401,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 205.44325548262628,
+          "y": 92.51521565162557,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 387.01728178916176,
+          "y": 175.74553973219673,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 392.221309946935,
+          "y": 180.4281492242689,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 545.2151133113429,
+          "y": 312.69266629173137,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 570.8605610340358,
+          "y": 332.1974243152324,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 629.6978852695299,
+          "y": 373.27725264536315,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

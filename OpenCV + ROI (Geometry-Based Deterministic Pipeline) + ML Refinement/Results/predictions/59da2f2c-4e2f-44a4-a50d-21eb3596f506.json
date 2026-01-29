@@ -1,0 +1,76 @@
+{
+  "image_file": "59da2f2c-4e2f-44a4-a50d-21eb3596f506.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_100mg_single"
+      },
+      "points": [
+        {
+          "x": 134.20762393089444,
+          "y": 92.01584234200556,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 196.0423241153236,
+          "y": 158.73421114014235,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 320.81924177682873,
+          "y": 258.71452747780165,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 474.58539015922275,
+          "y": 334.86841467060765,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_1mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 115.35665081353324,
+          "y": 142.89786141756758,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 610.3238260421203,
+          "y": 395.05769962644877,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 636.3198994940603,
+          "y": 399.8578278554864,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

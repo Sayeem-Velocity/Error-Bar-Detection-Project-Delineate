@@ -1,0 +1,84 @@
+{
+  "image_file": "ec607b01-9994-4fdf-8c44-c8cd2bf1a820.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Rituximab_10mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 151.59915965309276,
+          "y": 276.0219367038893,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 220.6716291942562,
+          "y": 304.3787830394591,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 380.89525158681715,
+          "y": 388.0248388607341,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Panitumumab_0.3mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 102.9246505199791,
+          "y": 92.73911249365273,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 161.31517049664438,
+          "y": 65.33407063476517,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 306.4357112142592,
+          "y": 238.0063239462002,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 535.8792370151318,
+          "y": 361.6669737699646,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 636.4688153573104,
+          "y": 386.30685200533406,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

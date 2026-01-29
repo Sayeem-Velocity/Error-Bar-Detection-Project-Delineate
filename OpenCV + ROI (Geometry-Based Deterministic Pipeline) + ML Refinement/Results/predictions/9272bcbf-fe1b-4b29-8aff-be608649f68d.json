@@ -1,0 +1,53 @@
+{
+  "image_file": "9272bcbf-fe1b-4b29-8aff-be608649f68d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_3mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 111.32710762006346,
+          "y": 76.90872465948058,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 170.8038644815442,
+          "y": 89.81642708181653,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 281.91426572362315,
+          "y": 194.18251134586632,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 584.3648701497141,
+          "y": 381.9834868232417,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 639.0495364975576,
+          "y": 398.9287576556632,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 13.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

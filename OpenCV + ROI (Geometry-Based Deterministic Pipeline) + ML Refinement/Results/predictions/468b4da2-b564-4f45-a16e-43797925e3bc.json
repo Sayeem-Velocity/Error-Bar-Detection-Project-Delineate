@@ -1,0 +1,164 @@
+{
+  "image_file": "468b4da2-b564-4f45-a16e-43797925e3bc.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_0.1mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 79.16633372486484,
+          "y": 82.04415385618177,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 193.9113513754979,
+          "y": 86.80452022617919,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 218.11039356966964,
+          "y": 121.49062537699388,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 266.3742331888746,
+          "y": 181.70600028524473,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 455.1532937665016,
+          "y": 325.0476286843899,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 457.33407654256547,
+          "y": 326.09459578992653,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 468.67974818445595,
+          "y": 331.3789767955225,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 482.8840215107344,
+          "y": 337.62598923649944,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 549.4175629641331,
+          "y": 362.1186010662528,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_3mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 183.91097355596935,
+          "y": 106.45006683113104,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 193.51478071351963,
+          "y": 118.77564955351954,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 336.2914318491268,
+          "y": 279.32981956828314,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 440.5214280743119,
+          "y": 345.86217584867455,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 467.0119464824008,
+          "y": 357.7480726150063,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 14.0,
+          "label": ""
+        },
+        {
+          "x": 566.0947112965209,
+          "y": 390.016095149178,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 621.637351221903,
+          "y": 401.948705286018,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 653.5018741463036,
+          "y": 407.369995119303,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 658.2565989140114,
+          "y": 408.1035082895925,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

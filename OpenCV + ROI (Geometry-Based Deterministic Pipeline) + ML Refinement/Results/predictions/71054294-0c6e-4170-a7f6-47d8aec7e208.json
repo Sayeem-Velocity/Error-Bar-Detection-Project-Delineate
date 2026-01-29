@@ -1,0 +1,77 @@
+{
+  "image_file": "71054294-0c6e-4170-a7f6-47d8aec7e208.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_0.1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 92.8748401025183,
+          "y": 73.48564297882751,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 162.76085887832824,
+          "y": 167.98195532859967,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 189.89926673572327,
+          "y": 217.66124767557397,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 13.0,
+          "label": ""
+        },
+        {
+          "x": 200.34858999286217,
+          "y": 234.2076400013447,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 203.16983243561847,
+          "y": 238.44094612212342,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 486.8383619483635,
+          "y": 399.26708900833364,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 490.53077876506836,
+          "y": 399.76621135226725,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 619.3387611718741,
+          "y": 410.2367718206867,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "image_file": "4e080de6-81e7-4082-b9ed-fc4062851e40.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "AST_Control"
+      },
+      "points": [
+        {
+          "x": 314.56336541884684,
+          "y": 106.1411920952471,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 339.92077557624657,
+          "y": 91.54018733495963,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 352.3226764985921,
+          "y": 105.76021699842818,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 386.21179591018176,
+          "y": 123.34130344387899,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 623.4482490004926,
+          "y": 63.60583453319697,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "C-peptide_TrtB"
+      },
+      "points": [
+        {
+          "x": 119.00754855051576,
+          "y": 114.13758632058028,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 141.76727707704373,
+          "y": 191.42691119898552,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 158.448333295253,
+          "y": 192.78253962892768,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 211.92956413610398,
+          "y": 238.29223668311977,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 257.7647759347945,
+          "y": 352.5024401954755,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 305.5887006209202,
+          "y": 366.3401811138099,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 355.2550760948774,
+          "y": 421.3895392756301,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 459.59559742538477,
+          "y": 372.5218199522748,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

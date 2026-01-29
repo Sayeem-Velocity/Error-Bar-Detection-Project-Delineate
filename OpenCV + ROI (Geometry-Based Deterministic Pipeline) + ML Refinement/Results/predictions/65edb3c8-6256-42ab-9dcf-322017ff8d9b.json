@@ -1,0 +1,85 @@
+{
+  "image_file": "65edb3c8-6256-42ab-9dcf-322017ff8d9b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_1mg_kg_High"
+      },
+      "points": [
+        {
+          "x": 111.41681585730764,
+          "y": 86.14667889702099,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 128.74804109562524,
+          "y": 65.78598269218105,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 186.4608025305584,
+          "y": 85.312471014312,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 230.27133467814372,
+          "y": 130.4216248237575,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 368.95137935094004,
+          "y": 263.9464157271433,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 460.7404728600318,
+          "y": 324.43078841387546,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 556.8358546154071,
+          "y": 368.9932368247401,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 605.1611089021636,
+          "y": 385.9724275330738,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 639.2210513087305,
+          "y": 396.2011501417809,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

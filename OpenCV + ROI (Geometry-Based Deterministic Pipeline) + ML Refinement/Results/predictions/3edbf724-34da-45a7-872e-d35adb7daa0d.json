@@ -1,0 +1,212 @@
+{
+  "image_file": "3edbf724-34da-45a7-872e-d35adb7daa0d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_0.3mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 243.5718454902828,
+          "y": 241.5999258594104,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 297.1360791813472,
+          "y": 267.3742619453045,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 311.6375611126721,
+          "y": 274.3938914664926,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 316.49821667945184,
+          "y": 276.7259909384162,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 332.8057200412434,
+          "y": 284.45252423082957,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 487.9273983962005,
+          "y": 348.17470952649523,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 491.3626154978357,
+          "y": 349.3848624396487,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 537.5893723892541,
+          "y": 364.9037240914305,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 597.5465480419236,
+          "y": 383.0490187812677,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 621.1357499493381,
+          "y": 389.6234772503636,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_3mg_kg_Active"
+      },
+      "points": [
+        {
+          "x": 103.21046776842763,
+          "y": 239.31666945256603,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 124.70068385401736,
+          "y": 140.65452238326833,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 177.43964625801146,
+          "y": 69.06643215218122,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 200.59924418686415,
+          "y": 71.37135909609498,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 215.37293951765366,
+          "y": 77.35499203890726,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 222.2574478978726,
+          "y": 80.92189949478183,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 244.46352044462037,
+          "y": 94.62576021913202,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 280.5350817028806,
+          "y": 120.52502395662538,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 418.99955983833513,
+          "y": 218.47726398561554,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 419.87561134742884,
+          "y": 219.0337629706719,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 422.962840082974,
+          "y": 220.98770010400517,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 478.38401177929995,
+          "y": 254.19610389370123,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 557.419572841383,
+          "y": 295.81863653592416,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 568.1869418896134,
+          "y": 301.0092352324043,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

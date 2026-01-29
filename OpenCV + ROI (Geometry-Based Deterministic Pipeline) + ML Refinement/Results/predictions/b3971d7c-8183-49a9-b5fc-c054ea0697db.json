@@ -1,0 +1,212 @@
+{
+  "image_file": "b3971d7c-8183-49a9-b5fc-c054ea0697db.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_300mg_BID"
+      },
+      "points": [
+        {
+          "x": 104.9458569926212,
+          "y": 128.11471365267124,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 114.5100791272784,
+          "y": 105.3298571752212,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 131.5199065775031,
+          "y": 83.88636151302802,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 218.06486965565801,
+          "y": 125.02757777694876,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 230.71943863872838,
+          "y": 137.26179587837203,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 252.82235188063152,
+          "y": 158.842349607159,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 438.2864636831461,
+          "y": 306.2483086424834,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 454.3455009275252,
+          "y": 315.7658961106359,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 487.4533096367538,
+          "y": 334.0091952151731,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 529.2846466214518,
+          "y": 354.6270638323655,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 637.762822461607,
+          "y": 397.49983736276863,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 639.8694307322194,
+          "y": 398.2024899261428,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_50mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 81.73537041219701,
+          "y": 251.94689147988908,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 134.20825407517918,
+          "y": 169.6134383737185,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 162.52202147151058,
+          "y": 183.66002213495318,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 184.0318291615124,
+          "y": 199.4109909074093,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 205.56619490469814,
+          "y": 216.18136646720723,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 220.77649573557994,
+          "y": 227.96618035209042,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 243.1504201125383,
+          "y": 244.7831159367484,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 249.7737514555967,
+          "y": 249.6098748154319,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 257.2883588366134,
+          "y": 254.99487493656505,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 261.0195886039233,
+          "y": 257.6319243666575,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 351.95307787519346,
+          "y": 314.42205424944405,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 388.6881690116687,
+          "y": 333.6199234205372,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

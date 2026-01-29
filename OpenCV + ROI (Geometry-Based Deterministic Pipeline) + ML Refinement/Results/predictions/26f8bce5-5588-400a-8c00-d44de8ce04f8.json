@@ -1,0 +1,69 @@
+{
+  "image_file": "26f8bce5-5588-400a-8c00-d44de8ce04f8.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "WBC_Mid"
+      },
+      "points": [
+        {
+          "x": 79.74926192508592,
+          "y": 77.21366411845094,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 145.8188469537167,
+          "y": 194.0516762898189,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 13.0,
+          "label": ""
+        },
+        {
+          "x": 295.11403149993174,
+          "y": 333.5998789674806,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 418.6432748832821,
+          "y": 400.76498302396925,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 487.38194135553334,
+          "y": 419.6664098319326,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 565.8959384333809,
+          "y": 433.3325863554235,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 644.0678359615928,
+          "y": 405.9491915657833,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

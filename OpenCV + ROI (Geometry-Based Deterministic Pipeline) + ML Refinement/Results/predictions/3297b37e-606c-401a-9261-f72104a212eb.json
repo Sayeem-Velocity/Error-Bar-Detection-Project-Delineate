@@ -1,0 +1,76 @@
+{
+  "image_file": "3297b37e-606c-401a-9261-f72104a212eb.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_0.1mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 97.90859386659258,
+          "y": 249.68405162889695,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 169.59243551791542,
+          "y": 81.62062674818407,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 343.9375903688721,
+          "y": 238.7208034424387,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 619.8647940350386,
+          "y": 401.14077136467915,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_100mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 220.236758017338,
+          "y": 255.4518682798979,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 302.4721727876006,
+          "y": 330.9694235748448,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 315.59805628757,
+          "y": 340.16629882997825,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

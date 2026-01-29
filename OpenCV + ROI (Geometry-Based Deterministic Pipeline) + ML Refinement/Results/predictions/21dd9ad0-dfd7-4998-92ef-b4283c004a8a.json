@@ -1,0 +1,37 @@
+{
+  "image_file": "21dd9ad0-dfd7-4998-92ef-b4283c004a8a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_100mg_Active"
+      },
+      "points": [
+        {
+          "x": 122.91180808389538,
+          "y": 72.0733455699791,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 244.23781678535155,
+          "y": 175.43541911059293,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 627.3778870774007,
+          "y": 407.3127673908201,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

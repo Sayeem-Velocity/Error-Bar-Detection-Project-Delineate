@@ -1,0 +1,218 @@
+{
+  "image_file": "35549b85-b080-4825-8f77-d71fde4e8584.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_1mg_kg_Mid"
+      },
+      "points": [
+        {
+          "x": 274.92157587750876,
+          "y": 54.24552630949324,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 319.7226724046699,
+          "y": 106.26405081869495,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 391.9667689758463,
+          "y": 179.0553081419697,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 421.2271107167998,
+          "y": 204.24290021425531,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 490.2620920959312,
+          "y": 254.78650126809916,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 528.3264659074988,
+          "y": 277.9703108237295,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_100mg_Active"
+      },
+      "points": [
+        {
+          "x": 121.07968828365284,
+          "y": 129.5683764737597,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 280.6623230266784,
+          "y": 158.29428103951784,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 289.37309968213776,
+          "y": 163.69936939288664,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 289.6457799985602,
+          "y": 163.86778306054373,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 415.3812745270732,
+          "y": 233.07768183811663,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Cetuximab_100mg_QD"
+      },
+      "points": [
+        {
+          "x": 104.98299405503262,
+          "y": 294.80203947185043,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 268.35765728179206,
+          "y": 296.5921539895339,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 354.41799506210333,
+          "y": 335.7523306135221,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 362.5341687248986,
+          "y": 338.9912044381926,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 471.13276861080806,
+          "y": 374.6318746222213,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 496.0005780022605,
+          "y": 381.0058776443095,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 641.8248476941728,
+          "y": 408.54612112245604,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_0.3mg_kg_QD"
+      },
+      "points": [
+        {
+          "x": 240.3596617067709,
+          "y": 111.68118983302134,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 388.32715137250165,
+          "y": 263.90963209852146,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 429.3925004233572,
+          "y": 292.2684639546177,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 433.1000422288885,
+          "y": 294.5938148622258,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 437.95818841159826,
+          "y": 297.5858637451431,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

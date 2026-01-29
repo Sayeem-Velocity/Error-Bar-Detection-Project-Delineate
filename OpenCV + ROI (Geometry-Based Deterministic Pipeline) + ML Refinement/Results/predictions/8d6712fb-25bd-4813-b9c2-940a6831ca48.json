@@ -1,0 +1,37 @@
+{
+  "image_file": "8d6712fb-25bd-4813-b9c2-940a6831ca48.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_500mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 115.01296864906249,
+          "y": 72.92743575003317,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 480.72143140913204,
+          "y": 320.4203833281657,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 637.8672797530357,
+          "y": 405.5918089659152,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

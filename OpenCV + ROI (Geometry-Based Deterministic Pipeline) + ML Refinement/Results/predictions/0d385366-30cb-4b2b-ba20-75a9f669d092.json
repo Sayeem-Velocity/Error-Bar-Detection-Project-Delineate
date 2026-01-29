@@ -1,0 +1,163 @@
+{
+  "image_file": "0d385366-30cb-4b2b-ba20-75a9f669d092.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_500mg_CohortB"
+      },
+      "points": [
+        {
+          "x": 91.89455934886557,
+          "y": 86.98105907841665,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 114.97392630609113,
+          "y": 79.25899912243574,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 284.33138988272384,
+          "y": 319.1599677078263,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 469.5569000446565,
+          "y": 402.4102396191058,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 483.6218302857741,
+          "y": 405.2026768310768,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_100mg_multi"
+      },
+      "points": [
+        {
+          "x": 263.7782819587769,
+          "y": 235.31204922464633,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 313.17834539176744,
+          "y": 280.7806761959821,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 572.0207815992361,
+          "y": 396.5054891999672,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 575.2461318535935,
+          "y": 397.1559017850315,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 630.336845336024,
+          "y": 406.6536492551529,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_500mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 198.35417048451586,
+          "y": 210.13842220166077,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 316.11681038087545,
+          "y": 309.3831919397926,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 403.1562348663637,
+          "y": 351.8305942086185,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 548.6968276043007,
+          "y": 388.88539019454925,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 556.314270490528,
+          "y": 390.09598195055355,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 563.5295441559298,
+          "y": 391.1945710443211,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 589.2500260255187,
+          "y": 394.75844445970637,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

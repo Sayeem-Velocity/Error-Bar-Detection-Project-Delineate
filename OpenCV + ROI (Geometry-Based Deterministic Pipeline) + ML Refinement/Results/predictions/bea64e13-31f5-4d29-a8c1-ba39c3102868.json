@@ -1,0 +1,148 @@
+{
+  "image_file": "bea64e13-31f5-4d29-a8c1-ba39c3102868.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Rituximab_100mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 138.17907485384367,
+          "y": 260.00281925875606,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 168.6203438363021,
+          "y": 286.6409955785804,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 230.18651560823346,
+          "y": 339.4511057495087,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 274.2498336091426,
+          "y": 367.0634090390947,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 312.9883886333164,
+          "y": 384.79548891532886,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 338.7258202434897,
+          "y": 393.89133433919733,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 357.55912105577465,
+          "y": 399.44438747004006,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Pembrolizumab_0.1mg_kg_High"
+      },
+      "points": [
+        {
+          "x": 80.6729333008697,
+          "y": 101.89220066856291,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 148.86019211105665,
+          "y": 88.66655134585665,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 328.1005544828184,
+          "y": 267.8133962800199,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 348.1191025538721,
+          "y": 280.50821838204035,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 370.43131232219037,
+          "y": 293.3604842116687,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 383.8144063865856,
+          "y": 300.4665372388513,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 475.8769885319956,
+          "y": 339.2039120295929,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 537.7423078687765,
+          "y": 357.4746616187404,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 621.906945520563,
+          "y": 375.35812823625736,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

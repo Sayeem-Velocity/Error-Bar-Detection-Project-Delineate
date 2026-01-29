@@ -1,0 +1,171 @@
+{
+  "image_file": "544853f1-abf8-4cdd-8d76-4deee04f3f66.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_10mg_kg_Placebo"
+      },
+      "points": [
+        {
+          "x": 113.61015912979784,
+          "y": 317.8301155695011,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 227.7487030396903,
+          "y": 331.4415019481937,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 305.84085591133567,
+          "y": 357.4367321231165,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 415.0868786284807,
+          "y": 382.0934226422022,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 561.3777755682381,
+          "y": 400.14944039996453,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 599.8777030584642,
+          "y": 403.1247929139188,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 605.5029853087692,
+          "y": 403.5147605201408,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Pembrolizumab_10mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 142.26062660728317,
+          "y": 98.47326092324022,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 166.1304554296083,
+          "y": 113.62509120547759,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 284.3814406633325,
+          "y": 228.90178858589297,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 330.53951780351827,
+          "y": 263.82051423864993,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_0.3mg_kg_Mid"
+      },
+      "points": [
+        {
+          "x": 101.83974111122386,
+          "y": 252.59960465799725,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 127.54839914403544,
+          "y": 237.07916248873005,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 131.9311738719848,
+          "y": 237.72398853899244,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 232.2522667497134,
+          "y": 294.7420639592816,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 318.70358195892504,
+          "y": 334.60151183408686,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 346.89468675965225,
+          "y": 344.492029376036,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 374.69543769563995,
+          "y": 353.03762370051726,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

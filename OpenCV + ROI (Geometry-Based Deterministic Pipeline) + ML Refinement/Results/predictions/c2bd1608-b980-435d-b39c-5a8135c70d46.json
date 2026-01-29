@@ -1,0 +1,93 @@
+{
+  "image_file": "c2bd1608-b980-435d-b39c-5a8135c70d46.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Rituximab_0.1mg_kg_CohortA"
+      },
+      "points": [
+        {
+          "x": 122.26844528852214,
+          "y": 86.40249017386526,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 251.4696330584278,
+          "y": 251.9231759505137,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 271.4466426259642,
+          "y": 268.9848334689642,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 306.9823415847361,
+          "y": 295.04136322883045,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 345.44062495878387,
+          "y": 318.0107164890293,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 387.32184442822137,
+          "y": 338.0243605917767,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 442.2940998957587,
+          "y": 358.12260737301835,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 517.4422251458923,
+          "y": 377.3176932096984,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 553.2251994257097,
+          "y": 383.9930855332441,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 632.3307260872432,
+          "y": 394.7820196219223,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

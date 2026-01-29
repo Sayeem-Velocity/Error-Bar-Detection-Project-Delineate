@@ -1,0 +1,45 @@
+{
+  "image_file": "70a16530-6f78-43ef-84be-2fb4386ba065.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "VEGF_Active"
+      },
+      "points": [
+        {
+          "x": 127.71702208158877,
+          "y": 351.95403452861615,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 160.18170690103625,
+          "y": 389.500422811426,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 212.36208889678846,
+          "y": 356.1468228428232,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 618.7952668690446,
+          "y": 95.62361452104983,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

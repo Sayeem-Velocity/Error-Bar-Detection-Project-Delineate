@@ -1,0 +1,234 @@
+{
+  "image_file": "088fc8cd-722e-4b22-8f2a-14aea3cf1094.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_100mg_Active"
+      },
+      "points": [
+        {
+          "x": 112.74811355135088,
+          "y": 63.64757062804688,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 185.10294316226503,
+          "y": 188.00539585743843,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 291.44217325397597,
+          "y": 319.5417450390521,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 307.2627405654663,
+          "y": 331.4161966680121,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 379.74242663711755,
+          "y": 370.3470497186626,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 383.8335558206867,
+          "y": 371.95082542360774,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 602.3860279041788,
+          "y": 412.1713672957347,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Pembrolizumab_3mg_kg_High"
+      },
+      "points": [
+        {
+          "x": 148.92211625399597,
+          "y": 261.6498530260943,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 179.055801774506,
+          "y": 285.7560704170111,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 291.0886444147294,
+          "y": 359.0319991905451,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 623.1536313154251,
+          "y": 416.69764918951705,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_500mg_Mid"
+      },
+      "points": [
+        {
+          "x": 201.87477108570715,
+          "y": 95.01270084422697,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 261.4360060234096,
+          "y": 165.74950757087277,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 273.66035185375745,
+          "y": 178.39872368508549,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 286.2502395062707,
+          "y": 190.79234292522165,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 335.2037319594607,
+          "y": 233.38316429339426,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 348.21136063573795,
+          "y": 243.34017370428728,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 593.2547703912375,
+          "y": 358.6508657191822,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ponezumab_500mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 82.92630047906742,
+          "y": 195.20362014878418,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 190.61938474555382,
+          "y": 134.3506218117255,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 264.9694398705457,
+          "y": 249.8112034425612,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 276.5103136217302,
+          "y": 263.60361337673663,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 282.00683681597184,
+          "y": 269.80851785933703,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 340.2523965184399,
+          "y": 323.02597217486414,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 344.12617535412073,
+          "y": 325.86044770912736,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

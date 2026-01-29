@@ -1,0 +1,37 @@
+{
+  "image_file": "c42d218e-5664-48a7-98bb-6f42e53bcb1b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_100mg_single"
+      },
+      "points": [
+        {
+          "x": 117.46873767313899,
+          "y": 94.42233986439027,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 564.201989387679,
+          "y": 373.13947188244083,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 635.3461234181174,
+          "y": 394.76865540108395,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

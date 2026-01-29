@@ -1,0 +1,202 @@
+{
+  "image_file": "396afee6-7616-46a1-8aef-300aaaf10e50.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_0.3mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 285.28169508767144,
+          "y": 293.29239663103954,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 302.22050219746717,
+          "y": 309.4647370764075,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 401.79114392459127,
+          "y": 371.3105971416736,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 604.1029829505381,
+          "y": 411.9477884586939,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 611.3171935742157,
+          "y": 412.5062973548528,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_100mg_QD"
+      },
+      "points": [
+        {
+          "x": 301.3339042049197,
+          "y": 374.84977441732815,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 317.9273445066383,
+          "y": 382.191164491079,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 425.97311419227316,
+          "y": 411.8863190668008,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 452.33407864212876,
+          "y": 415.9528719517531,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ponezumab_0.3mg_kg_Active"
+      },
+      "points": [
+        {
+          "x": 99.21876412579725,
+          "y": 272.3212572344093,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 220.5580683514275,
+          "y": 321.8339471528845,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 411.75137715350456,
+          "y": 389.484032743335,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 447.131042839296,
+          "y": 395.6864416492081,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 500.8991626963017,
+          "y": 402.99012302399973,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_3mg_kg_TrtB"
+      },
+      "points": [
+        {
+          "x": 132.2494833451798,
+          "y": 85.92697849065866,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 236.3823882348567,
+          "y": 175.5087286479286,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 271.5360061156751,
+          "y": 218.6119735726433,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 294.0882724021395,
+          "y": 243.12186037127032,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 371.3593099332569,
+          "y": 308.39123388240756,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 517.0013943811688,
+          "y": 375.3613703319264,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 518.298570530375,
+          "y": 375.7407875270873,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

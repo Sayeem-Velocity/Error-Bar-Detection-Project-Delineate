@@ -1,0 +1,148 @@
+{
+  "image_file": "014d95e6-0ada-4849-a54f-a64982789f20.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_3mg_kg_Placebo"
+      },
+      "points": [
+        {
+          "x": 110.81794362947787,
+          "y": 102.90226454893974,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 127.70529184416807,
+          "y": 74.85249722708164,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 198.12797441799154,
+          "y": 135.38337069754874,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 201.1626807934302,
+          "y": 139.6152715020615,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 209.57783789617372,
+          "y": 151.31123874336566,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 244.63947976958312,
+          "y": 197.5439917228698,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 272.14156743189994,
+          "y": 229.50477245941937,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 385.01478587248823,
+          "y": 321.4196476310109,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 445.4622426551758,
+          "y": 351.3889534542121,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_100mg_multi"
+      },
+      "points": [
+        {
+          "x": 213.25655027471274,
+          "y": 191.56909616113956,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 241.49014187155214,
+          "y": 234.89619011576065,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 325.15644162846786,
+          "y": 319.222626823214,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 445.606031411009,
+          "y": 374.9279066587017,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 453.6403653249191,
+          "y": 377.09560234705003,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 461.3858709471924,
+          "y": 379.06030848528815,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 617.631179123143,
+          "y": 401.2526844029257,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

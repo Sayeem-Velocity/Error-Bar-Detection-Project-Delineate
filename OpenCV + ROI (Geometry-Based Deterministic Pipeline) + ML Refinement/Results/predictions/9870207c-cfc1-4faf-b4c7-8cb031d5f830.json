@@ -1,0 +1,202 @@
+{
+  "image_file": "9870207c-cfc1-4faf-b4c7-8cb031d5f830.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Nivolumab_300mg_Mid"
+      },
+      "points": [
+        {
+          "x": 141.7825401020629,
+          "y": 190.56745349686696,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 164.02787360651098,
+          "y": 220.7886574742231,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 190.1188436582268,
+          "y": 253.88543270026798,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 259.77129713348194,
+          "y": 320.1413902555533,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 337.0299749638361,
+          "y": 364.6395445825664,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_500mg_Active"
+      },
+      "points": [
+        {
+          "x": 135.7352653072313,
+          "y": 53.057026033438945,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 177.68540552189364,
+          "y": 125.43758672772589,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 202.35284256922404,
+          "y": 163.7128170479549,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 513.5747237219083,
+          "y": 381.4371730814621,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 575.1644320938458,
+          "y": 395.1912283706324,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 635.3280405814668,
+          "y": 404.79486605697593,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Cetuximab_0.1mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 98.74543395411004,
+          "y": 294.1062385684433,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 116.90779627098789,
+          "y": 290.15868159435513,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 151.13238567315148,
+          "y": 314.3118103916726,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 182.6696263439262,
+          "y": 340.48083965385575,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 253.8111845192384,
+          "y": 383.44961916683496,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Aducanumab_3mg_kg_QD"
+      },
+      "points": [
+        {
+          "x": 124.66730677846107,
+          "y": 52.728715063882305,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 280.8426045012533,
+          "y": 298.1590429291861,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 287.37073028508115,
+          "y": 304.3073225591057,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 319.52945077512084,
+          "y": 330.6179354569798,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 337.72837108808807,
+          "y": 342.9543901229517,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

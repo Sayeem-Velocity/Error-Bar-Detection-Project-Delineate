@@ -1,0 +1,77 @@
+{
+  "image_file": "c86b0ec2-b955-4cb4-ac10-35eb0c2e2c00.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_100mg_Mid"
+      },
+      "points": [
+        {
+          "x": 109.42439721993588,
+          "y": 95.03586330501236,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 293.1961421385082,
+          "y": 69.71985779062567,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 303.342561000356,
+          "y": 86.29820781691802,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 398.5901951579124,
+          "y": 220.91570583653885,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 479.8969647929597,
+          "y": 302.8071330983191,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 559.0219510780568,
+          "y": 358.97286687099313,
+          "topBarPixelDistance": 15.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 572.6668492975468,
+          "y": 366.8024280957407,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 615.3353762175258,
+          "y": 388.39311083356495,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

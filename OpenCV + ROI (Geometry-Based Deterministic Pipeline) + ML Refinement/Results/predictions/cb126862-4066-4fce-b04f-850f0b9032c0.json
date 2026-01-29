@@ -1,0 +1,68 @@
+{
+  "image_file": "cb126862-4066-4fce-b04f-850f0b9032c0.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_200mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 265.549044337199,
+          "y": 298.1371556911973,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 335.2099220535912,
+          "y": 348.4877332916062,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 422.4435531993312,
+          "y": 395.4735852227552,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_0.1mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 113.03367061606704,
+          "y": 53.6338249760783,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 303.18702027691694,
+          "y": 251.95549997136231,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 637.1371006022717,
+          "y": 403.07040380558306,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

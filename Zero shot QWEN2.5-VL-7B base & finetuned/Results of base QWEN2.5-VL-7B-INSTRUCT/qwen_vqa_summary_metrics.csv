@@ -1,0 +1,11 @@
+Metric,Value
+Method,Qwen2.5-VL VQA+CoT 4-bit
+Total Images,600
+Total Points,10229
+Mean Top Error (px),42.40
+Mean Bottom Error (px),38.04
+Mean Overall Error (px),40.22
+RMSE (px),67.77
+Accuracy @ 5px (%),17.50
+Accuracy @ 10px (%),27.18
+Accuracy @ 20px (%),44.09

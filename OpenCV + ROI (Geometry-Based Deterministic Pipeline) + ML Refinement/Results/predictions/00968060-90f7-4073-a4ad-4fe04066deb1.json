@@ -1,0 +1,93 @@
+{
+  "image_file": "00968060-90f7-4073-a4ad-4fe04066deb1.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_1mg_kg_CohortA"
+      },
+      "points": [
+        {
+          "x": 121.81614600780232,
+          "y": 127.67900472722312,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 144.29508270824317,
+          "y": 85.70097481837172,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 255.20630451731049,
+          "y": 131.91571246976065,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 336.88739159075567,
+          "y": 215.77925487532053,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 337.1165163448841,
+          "y": 216.00136285930455,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 342.1133917466228,
+          "y": 220.816675189936,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 495.0982123479763,
+          "y": 339.99618447586914,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 529.0502000913814,
+          "y": 359.6167339460508,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 609.6623482694326,
+          "y": 398.3839148102347,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 616.5025872782885,
+          "y": 401.2278105886196,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

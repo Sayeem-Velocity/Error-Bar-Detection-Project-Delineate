@@ -1,0 +1,155 @@
+{
+  "image_file": "bc1c8a76-c45b-4728-84c9-c062914f9973.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_300mg_CohortB"
+      },
+      "points": [
+        {
+          "x": 90.2284036789643,
+          "y": 234.95496345497122,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 185.69111289046074,
+          "y": 217.00057498907069,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 224.4185404472221,
+          "y": 255.951815319263,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 315.7438147811739,
+          "y": 324.61936413464895,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 417.22525475291786,
+          "y": 367.89689988838654,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_300mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 146.96086757507013,
+          "y": 75.01461858967076,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 230.0205049787437,
+          "y": 190.86160294224584,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 231.56613585257816,
+          "y": 192.99999837572824,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 298.50705931701884,
+          "y": 271.0843119128953,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 385.9772691036489,
+          "y": 335.48716129734635,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 615.2679355686594,
+          "y": 401.02879208210754,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_1mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 133.18283862100634,
+          "y": 143.81134258798465,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 193.93134039775867,
+          "y": 249.74665090003919,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 288.59994187399764,
+          "y": 344.2794948206842,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 521.3214383386608,
+          "y": 412.5372126179804,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 611.5907541098443,
+          "y": 418.69214710679205,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

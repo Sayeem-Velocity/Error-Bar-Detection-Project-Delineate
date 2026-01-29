@@ -1,0 +1,140 @@
+{
+  "image_file": "b17d5b3c-3b4e-4b48-9332-87a333593c9d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_0.3mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 117.96297555819878,
+          "y": 41.75271132696389,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 218.60106914901672,
+          "y": 195.14863612154238,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 237.01077081954074,
+          "y": 219.76523035890705,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 239.56001689095277,
+          "y": 222.97708483590748,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 266.5678583760567,
+          "y": 254.235872037675,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 354.8452140776619,
+          "y": 327.4675291108134,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 514.3795144149753,
+          "y": 391.89509676283274,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 587.0218669719502,
+          "y": 406.02779602453677,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 638.7427932135517,
+          "y": 412.9165199012857,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Infliximab_500mg_CohortB"
+      },
+      "points": [
+        {
+          "x": 119.153893092353,
+          "y": 252.9377539022957,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 119.21804822394863,
+          "y": 253.01195956190185,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 145.6185739823598,
+          "y": 283.8330376528857,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 233.00992801907447,
+          "y": 354.27378851965346,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 259.767863674752,
+          "y": 367.1622338413759,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 262.5608461339724,
+          "y": 368.3404260568379,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

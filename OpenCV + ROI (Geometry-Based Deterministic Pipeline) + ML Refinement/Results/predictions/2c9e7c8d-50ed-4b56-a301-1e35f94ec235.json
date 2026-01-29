@@ -1,0 +1,69 @@
+{
+  "image_file": "2c9e7c8d-50ed-4b56-a301-1e35f94ec235.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "PSA_CohortB"
+      },
+      "points": [
+        {
+          "x": 122.90364537190788,
+          "y": 46.07744897547104,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 210.42702643357245,
+          "y": 104.28901715849804,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 241.31163708560047,
+          "y": 179.6501071311245,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 343.2491062783347,
+          "y": 198.8953856278108,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 351.92518444930414,
+          "y": 181.29072990641112,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 467.6074297095847,
+          "y": 348.3308974570509,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 622.4957153338336,
+          "y": 407.1481903187878,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

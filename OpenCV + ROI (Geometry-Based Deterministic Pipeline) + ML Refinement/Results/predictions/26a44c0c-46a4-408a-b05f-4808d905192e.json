@@ -1,0 +1,53 @@
+{
+  "image_file": "26a44c0c-46a4-408a-b05f-4808d905192e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "WBC_Mid"
+      },
+      "points": [
+        {
+          "x": 125.73372194262535,
+          "y": 408.37714996132695,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 152.60424662215223,
+          "y": 363.40747063088145,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 429.00998727251954,
+          "y": 218.51480576803465,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 472.5611991901787,
+          "y": 133.1779950579113,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 618.8736398395298,
+          "y": 69.0456034317516,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

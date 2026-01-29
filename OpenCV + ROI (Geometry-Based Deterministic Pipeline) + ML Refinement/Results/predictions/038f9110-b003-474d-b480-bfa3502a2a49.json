@@ -1,0 +1,124 @@
+{
+  "image_file": "038f9110-b003-474d-b480-bfa3502a2a49.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_0.1mg_kg_Placebo"
+      },
+      "points": [
+        {
+          "x": 196.3459363257064,
+          "y": 63.17535139485625,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 470.9788440910408,
+          "y": 293.7509299359246,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 532.5183308284256,
+          "y": 320.28171556415714,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 539.6327050416451,
+          "y": 322.9709851244205,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 627.3567669541321,
+          "y": 350.8337395931803,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Etanercept_500mg_single"
+      },
+      "points": [
+        {
+          "x": 123.63105668255972,
+          "y": 301.8608274282711,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 124.75064569584086,
+          "y": 302.06117766748093,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 173.77458775445643,
+          "y": 321.0914526759514,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 244.80890227411314,
+          "y": 350.7354437255565,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 345.4005743239089,
+          "y": 380.09476097438016,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 352.68849150492235,
+          "y": 381.7413670888521,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 438.18946048910914,
+          "y": 397.44173743803736,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 448.44339371964674,
+          "y": 398.9422657653163,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

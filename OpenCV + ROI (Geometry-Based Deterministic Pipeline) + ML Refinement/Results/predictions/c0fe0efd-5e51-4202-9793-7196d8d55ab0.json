@@ -1,0 +1,124 @@
+{
+  "image_file": "c0fe0efd-5e51-4202-9793-7196d8d55ab0.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_0.1mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 109.78468177964305,
+          "y": 81.96098905269179,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 171.29132102519839,
+          "y": 167.510449404685,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 319.16636737326763,
+          "y": 333.8404938033189,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 366.04004452109115,
+          "y": 358.254057342269,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 405.58898332453964,
+          "y": 373.01140617680124,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 431.3336744225137,
+          "y": 380.4698085249171,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 546.2799566805853,
+          "y": 400.4678346879738,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 557.7150700984168,
+          "y": 401.65341190944923,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Nivolumab_0.3mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 303.8452920932085,
+          "y": 80.65802047844761,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 337.99659080982923,
+          "y": 127.80574987109105,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 409.8607802355369,
+          "y": 208.92922836660347,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 548.3147177474675,
+          "y": 308.445410029002,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 632.1571515730584,
+          "y": 344.1699428341632,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

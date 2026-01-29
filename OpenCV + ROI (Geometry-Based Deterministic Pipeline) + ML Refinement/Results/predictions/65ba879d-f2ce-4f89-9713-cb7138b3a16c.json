@@ -1,0 +1,45 @@
+{
+  "image_file": "65ba879d-f2ce-4f89-9713-cb7138b3a16c.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Rituximab_100mg_Active"
+      },
+      "points": [
+        {
+          "x": 111.42686643686969,
+          "y": 50.09395851506969,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 325.4327475638498,
+          "y": 203.14390980270758,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 346.87798227417125,
+          "y": 224.5504492605358,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 642.9871371342098,
+          "y": 402.86703791385077,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "image_file": "9c1d49af-d036-4103-a837-1460da2b41ab.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_10mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 87.66386470905648,
+          "y": 237.91584363390763,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 219.23549835552512,
+          "y": 90.16741372411525,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 542.019003286877,
+          "y": 327.1293981888513,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 582.2024371368072,
+          "y": 341.2306695977471,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 624.8755202842818,
+          "y": 353.7311440198369,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_500mg_BID"
+      },
+      "points": [
+        {
+          "x": 91.97465961614536,
+          "y": 228.59671987239585,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 312.00156384313226,
+          "y": 289.7460411180235,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 383.7151873934886,
+          "y": 335.5222264793789,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 425.1495632313695,
+          "y": 354.2964929606313,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 425.65188762805377,
+          "y": 354.4960051517173,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 570.8536318634432,
+          "y": 392.3434483268136,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

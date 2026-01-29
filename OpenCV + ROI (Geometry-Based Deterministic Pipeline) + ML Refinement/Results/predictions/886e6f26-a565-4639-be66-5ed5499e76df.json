@@ -1,0 +1,53 @@
+{
+  "image_file": "886e6f26-a565-4639-be66-5ed5499e76df.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "TNF-alpha_Mid"
+      },
+      "points": [
+        {
+          "x": 105.46258307133861,
+          "y": 397.20198851642226,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 224.53958047509656,
+          "y": 329.56372187429366,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 436.2992639793568,
+          "y": 214.59861750168812,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 625.6009676542385,
+          "y": 94.85596484383558,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 633.8772435289313,
+          "y": 98.14571702879033,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "image_file": "884eb2fb-ec89-48a0-bcf3-28e535bbe42e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_100mg_QW"
+      },
+      "points": [
+        {
+          "x": 99.82282623923504,
+          "y": 290.6140747555741,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 154.49234250943323,
+          "y": 90.45950423694973,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 341.9121998455047,
+          "y": 164.9720352085762,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 368.90589689803056,
+          "y": 193.58741801748369,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 472.4778091517662,
+          "y": 294.5228374370321,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 492.3637407795801,
+          "y": 311.65625838975683,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 543.5323619029593,
+          "y": 352.2225065667632,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 611.7119644673085,
+          "y": 398.83760171199987,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

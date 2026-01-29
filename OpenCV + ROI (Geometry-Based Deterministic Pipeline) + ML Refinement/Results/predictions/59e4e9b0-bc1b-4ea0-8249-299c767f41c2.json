@@ -1,0 +1,69 @@
+{
+  "image_file": "59e4e9b0-bc1b-4ea0-8249-299c767f41c2.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Durvalumab_0.3mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 104.20033578007875,
+          "y": 83.71069135111571,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 358.5585363686375,
+          "y": 297.654488299498,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 380.1922662641719,
+          "y": 308.9097650454648,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 398.82485903177553,
+          "y": 317.9834087706338,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 482.85684131789606,
+          "y": 352.66541536427496,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 573.0248997093503,
+          "y": 380.64167060607747,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 645.697284427056,
+          "y": 397.88081092988875,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

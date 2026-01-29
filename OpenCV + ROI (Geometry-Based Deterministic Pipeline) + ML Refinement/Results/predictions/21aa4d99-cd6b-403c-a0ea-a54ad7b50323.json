@@ -1,0 +1,61 @@
+{
+  "image_file": "21aa4d99-cd6b-403c-a0ea-a54ad7b50323.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "VEGF_CohortA"
+      },
+      "points": [
+        {
+          "x": 129.47857808516827,
+          "y": 86.61357035731419,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 155.7270388522633,
+          "y": 153.79914498538335,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 260.8883464037326,
+          "y": 218.18201920906097,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 447.0728105096989,
+          "y": 358.3402912569851,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 456.3367298514049,
+          "y": 418.232222089061,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 610.9054946103581,
+          "y": 388.19984450031507,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

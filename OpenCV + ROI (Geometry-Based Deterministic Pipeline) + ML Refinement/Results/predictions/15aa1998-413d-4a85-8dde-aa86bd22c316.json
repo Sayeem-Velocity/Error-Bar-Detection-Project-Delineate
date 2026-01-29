@@ -1,0 +1,92 @@
+{
+  "image_file": "15aa1998-413d-4a85-8dde-aa86bd22c316.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "HbA1c_TrtA"
+      },
+      "points": [
+        {
+          "x": 110.99637815882011,
+          "y": 394.6978607341325,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 282.08048128880216,
+          "y": 223.59601315057478,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 287.6635984257552,
+          "y": 275.75693954121664,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 291.4095110381428,
+          "y": 158.02784148936348,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 329.8525702377482,
+          "y": 94.47750488199574,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 353.686936543371,
+          "y": 310.31553511083234,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Glucose_TrtB"
+      },
+      "points": [
+        {
+          "x": 319.15219160153373,
+          "y": 207.33808270221618,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 431.1350905299327,
+          "y": 172.5731401485374,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 624.6636264716561,
+          "y": 155.94516427022234,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

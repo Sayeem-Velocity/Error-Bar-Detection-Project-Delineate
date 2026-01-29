@@ -1,0 +1,242 @@
+{
+  "image_file": "caaa0d95-24f5-44c3-9fe9-9de5020d67c5.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_200mg_Active"
+      },
+      "points": [
+        {
+          "x": 119.51455918476019,
+          "y": 250.94728061307026,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 383.7286758344338,
+          "y": 374.79963959175006,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 13.0,
+          "label": ""
+        },
+        {
+          "x": 604.1681684993858,
+          "y": 414.6240576222741,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 651.8528657451959,
+          "y": 418.64540373132525,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 656.6968164008866,
+          "y": 419.0000082570704,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_1mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 249.4353106144985,
+          "y": 234.50238865641927,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 267.1188955826374,
+          "y": 253.71671706676258,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 305.5141803420283,
+          "y": 289.2054244736668,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 306.7606764484425,
+          "y": 290.229235412517,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 319.1030626215357,
+          "y": 299.9729576786254,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 373.8382979937059,
+          "y": 335.61143580434907,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 386.57553507333483,
+          "y": 342.3875921713173,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_10mg_kg_Placebo"
+      },
+      "points": [
+        {
+          "x": 98.12453903881632,
+          "y": 70.51124243588004,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 123.82548523997096,
+          "y": 100.3867516772965,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 128.86209516790166,
+          "y": 110.51419391456835,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 141.40450504892073,
+          "y": 136.76251471921705,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 372.20522259968203,
+          "y": 383.5820589745763,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 472.6786194169049,
+          "y": 410.6556543744839,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 633.8902103502091,
+          "y": 426.98930978789826,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_200mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 132.2803726920886,
+          "y": 299.62788677004664,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 145.05917201201405,
+          "y": 309.34363653056744,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 192.65664133983958,
+          "y": 346.8163015923834,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 289.05023187551956,
+          "y": 394.28123019429876,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 294.85498721279333,
+          "y": 396.0742713092814,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 295.5340414016454,
+          "y": 396.2780720212628,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 418.5114118716924,
+          "y": 418.65329939318895,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

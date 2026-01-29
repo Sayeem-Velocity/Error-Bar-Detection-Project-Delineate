@@ -1,0 +1,163 @@
+{
+  "image_file": "37af4e3d-34a4-4fa1-bd01-e42c715068a7.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_0.1mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 193.24014249049756,
+          "y": 299.2131838297589,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 201.91641858563116,
+          "y": 302.0007906912719,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 204.54741958970652,
+          "y": 302.86541344135134,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 298.8004221082334,
+          "y": 332.9413335900287,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 302.94396002484456,
+          "y": 334.114951134575,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 321.06294111943373,
+          "y": 339.0719370129492,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 434.23645451631114,
+          "y": 364.2106052341877,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_500mg_Low"
+      },
+      "points": [
+        {
+          "x": 152.11701727347892,
+          "y": 289.9366578387704,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 315.6993623045659,
+          "y": 368.4613401316107,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 497.32557109280225,
+          "y": 409.3820444816588,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 507.03285212308697,
+          "y": 410.540168242443,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 612.1010644679775,
+          "y": 419.4933773468502,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_200mg_Mid"
+      },
+      "points": [
+        {
+          "x": 104.1292105794189,
+          "y": 97.13214166150482,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 211.63371041275707,
+          "y": 157.72813547347778,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 371.4251252232904,
+          "y": 292.0811247426636,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 413.0547281388118,
+          "y": 314.2024926802452,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 611.1140317995532,
+          "y": 378.2232730126759,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

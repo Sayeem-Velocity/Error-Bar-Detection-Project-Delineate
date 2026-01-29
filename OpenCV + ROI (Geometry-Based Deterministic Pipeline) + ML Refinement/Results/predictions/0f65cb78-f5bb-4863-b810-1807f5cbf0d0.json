@@ -1,0 +1,84 @@
+{
+  "image_file": "0f65cb78-f5bb-4863-b810-1807f5cbf0d0.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_10mg_kg_Placebo"
+      },
+      "points": [
+        {
+          "x": 504.13440993467333,
+          "y": 396.2506313655718,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 560.2118398962295,
+          "y": 401.1653241807922,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 651.8765000965196,
+          "y": 406.96071777716304,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ponezumab_50mg_Mid"
+      },
+      "points": [
+        {
+          "x": 91.99341943561517,
+          "y": 95.21302111807182,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 99.11413517605878,
+          "y": 104.42831732115042,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 144.7701098526939,
+          "y": 162.92892314604813,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 288.922189550115,
+          "y": 294.6074383696067,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 420.07627115647193,
+          "y": 356.3472676369044,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

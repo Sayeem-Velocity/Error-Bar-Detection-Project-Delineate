@@ -1,0 +1,147 @@
+{
+  "image_file": "8c871fb2-1a92-4cdc-8b4c-e4f509c4230a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ipilimumab_0.1mg_kg_TrtB"
+      },
+      "points": [
+        {
+          "x": 150.7497690543416,
+          "y": 241.43590210695726,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 232.40504241346952,
+          "y": 311.8968791926025,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 235.72381949673843,
+          "y": 314.4725144696465,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 645.3605148302385,
+          "y": 426.4712932013783,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_200mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 132.05125521775972,
+          "y": 66.73828664670447,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 151.0523747933164,
+          "y": 92.75232083047467,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 171.26511106414864,
+          "y": 123.8522805031721,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 180.36899807627861,
+          "y": 137.74617090651617,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 224.26857327462994,
+          "y": 198.7120725887267,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 379.0990666995654,
+          "y": 332.7214177072516,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 424.6238816706764,
+          "y": 355.4867760046466,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Pembrolizumab_300mg_QW"
+      },
+      "points": [
+        {
+          "x": 90.17051176146033,
+          "y": 203.5961546569422,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 142.97131362384044,
+          "y": 114.3990945316504,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 210.36857970553945,
+          "y": 155.361614753055,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 327.6670315484419,
+          "y": 247.92927666007233,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "image_file": "e1a0fb8a-0f69-447d-80c1-9c639156300e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_3mg_kg_QD"
+      },
+      "points": [
+        {
+          "x": 110.24858055137145,
+          "y": 99.46390940658836,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 159.57871723209922,
+          "y": 144.47663368445575,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 193.22122780350378,
+          "y": 172.24059460661243,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 380.0786863815474,
+          "y": 290.8419220252946,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 650.891416498658,
+          "y": 389.46438091258005,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

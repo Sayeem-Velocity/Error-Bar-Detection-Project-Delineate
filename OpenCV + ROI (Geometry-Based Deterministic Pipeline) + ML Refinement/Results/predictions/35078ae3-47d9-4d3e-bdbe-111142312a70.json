@@ -1,0 +1,148 @@
+{
+  "image_file": "35078ae3-47d9-4d3e-bdbe-111142312a70.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_300mg_TrtA"
+      },
+      "points": [
+        {
+          "x": 102.10703981339537,
+          "y": 139.73308125158064,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 109.07932093241676,
+          "y": 117.04419120004047,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 125.77847710251447,
+          "y": 93.30073320006528,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 265.89628193377445,
+          "y": 242.7843942620907,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 578.0741732902587,
+          "y": 390.0176823140903,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 588.3411638442892,
+          "y": 391.61768822348995,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 590.3012708516706,
+          "y": 391.9120888122317,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 620.6293707094968,
+          "y": 396.051842695519,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Trastuzumab_50mg_High"
+      },
+      "points": [
+        {
+          "x": 105.49245078663046,
+          "y": 342.5595675148461,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 106.20246096922838,
+          "y": 341.62082144439296,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 121.7135781493167,
+          "y": 327.1036533071004,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 198.77127083812678,
+          "y": 335.3424603538857,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 199.06263577265054,
+          "y": 335.46708190103163,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 220.97849608370365,
+          "y": 345.1411705249127,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 14.0,
+          "label": ""
+        },
+        {
+          "x": 314.097632159133,
+          "y": 381.5702420636537,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 381.91472077029744,
+          "y": 399.0517458397678,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

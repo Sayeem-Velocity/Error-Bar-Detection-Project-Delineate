@@ -1,0 +1,116 @@
+{
+  "image_file": "d79a593d-b8a5-4141-bc32-faf5300e1c7b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_200mg_QD"
+      },
+      "points": [
+        {
+          "x": 117.3666269003738,
+          "y": 67.88160048040044,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 129.2552122184951,
+          "y": 84.72625346918812,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 147.03975204688697,
+          "y": 113.83651262823372,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 173.14997273733826,
+          "y": 157.42383943803367,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 218.8635062523502,
+          "y": 224.63165550372906,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 249.41593291386874,
+          "y": 261.56087653660217,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 252.68496907799113,
+          "y": 265.15686037352333,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Solanezumab_1mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 363.7454670134685,
+          "y": 360.1307712510381,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 443.53819111488383,
+          "y": 383.975290310285,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 479.0065140895349,
+          "y": 392.4365189628529,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 616.0182543444936,
+          "y": 416.13259453186265,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 634.9304706631041,
+          "y": 418.5270473781968,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

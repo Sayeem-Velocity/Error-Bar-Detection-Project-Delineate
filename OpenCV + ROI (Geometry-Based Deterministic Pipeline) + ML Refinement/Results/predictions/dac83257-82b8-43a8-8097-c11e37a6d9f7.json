@@ -1,0 +1,53 @@
+{
+  "image_file": "dac83257-82b8-43a8-8097-c11e37a6d9f7.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Nivolumab_200mg_single"
+      },
+      "points": [
+        {
+          "x": 92.03663754188756,
+          "y": 88.22345612119204,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 261.5121966866917,
+          "y": 223.5069731723434,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 449.1623031798482,
+          "y": 349.86823593011525,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 537.4333783089237,
+          "y": 379.7145078694494,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 14.0,
+          "label": ""
+        },
+        {
+          "x": 631.4010228240585,
+          "y": 400.24185850844106,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

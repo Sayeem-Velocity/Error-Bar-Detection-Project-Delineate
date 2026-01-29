@@ -1,0 +1,84 @@
+{
+  "image_file": "38d7fdc6-a3b1-430f-96e8-b2f2341bb1eb.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Nivolumab_0.3mg_kg_Q2W"
+      },
+      "points": [
+        {
+          "x": 153.87930468397954,
+          "y": 73.01123870540403,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 193.3271631850302,
+          "y": 97.56029008880495,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 621.7900756858041,
+          "y": 419.46393728772955,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Trastuzumab_0.3mg_kg_TrtB"
+      },
+      "points": [
+        {
+          "x": 125.08277720705051,
+          "y": 147.49560308283458,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 270.99998553209923,
+          "y": 71.51526079550041,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 359.2470931380849,
+          "y": 123.27553188804421,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 404.35723840977846,
+          "y": 152.04881711449366,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 497.57334284035915,
+          "y": 208.06891419161138,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "image_file": "916cc32b-7982-47c2-89d2-fa395456b680.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Platelets_Control"
+      },
+      "points": [
+        {
+          "x": 130.56828502160448,
+          "y": 57.45545278564646,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 336.6455741026486,
+          "y": 313.2711567580493,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 541.9190119989058,
+          "y": 401.7571166864532,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 559.8509276247892,
+          "y": 299.9541450207171,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 611.4449450085372,
+          "y": 168.0303929540362,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 621.0828795091661,
+          "y": 296.5588148631657,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "image_file": "ecc30d20-91e8-4309-ba6e-86a6503340cb.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "BUN_Low"
+      },
+      "points": [
+        {
+          "x": 187.07134831600848,
+          "y": 100.76574425501377,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 191.33069832613444,
+          "y": 98.0189318878518,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 365.9331248253802,
+          "y": 58.99449138739379,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 650.8023107347512,
+          "y": 55.857464123549846,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 658.7232132599224,
+          "y": 55.852269159602656,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Platelets_High"
+      },
+      "points": [
+        {
+          "x": 76.63603381923204,
+          "y": 221.99402875127453,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 202.8110284949936,
+          "y": 348.7106758595186,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 17.0,
+          "label": ""
+        },
+        {
+          "x": 203.7350178217609,
+          "y": 365.42517334597477,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 214.82796865636828,
+          "y": 334.31745375045875,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 214.86993120235044,
+          "y": 345.1383712588181,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 240.02151818316952,
+          "y": 349.15896185903136,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 278.07180371212314,
+          "y": 395.384669725547,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 373.03740558120523,
+          "y": 391.5109892937931,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 402.6653379813256,
+          "y": 405.1974572951183,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

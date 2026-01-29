@@ -1,0 +1,132 @@
+{
+  "image_file": "459b3e93-a5ab-4c70-89b8-7db4e252c94b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_0.1mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 419.6205906586569,
+          "y": 233.82430242162548,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 459.70877481336646,
+          "y": 263.5320684229399,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 474.3941015109082,
+          "y": 273.31136318687237,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 477.9068831133899,
+          "y": 275.56933829641616,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 639.5993841961,
+          "y": 352.2914062383628,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ponezumab_500mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 111.58823213552026,
+          "y": 80.11349577846488,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 144.72991630452748,
+          "y": 143.38991157874568,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 177.12420769574223,
+          "y": 196.263122788813,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 252.05063379363378,
+          "y": 287.6983532072889,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 255.86241252316472,
+          "y": 291.3918814524587,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 292.8581312100741,
+          "y": 323.3623631184389,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 305.83784095837274,
+          "y": 333.07330805940217,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 437.76715056658713,
+          "y": 399.8903997098937,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 454.80634401877467,
+          "y": 405.40295745024383,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

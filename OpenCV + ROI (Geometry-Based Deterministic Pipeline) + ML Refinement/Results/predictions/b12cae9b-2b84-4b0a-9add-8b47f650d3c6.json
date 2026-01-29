@@ -1,0 +1,172 @@
+{
+  "image_file": "b12cae9b-2b84-4b0a-9add-8b47f650d3c6.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Gantenerumab_300mg_CohortB"
+      },
+      "points": [
+        {
+          "x": 88.4435870687174,
+          "y": 224.92163655140877,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 192.23556394099614,
+          "y": 81.9894296644099,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 274.2579079995234,
+          "y": 161.11440880832515,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 277.86584931689976,
+          "y": 164.7796207342493,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 359.33734012210573,
+          "y": 241.0049605793513,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 396.5046878101292,
+          "y": 270.76629889363164,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 436.0146157123043,
+          "y": 299.00737040107356,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 556.2099329887533,
+          "y": 366.57920187746464,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 590.8443153528985,
+          "y": 381.8077287725255,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 639.4138587653662,
+          "y": 400.57560718426726,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_500mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 112.02190466598628,
+          "y": 110.13139213420789,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 157.43566777550694,
+          "y": 64.71852504460298,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 215.58267133430945,
+          "y": 104.48942735627429,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 227.00653316576194,
+          "y": 115.97436942263431,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 281.6815378974405,
+          "y": 172.5234938429369,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 283.2593296642171,
+          "y": 174.11322746849464,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 426.44058612377916,
+          "y": 294.01480894818604,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 438.35299123586276,
+          "y": 301.8209188698221,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 451.6977218116034,
+          "y": 310.2147284619448,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

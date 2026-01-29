@@ -1,0 +1,84 @@
+{
+  "image_file": "fa857870-8044-41ce-b740-6b22a20f3803.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "CRP_CohortA"
+      },
+      "points": [
+        {
+          "x": 114.40122773937952,
+          "y": 282.06056411588287,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 202.7588931840693,
+          "y": 332.8761651180654,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 250.63558731930033,
+          "y": 374.64951482643534,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 251.10510065247985,
+          "y": 368.35248511038856,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 331.9170115764389,
+          "y": 423.2311467258594,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Insulin_Low"
+      },
+      "points": [
+        {
+          "x": 419.7147793755353,
+          "y": 98.04955773947722,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 432.06094388454085,
+          "y": 97.08141112380883,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 634.3931514179347,
+          "y": 90.0642514144775,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

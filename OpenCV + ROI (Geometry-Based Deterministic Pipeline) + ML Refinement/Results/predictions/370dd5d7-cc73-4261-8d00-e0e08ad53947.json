@@ -1,0 +1,156 @@
+{
+  "image_file": "370dd5d7-cc73-4261-8d00-e0e08ad53947.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_300mg_BID"
+      },
+      "points": [
+        {
+          "x": 84.1305268823627,
+          "y": 313.73240326021903,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 137.515200048891,
+          "y": 191.66360812142744,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 158.72984708496085,
+          "y": 186.0817769507172,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 306.70099187727527,
+          "y": 290.72292384640696,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 307.1913137523657,
+          "y": 291.10170134722796,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 392.3151158960049,
+          "y": 347.1993398177663,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 496.15907565141913,
+          "y": 391.7201416497018,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 508.8228523131229,
+          "y": 395.72932300716707,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_300mg_TrtA"
+      },
+      "points": [
+        {
+          "x": 98.03098406315392,
+          "y": 116.20844672616903,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 127.34399077825734,
+          "y": 85.44023898466497,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 166.17993905568568,
+          "y": 120.60425494602487,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 174.92416071596293,
+          "y": 131.7887596996315,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 181.30971842892248,
+          "y": 140.1256729313174,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 287.31037911273495,
+          "y": 260.2023620552838,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 365.5316790419557,
+          "y": 317.3181395779147,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 501.4826202620457,
+          "y": 374.7754461879847,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 626.2610353778181,
+          "y": 401.2630359694968,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

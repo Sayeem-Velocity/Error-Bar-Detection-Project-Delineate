@@ -1,0 +1,147 @@
+{
+  "image_file": "aca8b6b9-8faa-408b-bd90-16c181e15a81.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_3mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 134.7424423345979,
+          "y": 71.37846591000823,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 192.71131271181724,
+          "y": 123.16252861896805,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 308.35298666954566,
+          "y": 236.78057027170257,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 388.66331444707646,
+          "y": 290.91004339954344,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 408.79503842854194,
+          "y": 301.6612499095602,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 444.49283166731186,
+          "y": 318.4317017534202,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Panitumumab_200mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 100.14426220293473,
+          "y": 144.8285462411481,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 271.60951611649085,
+          "y": 286.06141457310713,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 282.7225273375309,
+          "y": 293.123846655559,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 595.4916832260953,
+          "y": 391.54484841318606,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 650.6150775015481,
+          "y": 397.8860505614705,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Cetuximab_200mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 145.40972181557788,
+          "y": 109.30641782259806,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 164.76888024131338,
+          "y": 130.88425805033853,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 218.73803925827187,
+          "y": 186.32897751705315,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 239.7950823137923,
+          "y": 205.2344636836591,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

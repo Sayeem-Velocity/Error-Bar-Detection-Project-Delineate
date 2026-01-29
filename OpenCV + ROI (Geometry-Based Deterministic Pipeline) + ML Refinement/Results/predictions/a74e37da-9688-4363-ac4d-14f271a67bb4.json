@@ -1,0 +1,53 @@
+{
+  "image_file": "a74e37da-9688-4363-ac4d-14f271a67bb4.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "CEA_TrtB"
+      },
+      "points": [
+        {
+          "x": 109.603780202263,
+          "y": 385.22520101190685,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 162.0853470922719,
+          "y": 160.98521031855762,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 573.6014358799009,
+          "y": 367.277101262413,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 601.592319755935,
+          "y": 69.65941141795747,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 641.2616073678735,
+          "y": 180.51291199842353,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

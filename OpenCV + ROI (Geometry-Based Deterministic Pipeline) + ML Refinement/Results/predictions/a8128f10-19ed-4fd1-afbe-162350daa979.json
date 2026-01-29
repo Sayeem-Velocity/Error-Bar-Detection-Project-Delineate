@@ -1,0 +1,69 @@
+{
+  "image_file": "a8128f10-19ed-4fd1-afbe-162350daa979.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_100mg_BID"
+      },
+      "points": [
+        {
+          "x": 102.22096754880036,
+          "y": 46.82037443840221,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 184.64265118430993,
+          "y": 155.5065914307683,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 345.9557230056564,
+          "y": 298.7782848330385,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 419.6825261162238,
+          "y": 339.0176763465285,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 521.716813665609,
+          "y": 377.4888682951556,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 600.1737257238578,
+          "y": 397.49123010154193,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 654.261252655287,
+          "y": 407.8224053575105,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

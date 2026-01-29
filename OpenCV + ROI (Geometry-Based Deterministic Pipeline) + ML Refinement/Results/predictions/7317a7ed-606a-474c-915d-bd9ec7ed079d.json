@@ -1,0 +1,84 @@
+{
+  "image_file": "7317a7ed-606a-474c-915d-bd9ec7ed079d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_100mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 117.97021532160906,
+          "y": 144.69947472145986,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 215.53182340764033,
+          "y": 188.62323893436445,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 246.97711065621314,
+          "y": 222.00788811568765,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 383.79761259533336,
+          "y": 332.4197319324028,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ponezumab_300mg_QD"
+      },
+      "points": [
+        {
+          "x": 87.23642481330316,
+          "y": 48.093118682203055,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 306.53414610713844,
+          "y": 192.01098324459338,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 557.769998246488,
+          "y": 382.4100237442449,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 629.9432589990197,
+          "y": 405.7131970195835,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

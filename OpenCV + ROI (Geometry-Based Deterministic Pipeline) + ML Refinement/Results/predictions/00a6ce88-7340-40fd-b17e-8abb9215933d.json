@@ -1,0 +1,77 @@
+{
+  "image_file": "00a6ce88-7340-40fd-b17e-8abb9215933d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_0.1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 105.68635157335788,
+          "y": 120.04262396616349,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 119.34458037314408,
+          "y": 92.64188026362763,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 177.75103081580005,
+          "y": 113.73258480597502,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 210.40859189775853,
+          "y": 153.34588276784643,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 324.752679976674,
+          "y": 270.5530768491262,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 494.87748697381335,
+          "y": 356.95199618355196,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 530.8028620086068,
+          "y": 366.99847271687594,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 636.6621428247438,
+          "y": 387.3189526393106,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

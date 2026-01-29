@@ -1,0 +1,123 @@
+{
+  "image_file": "073aaf9e-bdaa-4b35-8b06-2b620aa92584.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "C-peptide_CohortA"
+      },
+      "points": [
+        {
+          "x": 227.20917490032534,
+          "y": 104.81809928361537,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 338.56032079127726,
+          "y": 90.44428270127293,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 510.8340066699317,
+          "y": 86.02602916923445,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 523.9592384051474,
+          "y": 85.93392360362276,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "C-peptide_Placebo"
+      },
+      "points": [
+        {
+          "x": 149.3690043211071,
+          "y": 208.01662994760989,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 208.9978175482467,
+          "y": 186.80113871956047,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 469.64638800798946,
+          "y": 164.0824991008115,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 644.3642372694122,
+          "y": 162.770454209111,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Troponin-I_Active"
+      },
+      "points": [
+        {
+          "x": 110.44878984711859,
+          "y": 372.8161690765583,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 121.6573723195635,
+          "y": 371.8527596767557,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 213.98552114079627,
+          "y": 398.17686002587675,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 349.8123647182688,
+          "y": 379.4324009040133,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

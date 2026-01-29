@@ -1,0 +1,85 @@
+{
+  "image_file": "00271e61-86e3-453f-8101-fe906ae927eb.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_500mg_Control"
+      },
+      "points": [
+        {
+          "x": 96.58120273413908,
+          "y": 70.94969906573277,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 101.74305969130319,
+          "y": 66.17320816857654,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 221.26591169107294,
+          "y": 141.52897105028757,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 256.1650676231034,
+          "y": 176.49795400235405,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 308.0240128948651,
+          "y": 223.51513403639706,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 330.23955732706395,
+          "y": 241.56333134731494,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 362.2990750417031,
+          "y": 265.44169227953927,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 624.248440522474,
+          "y": 388.099983847811,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 658.8249756585337,
+          "y": 397.54561343875054,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

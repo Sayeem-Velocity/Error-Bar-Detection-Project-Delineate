@@ -1,0 +1,69 @@
+{
+  "image_file": "38fdd6bc-90a6-4f80-ae40-a15fbe47223a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_0.3mg_kg_TrtB"
+      },
+      "points": [
+        {
+          "x": 112.59294725443145,
+          "y": 69.23008435564088,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 215.1971305611231,
+          "y": 93.12055234692855,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 272.97822638694856,
+          "y": 160.73316389986144,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 435.85684577726215,
+          "y": 312.7126879995345,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 472.0617193555059,
+          "y": 336.4321429927923,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 485.60201610285384,
+          "y": 344.51267111665334,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 642.6402754711364,
+          "y": 413.4260099225916,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "image_file": "7a18aa4a-d6eb-45ca-9c2d-6e9e57ed5064.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_300mg_Control"
+      },
+      "points": [
+        {
+          "x": 121.95644927792287,
+          "y": 46.77871776702608,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 281.44449872605526,
+          "y": 261.87941185511227,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 285.72572354807977,
+          "y": 265.7196330983078,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 324.4081325958928,
+          "y": 297.1148574986947,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 326.73004157490175,
+          "y": 298.8231549055285,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 16.0,
+          "label": ""
+        },
+        {
+          "x": 360.64329684359467,
+          "y": 321.7530888433962,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 620.5474129819418,
+          "y": 415.09241997310914,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

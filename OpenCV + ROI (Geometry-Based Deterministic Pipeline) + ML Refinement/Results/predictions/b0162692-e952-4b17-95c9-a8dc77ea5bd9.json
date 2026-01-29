@@ -1,0 +1,93 @@
+{
+  "image_file": "b0162692-e952-4b17-95c9-a8dc77ea5bd9.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Panitumumab_0.3mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 122.02701889277456,
+          "y": 87.49925082208506,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 327.6946409645943,
+          "y": 235.2658102539039,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 371.6483437281453,
+          "y": 269.221975766043,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 439.42232289342655,
+          "y": 312.1867558439981,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 447.08820174928746,
+          "y": 316.4177143674152,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 507.27066146345646,
+          "y": 345.8498093181145,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 542.0961650843934,
+          "y": 360.16743725052953,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 548.9194017883375,
+          "y": 362.76687490133804,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 550.6472856180561,
+          "y": 363.4149969118287,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 630.2076346267254,
+          "y": 389.25562006851874,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

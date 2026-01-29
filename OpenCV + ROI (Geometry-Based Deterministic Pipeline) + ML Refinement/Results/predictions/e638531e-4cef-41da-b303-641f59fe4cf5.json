@@ -1,0 +1,148 @@
+{
+  "image_file": "e638531e-4cef-41da-b303-641f59fe4cf5.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Rituximab_100mg_Mid"
+      },
+      "points": [
+        {
+          "x": 196.47289676544116,
+          "y": 82.91361640024576,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 324.35763142004174,
+          "y": 236.5793639227735,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 334.6636859261458,
+          "y": 245.55897369465782,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 369.96954092198,
+          "y": 273.06788086477377,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 408.02741111652114,
+          "y": 297.74759317564894,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 433.3559280402604,
+          "y": 311.7309280856847,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 435.3138685787258,
+          "y": 312.7389870489217,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 525.46736919084,
+          "y": 349.7964346507165,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 543.5618969326349,
+          "y": 355.3976767407793,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Rituximab_300mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 101.03731170671892,
+          "y": 258.87251570602695,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 139.8389253257878,
+          "y": 297.3768297247664,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 249.50429064065378,
+          "y": 369.07275964022955,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 421.341551656593,
+          "y": 412.0111031573462,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 540.5992105227083,
+          "y": 422.2152314251504,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 574.3955048217293,
+          "y": 423.84350256408976,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 652.9406510170901,
+          "y": 426.4040440457833,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

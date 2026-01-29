@@ -1,0 +1,218 @@
+{
+  "image_file": "dae8f68b-595e-4e8a-aaba-3f53a4646807.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_0.3mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 185.41511542014143,
+          "y": 334.16843582523865,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 228.85122132967572,
+          "y": 362.9815270454646,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 272.5150347110345,
+          "y": 383.204922832567,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 315.0056484172019,
+          "y": 396.96566457468475,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 320.3201388503733,
+          "y": 398.3697724985519,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 414.8680263739743,
+          "y": 415.29685758295443,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_3mg_kg_Q2W"
+      },
+      "points": [
+        {
+          "x": 281.1654224888971,
+          "y": 186.21912575008332,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 307.1963526489727,
+          "y": 209.8400224018381,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 316.80106484661087,
+          "y": 217.94880550094405,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 331.32967552918774,
+          "y": 229.62445302465613,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 401.0754994821003,
+          "y": 276.8458384074624,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Aducanumab_50mg_High"
+      },
+      "points": [
+        {
+          "x": 99.53276171076965,
+          "y": 74.36072904280229,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 237.76619482460737,
+          "y": 212.89906752796384,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 505.0748080277754,
+          "y": 351.5794605948905,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 646.0952560905284,
+          "y": 380.8017241420356,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 654.7661111090248,
+          "y": 382.08406700682735,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Aducanumab_3mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 116.74684343966187,
+          "y": 127.12602500328148,
+          "topBarPixelDistance": 15.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 124.03664204822527,
+          "y": 129.23026289303698,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 172.88930563185033,
+          "y": 163.84655707726358,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 348.8851916460055,
+          "y": 277.16143487334375,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 442.77947125260096,
+          "y": 315.04102290159636,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 580.9154288288494,
+          "y": 352.5429353056963,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 645.6819005626688,
+          "y": 364.83199347847517,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

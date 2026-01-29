@@ -1,0 +1,394 @@
+{
+  "image_file": "6e8dfe9f-436d-4d82-bd5e-099050f3fc8a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "LDL-C_Active"
+      },
+      "points": [
+        {
+          "x": 74.06536552529737,
+          "y": 371.1864195649815,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 86.9968886522696,
+          "y": 341.92290920453274,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 93.46377197698907,
+          "y": 328.91042365075805,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 145.940280494163,
+          "y": 253.62567268387437,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 224.98743735811803,
+          "y": 201.13912604502644,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 225.01918076747478,
+          "y": 201.12650908404163,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 294.4692520189706,
+          "y": 182.41973899170466,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 338.557099296154,
+          "y": 176.52429345380295,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 353.4080125884776,
+          "y": 175.14563573542034,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 449.0886035863894,
+          "y": 170.32745926064933,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 557.0288768817007,
+          "y": 168.70708806735928,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 595.8949627279083,
+          "y": 168.47995540415872,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 606.4172644820483,
+          "y": 168.43465310546895,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 631.3213981966558,
+          "y": 168.34774619609897,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Troponin-I_Control"
+      },
+      "points": [
+        {
+          "x": 101.12900103771396,
+          "y": 217.64834143644055,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 151.24158905289312,
+          "y": 237.2014126090637,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 156.82527703872643,
+          "y": 174.62422483734264,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 256.5484230865567,
+          "y": 286.14018858991824,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 258.92729255031014,
+          "y": 196.13160643845487,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 267.6876590258532,
+          "y": 175.93746462094134,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 318.12996939600094,
+          "y": 207.3572007068267,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 329.2115900503235,
+          "y": 152.82080172065298,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 365.82459520547064,
+          "y": 153.92763096624293,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 417.7527943174957,
+          "y": 262.888067688002,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 417.96185454408777,
+          "y": 222.29031448226812,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 460.8052167825835,
+          "y": 212.06252203435366,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 467.99959875813244,
+          "y": 159.97843260320553,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 534.7225501142012,
+          "y": 251.62124186777848,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "TNF-alpha_CohortB"
+      },
+      "points": [
+        {
+          "x": 102.5848729618733,
+          "y": 258.534562131353,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 178.1246228336351,
+          "y": 346.45650465312474,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 183.09110958669638,
+          "y": 323.01613491960774,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 196.70521101816183,
+          "y": 328.6274134492669,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 214.46774853055268,
+          "y": 375.2365219158685,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 262.16763874772045,
+          "y": 386.31191744914196,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 268.7358738977442,
+          "y": 393.33804300660546,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 296.58611149852027,
+          "y": 377.4905900777837,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Glucose_CohortB"
+      },
+      "points": [
+        {
+          "x": 93.25180311877487,
+          "y": 396.4679279351665,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 98.05009635349239,
+          "y": 389.4303133929202,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 128.35429412883065,
+          "y": 373.96969885434874,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 267.1122714204146,
+          "y": 284.7821892468569,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 310.689922516191,
+          "y": 245.8533159422673,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 412.6957316796542,
+          "y": 173.80481535261492,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 429.23970058193277,
+          "y": 156.1906506348309,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 447.1871578046972,
+          "y": 149.0644362313638,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 551.5086505725371,
+          "y": 87.6970373659272,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

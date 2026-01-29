@@ -1,0 +1,45 @@
+{
+  "image_file": "0f9fe4c3-b1a5-49f5-b82f-b2bb980e55bb.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_50mg_multi"
+      },
+      "points": [
+        {
+          "x": 107.00651239542061,
+          "y": 68.00808625909315,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 246.0552963671438,
+          "y": 196.4471228176331,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 409.53207800242,
+          "y": 315.96800775518693,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 648.1096647323698,
+          "y": 393.7656787734784,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

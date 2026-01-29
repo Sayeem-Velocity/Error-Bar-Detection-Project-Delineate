@@ -1,0 +1,156 @@
+{
+  "image_file": "38c0f41c-a2f4-4ca6-9954-ad180cb36092.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Gantenerumab_1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 138.3881945413065,
+          "y": 91.9048511451411,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 208.4905310558762,
+          "y": 147.3708371816101,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 279.3481720674579,
+          "y": 220.39109436930698,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 306.9966609211166,
+          "y": 244.3966466754939,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 408.728150270355,
+          "y": 312.13293448378784,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 458.0780842789344,
+          "y": 335.7088956632248,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 507.4873853984809,
+          "y": 354.7635628487187,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 561.8930878592867,
+          "y": 371.52149563242256,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_500mg_multi"
+      },
+      "points": [
+        {
+          "x": 99.57448812548554,
+          "y": 305.7540829876482,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 107.95884012748522,
+          "y": 285.2125155964252,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 273.14853807533626,
+          "y": 292.77743486640685,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 297.20796480184674,
+          "y": 305.17860655570917,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 362.4786433214643,
+          "y": 334.2842624467121,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 410.3126851843804,
+          "y": 351.31245281314045,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 559.3959731094305,
+          "y": 386.4823910324176,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 581.2119455013999,
+          "y": 389.9487025302868,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 625.8313498441828,
+          "y": 396.0735229329082,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

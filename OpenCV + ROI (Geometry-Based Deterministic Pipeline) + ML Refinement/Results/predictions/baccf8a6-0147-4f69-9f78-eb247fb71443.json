@@ -1,0 +1,61 @@
+{
+  "image_file": "baccf8a6-0147-4f69-9f78-eb247fb71443.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "ALT_CohortA"
+      },
+      "points": [
+        {
+          "x": 114.2876260199297,
+          "y": 401.773129631604,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 219.54342005148544,
+          "y": 323.93643831724745,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 454.4253641241507,
+          "y": 176.25384347808102,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 522.8858813801273,
+          "y": 126.70620032200338,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 580.9059094739936,
+          "y": 83.31360956089901,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 628.967518200536,
+          "y": 55.47172614793027,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

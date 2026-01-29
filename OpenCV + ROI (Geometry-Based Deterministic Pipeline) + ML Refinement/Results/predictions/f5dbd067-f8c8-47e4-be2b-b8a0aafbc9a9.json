@@ -1,0 +1,124 @@
+{
+  "image_file": "f5dbd067-f8c8-47e4-be2b-b8a0aafbc9a9.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_300mg_CohortB"
+      },
+      "points": [
+        {
+          "x": 116.82474729352683,
+          "y": 223.05747887355523,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 168.59280258583098,
+          "y": 250.28116199086338,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 280.5326113967749,
+          "y": 298.44566898804635,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 612.9456697758261,
+          "y": 382.29412832539845,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 647.9132042525193,
+          "y": 387.6876547817306,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_50mg_QW"
+      },
+      "points": [
+        {
+          "x": 100.1773159181775,
+          "y": 78.09104697916888,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 183.05792107467116,
+          "y": 181.8734640409341,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 217.21523393635002,
+          "y": 216.39122235729207,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 251.61691660391082,
+          "y": 246.8891988004362,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 438.70213818275306,
+          "y": 357.23556556765186,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 522.4438767441101,
+          "y": 385.9353657075889,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 555.9102526589315,
+          "y": 395.0374961656685,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 636.7395057912886,
+          "y": 412.7074062407866,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

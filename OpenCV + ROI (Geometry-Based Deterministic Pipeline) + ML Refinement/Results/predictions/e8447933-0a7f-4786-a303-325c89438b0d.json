@@ -1,0 +1,69 @@
+{
+  "image_file": "e8447933-0a7f-4786-a303-325c89438b0d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_300mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 140.28196602051077,
+          "y": 74.39217833792429,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 190.8824140095934,
+          "y": 131.41728043899144,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 222.1315604317993,
+          "y": 165.66247236886636,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 223.70710525264627,
+          "y": 167.34219139501585,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 281.52333523903826,
+          "y": 225.02035389954347,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 445.3385172862707,
+          "y": 344.5286821814122,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 612.3692802235059,
+          "y": 415.26592324325327,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

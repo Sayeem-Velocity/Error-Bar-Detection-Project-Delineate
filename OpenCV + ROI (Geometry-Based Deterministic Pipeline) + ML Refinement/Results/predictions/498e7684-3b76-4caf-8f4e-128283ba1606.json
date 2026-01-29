@@ -1,0 +1,163 @@
+{
+  "image_file": "498e7684-3b76-4caf-8f4e-128283ba1606.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_500mg_single"
+      },
+      "points": [
+        {
+          "x": 90.01840206240979,
+          "y": 169.3409939739011,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 137.4590507979658,
+          "y": 92.5258439714541,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 220.98444468336237,
+          "y": 161.4928809078143,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 243.21048324335476,
+          "y": 180.51518171555756,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 464.34733827062917,
+          "y": 306.72944973172474,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 498.55735854773343,
+          "y": 318.6322533457288,
+          "topBarPixelDistance": 15.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 17.0,
+          "label": ""
+        },
+        {
+          "x": 524.8335141696873,
+          "y": 326.8096696102776,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Trastuzumab_500mg_Control"
+      },
+      "points": [
+        {
+          "x": 107.11167856989664,
+          "y": 133.8823690755559,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 183.08123669041697,
+          "y": 206.28478293367283,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 287.0309418068392,
+          "y": 318.7991699656566,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 333.304191854343,
+          "y": 346.48952098489156,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_50mg_single"
+      },
+      "points": [
+        {
+          "x": 88.21326144489797,
+          "y": 182.00450807956952,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 104.94094758438634,
+          "y": 115.38254983689478,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 153.32406415229528,
+          "y": 118.7758864591882,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 179.4476254314555,
+          "y": 150.6530441952321,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 506.66031444543023,
+          "y": 372.13648884326284,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 616.699764069082,
+          "y": 393.53120544209025,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

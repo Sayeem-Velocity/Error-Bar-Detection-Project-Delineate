@@ -1,0 +1,186 @@
+{
+  "image_file": "6ad4d145-6bb5-4ac1-ad5f-c86c81eae7cf.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_100mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 84.74491645820194,
+          "y": 372.47955540770954,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 122.4339259387527,
+          "y": 310.5020492381596,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 145.374214834023,
+          "y": 306.2793504567848,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 218.322351067027,
+          "y": 335.4197624131122,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Adalimumab_300mg_High"
+      },
+      "points": [
+        {
+          "x": 94.19455442507191,
+          "y": 206.9912445483527,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 96.76720822194322,
+          "y": 191.589280258764,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 171.44561565923064,
+          "y": 88.0281719944013,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 185.58036161115297,
+          "y": 97.69879315662774,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 319.70111284980686,
+          "y": 215.8408048324644,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 387.95463821552084,
+          "y": 262.57968036069417,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 406.56402515589866,
+          "y": 273.5033607636732,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Panitumumab_200mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 107.44016249933873,
+          "y": 183.74630441609622,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 250.4923011575725,
+          "y": 215.07218000395716,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 275.8225445937644,
+          "y": 232.3421995998367,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 348.08584454823324,
+          "y": 274.8109120752265,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_0.3mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 160.23988221326272,
+          "y": 187.35781311019264,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 195.276291278656,
+          "y": 213.31965004963314,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 316.907903336908,
+          "y": 320.8077609419041,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 638.3708169965387,
+          "y": 420.94359222188905,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

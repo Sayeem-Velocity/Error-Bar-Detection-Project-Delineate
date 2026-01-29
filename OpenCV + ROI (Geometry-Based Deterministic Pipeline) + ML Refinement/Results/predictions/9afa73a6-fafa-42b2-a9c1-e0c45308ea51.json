@@ -1,0 +1,61 @@
+{
+  "image_file": "9afa73a6-fafa-42b2-a9c1-e0c45308ea51.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Troponin-I_CohortA"
+      },
+      "points": [
+        {
+          "x": 94.85929925006292,
+          "y": 270.7896183736218,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 108.95333447504981,
+          "y": 392.63631613115194,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 222.10844012218,
+          "y": 253.77621373220427,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 263.58274660276675,
+          "y": 207.95779190361645,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 394.3168809237596,
+          "y": 378.5042420776133,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 644.202925954283,
+          "y": 64.6924708925128,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

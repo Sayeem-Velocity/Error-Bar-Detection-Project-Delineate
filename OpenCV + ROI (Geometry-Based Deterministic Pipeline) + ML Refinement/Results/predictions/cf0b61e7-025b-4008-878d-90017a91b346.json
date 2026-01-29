@@ -1,0 +1,69 @@
+{
+  "image_file": "cf0b61e7-025b-4008-878d-90017a91b346.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_0.1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 116.57267331897101,
+          "y": 116.58790624511232,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 135.47419170172859,
+          "y": 86.56784210643451,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 234.1977756470175,
+          "y": 129.91831997027322,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 293.3131537533223,
+          "y": 187.99684974314857,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 478.4511083576692,
+          "y": 326.3265647949299,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 518.447565767612,
+          "y": 347.1727306771099,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 628.7067936703714,
+          "y": 392.5294612907852,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

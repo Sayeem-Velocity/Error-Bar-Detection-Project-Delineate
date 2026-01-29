@@ -1,0 +1,45 @@
+{
+  "image_file": "a318a12a-1272-49dc-abd5-8fcf88dd5c63.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Troponin-I_Mid"
+      },
+      "points": [
+        {
+          "x": 97.35379617932844,
+          "y": 42.72153251117879,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 199.95399809345562,
+          "y": 179.77400573634225,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 283.0400771570123,
+          "y": 183.2308217203106,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 646.1002660487873,
+          "y": 413.82440526070565,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

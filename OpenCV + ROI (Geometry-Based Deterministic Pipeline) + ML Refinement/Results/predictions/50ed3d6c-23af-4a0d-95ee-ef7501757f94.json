@@ -1,0 +1,156 @@
+{
+  "image_file": "50ed3d6c-23af-4a0d-95ee-ef7501757f94.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_0.3mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 119.13805287790876,
+          "y": 73.82356056984815,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 181.24315999366064,
+          "y": 145.91889573441938,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 253.7258265768802,
+          "y": 237.59430551949504,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 253.7517669826088,
+          "y": 237.62128160612644,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 274.06480963601,
+          "y": 257.5640813454779,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 286.60903977843503,
+          "y": 268.7644551956229,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 294.0364066174038,
+          "y": 275.0226181786346,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 294.23664024606546,
+          "y": 275.18762630518245,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 352.49090676015965,
+          "y": 315.87964363300625,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_300mg_multi"
+      },
+      "points": [
+        {
+          "x": 103.2520317598403,
+          "y": 132.25879628061818,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 181.24001765689428,
+          "y": 190.80360356264782,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 466.67000869146693,
+          "y": 380.4910715035103,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 468.6412101580752,
+          "y": 380.97873586515266,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 505.81806703923615,
+          "y": 389.1609999880274,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 508.49619569790786,
+          "y": 389.6820345109304,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 572.1364259011052,
+          "y": 399.86487482872764,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 649.1714297454096,
+          "y": 407.9235112447367,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

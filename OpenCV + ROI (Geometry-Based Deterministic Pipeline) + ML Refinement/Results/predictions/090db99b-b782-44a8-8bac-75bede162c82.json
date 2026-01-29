@@ -1,0 +1,61 @@
+{
+  "image_file": "090db99b-b782-44a8-8bac-75bede162c82.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Durvalumab_300mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 116.84203494426109,
+          "y": 79.06376498742617,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 362.05580834588227,
+          "y": 288.89192417231527,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 389.56235831780475,
+          "y": 306.1829613373164,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 512.2014771416724,
+          "y": 364.87846559969944,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 625.8374523413652,
+          "y": 399.7862259124426,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 635.3684483054601,
+          "y": 402.0940071679164,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "image_file": "5dba76e9-bcc7-4fc8-bcce-2ee90ff31363.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "AST_TrtB"
+      },
+      "points": [
+        {
+          "x": 124.56941348017276,
+          "y": 247.45663479592898,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 152.0697529375244,
+          "y": 259.59022558070274,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 213.63857114083174,
+          "y": 276.18717094403866,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 300.862599527267,
+          "y": 289.28634192040585,
+          "topBarPixelDistance": 15.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 338.14119145482067,
+          "y": 332.9970299743674,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 354.61788329104604,
+          "y": 348.28696424345895,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 637.9146564551706,
+          "y": 406.21552288100884,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Insulin_Low"
+      },
+      "points": [
+        {
+          "x": 105.53732653745092,
+          "y": 248.708332379217,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 129.87326039040758,
+          "y": 219.48844154413274,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 173.7342295211309,
+          "y": 179.40800629950309,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 187.2758084400149,
+          "y": 169.65112416269017,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 263.4751563927229,
+          "y": 130.91198797797966,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 286.6175423498991,
+          "y": 123.16180073200428,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 321.0501713952123,
+          "y": 114.01639916437341,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 459.39037453091197,
+          "y": 94.87754276587731,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 566.0433714862257,
+          "y": 89.52976730869335,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

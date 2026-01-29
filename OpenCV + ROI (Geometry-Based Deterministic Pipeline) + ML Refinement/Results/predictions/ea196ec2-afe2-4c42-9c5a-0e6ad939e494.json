@@ -1,0 +1,53 @@
+{
+  "image_file": "ea196ec2-afe2-4c42-9c5a-0e6ad939e494.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_50mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 80.39761177774439,
+          "y": 279.56080004709105,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 218.51336472841686,
+          "y": 45.59872386074227,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 430.1482332757172,
+          "y": 295.4579726621223,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 580.9942855220061,
+          "y": 388.74554244038427,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 626.3973223154302,
+          "y": 407.95776470534463,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

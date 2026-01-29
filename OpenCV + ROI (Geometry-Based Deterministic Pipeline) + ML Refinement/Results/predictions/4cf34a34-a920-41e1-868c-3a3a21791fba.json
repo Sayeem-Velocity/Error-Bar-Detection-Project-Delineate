@@ -1,0 +1,45 @@
+{
+  "image_file": "4cf34a34-a920-41e1-868c-3a3a21791fba.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_100mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 122.44742483959166,
+          "y": 91.4649428143785,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 124.28320513374669,
+          "y": 93.69059442249988,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 181.94041627466316,
+          "y": 159.64147614264255,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 633.2064639312201,
+          "y": 389.99532364109376,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

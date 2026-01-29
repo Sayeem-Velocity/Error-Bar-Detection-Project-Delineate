@@ -1,0 +1,53 @@
+{
+  "image_file": "ae99ebef-7b3e-4184-b84f-c61996b0e680.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_100mg_multi"
+      },
+      "points": [
+        {
+          "x": 89.44005716641519,
+          "y": 84.41354130601144,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 307.23145927190916,
+          "y": 228.5608909327339,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 374.5437748303955,
+          "y": 297.45163620610276,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 431.6508091172132,
+          "y": 337.4976143664521,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 643.0616874400571,
+          "y": 407.3924498909509,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

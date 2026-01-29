@@ -1,0 +1,53 @@
+{
+  "image_file": "ddf89928-cc6c-4dab-8da9-7875e7bc92e9.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Glucose_Control"
+      },
+      "points": [
+        {
+          "x": 101.61172406208519,
+          "y": 296.6871763192627,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 135.95587980498752,
+          "y": 341.7819282912461,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 176.90150135242487,
+          "y": 75.02428857893835,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 220.66778861360467,
+          "y": 165.55926838045878,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 654.1673037259447,
+          "y": 409.7872716729197,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

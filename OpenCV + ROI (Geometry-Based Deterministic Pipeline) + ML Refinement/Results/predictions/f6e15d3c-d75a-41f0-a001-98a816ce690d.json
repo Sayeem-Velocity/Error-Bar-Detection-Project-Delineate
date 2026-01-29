@@ -1,0 +1,37 @@
+{
+  "image_file": "f6e15d3c-d75a-41f0-a001-98a816ce690d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_10mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 131.27051826540077,
+          "y": 87.86657922841988,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 155.06776650509187,
+          "y": 84.40864511370427,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 619.2748029766442,
+          "y": 407.9788395841468,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

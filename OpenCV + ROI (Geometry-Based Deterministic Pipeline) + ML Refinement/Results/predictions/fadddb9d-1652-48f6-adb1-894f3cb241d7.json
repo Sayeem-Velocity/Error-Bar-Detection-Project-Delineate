@@ -1,0 +1,61 @@
+{
+  "image_file": "fadddb9d-1652-48f6-adb1-894f3cb241d7.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Infliximab_0.3mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 104.38577243284533,
+          "y": 100.84646300083995,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 185.31839675116396,
+          "y": 215.9294050170658,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 213.26506514251767,
+          "y": 245.44646800109984,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 300.6249039172689,
+          "y": 311.5549147685716,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 389.92044277996973,
+          "y": 351.31783565838464,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 637.2432293262311,
+          "y": 394.59056380494064,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

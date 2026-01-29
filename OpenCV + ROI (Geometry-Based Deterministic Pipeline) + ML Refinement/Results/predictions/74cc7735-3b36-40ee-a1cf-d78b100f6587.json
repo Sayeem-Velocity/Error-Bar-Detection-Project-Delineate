@@ -1,0 +1,100 @@
+{
+  "image_file": "74cc7735-3b36-40ee-a1cf-d78b100f6587.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "PSA_TrtB"
+      },
+      "points": [
+        {
+          "x": 65.34711580672464,
+          "y": 123.9831605053767,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 143.9805156948377,
+          "y": 165.27783112437123,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 151.3640126674498,
+          "y": 132.11257959685258,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 244.3420011495267,
+          "y": 151.20988821316632,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 350.32767525393814,
+          "y": 92.67548551583337,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Insulin_TrtB"
+      },
+      "points": [
+        {
+          "x": 199.89523162692973,
+          "y": 275.0388181067973,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 382.87657651913827,
+          "y": 400.7999153464538,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 501.3723385984797,
+          "y": 402.1141139710361,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 606.2391395922215,
+          "y": 425.2111693706151,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 628.0399251686985,
+          "y": 425.2111693706151,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

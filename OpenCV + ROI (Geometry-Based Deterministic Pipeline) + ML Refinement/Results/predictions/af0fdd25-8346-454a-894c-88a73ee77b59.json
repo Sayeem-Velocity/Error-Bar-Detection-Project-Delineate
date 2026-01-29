@@ -1,0 +1,69 @@
+{
+  "image_file": "af0fdd25-8346-454a-894c-88a73ee77b59.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ipilimumab_500mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 100.45273778572593,
+          "y": 112.76337726693214,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 136.98872699319105,
+          "y": 57.61423009763473,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 160.71247707960111,
+          "y": 76.7306623382234,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 316.66038120304484,
+          "y": 283.53374491066313,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 397.37244011334496,
+          "y": 340.09400229990894,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 584.4322596175598,
+          "y": 395.3157677110844,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 622.6151272387062,
+          "y": 400.14411795869034,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

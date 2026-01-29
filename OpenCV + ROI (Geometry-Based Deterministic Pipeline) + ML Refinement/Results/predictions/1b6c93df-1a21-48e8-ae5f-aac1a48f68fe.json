@@ -1,0 +1,132 @@
+{
+  "image_file": "1b6c93df-1a21-48e8-ae5f-aac1a48f68fe.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_0.3mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 100.37846582834132,
+          "y": 78.6167165021294,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 160.87089462781472,
+          "y": 61.518424760278776,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 200.94322582693678,
+          "y": 108.63879300850022,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 232.45969827952416,
+          "y": 144.12625710481757,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 441.3925243325174,
+          "y": 295.81317159899794,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 490.9427173881378,
+          "y": 316.4268333611094,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 524.9185055600913,
+          "y": 328.3253687098459,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 618.6599425220256,
+          "y": 353.7250200077433,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Gantenerumab_0.3mg_kg_High"
+      },
+      "points": [
+        {
+          "x": 246.15040639462404,
+          "y": 131.81081700163782,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 263.81010133188624,
+          "y": 163.02504363915466,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 480.1942728473791,
+          "y": 368.99045814895936,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 500.1805955839122,
+          "y": 377.0173827645342,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 551.899496278059,
+          "y": 393.35489012073043,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 554.5033762666847,
+          "y": 394.03466913174293,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "image_file": "1ff662b1-7dd2-40bb-8c03-7adccb8141b6.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Pembrolizumab_300mg_single"
+      },
+      "points": [
+        {
+          "x": 107.9872517567725,
+          "y": 45.21763637866019,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 163.14875988766187,
+          "y": 65.87226410117484,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 296.5174660673996,
+          "y": 223.54049874914972,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 340.6330713510135,
+          "y": 261.94503538760785,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 461.15902079609464,
+          "y": 339.9065932701541,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 461.8565778416915,
+          "y": 340.2642724256986,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 516.8661207366638,
+          "y": 365.75514290410854,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 641.3034223201048,
+          "y": 407.4355827427678,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Solanezumab_0.1mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 178.69726476110895,
+          "y": 237.7161756968119,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 267.17589234532653,
+          "y": 326.5513251309543,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 274.1902977331992,
+          "y": 333.4929873550237,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 303.52421319175005,
+          "y": 360.4956297926044,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 374.4773643189899,
+          "y": 411.23493290113413,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "image_file": "996ccbc1-137a-49a0-83f5-2a8319f218f6.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Solanezumab_0.1mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 111.76605729914891,
+          "y": 59.517095309452884,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        },
+        {
+          "x": 255.55083741362506,
+          "y": 228.47308477644094,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 363.99921195496233,
+          "y": 311.3145811745577,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 405.4009844208089,
+          "y": 333.2307179020183,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 410.31299290986055,
+          "y": 335.5552921677753,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 417.65458376755123,
+          "y": 338.92968895748777,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 16.0,
+          "label": ""
+        },
+        {
+          "x": 437.469817100753,
+          "y": 347.4689295978249,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_100mg_single"
+      },
+      "points": [
+        {
+          "x": 104.0788681539213,
+          "y": 89.23289075411287,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 156.17500148140118,
+          "y": 117.17423982688899,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 172.36538343135618,
+          "y": 143.92312751800932,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 286.9021317917685,
+          "y": 295.0561216258742,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 366.5568972521671,
+          "y": 351.01966000561595,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 417.21931028091404,
+          "y": 373.57505037792424,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 436.24823255089933,
+          "y": 380.2059391077183,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Solanezumab_3mg_kg_Q2W"
+      },
+      "points": [
+        {
+          "x": 349.7747408970246,
+          "y": 407.0645026215765,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 428.18292791965024,
+          "y": 417.71198162318825,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 460.6534407960948,
+          "y": 420.44105254931173,
+          "topBarPixelDistance": 15.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 512.0418302940559,
+          "y": 423.49381994709205,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 604.223074803439,
+          "y": 426.5447155471106,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 632.9919409340108,
+          "y": 427.1054296361946,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_1mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 123.54209894111469,
+          "y": 235.78028169365945,
+          "topBarPixelDistance": 15.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 199.5639106739273,
+          "y": 312.9804357971898,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 302.7585712688274,
+          "y": 375.2589935528296,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 360.56337418679993,
+          "y": 394.2061878971932,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 17.0,
+          "label": ""
+        },
+        {
+          "x": 416.48576025581724,
+          "y": 406.2306750873627,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 459.48510500289564,
+          "y": 412.6219942053665,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 495.7985592873189,
+          "y": 416.64100523377704,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

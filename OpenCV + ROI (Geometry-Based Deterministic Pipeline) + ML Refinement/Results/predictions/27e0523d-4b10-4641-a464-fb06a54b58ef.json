@@ -1,0 +1,93 @@
+{
+  "image_file": "27e0523d-4b10-4641-a464-fb06a54b58ef.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Solanezumab_300mg_High"
+      },
+      "points": [
+        {
+          "x": 103.5918019261178,
+          "y": 70.85739023539116,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 118.86285815631456,
+          "y": 82.9463907581374,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 289.7826834932947,
+          "y": 245.0829548530393,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 350.6717674544002,
+          "y": 284.8444234689097,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 442.89345862238963,
+          "y": 330.0252369166394,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 493.0367107485954,
+          "y": 348.7025798449255,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 505.73668869398165,
+          "y": 352.89466155493517,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 554.4491384333814,
+          "y": 367.2219138215296,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 642.671827472622,
+          "y": 387.2900218976749,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 647.8955058393044,
+          "y": 388.2803019991867,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

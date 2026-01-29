@@ -1,0 +1,218 @@
+{
+  "image_file": "545d0a54-d502-49ac-a54e-881568988903.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_0.1mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 97.43152268893084,
+          "y": 239.6828581517538,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 259.999987971557,
+          "y": 299.5743043784311,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 289.9408303211562,
+          "y": 313.0710941366832,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 333.55269111112545,
+          "y": 330.0983903091853,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 425.42780951187916,
+          "y": 357.7052189565169,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Rituximab_3mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 131.16011031145865,
+          "y": 91.34136306304708,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 164.82787011470236,
+          "y": 131.90179858514068,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 175.24081621168307,
+          "y": 145.1593294198094,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 231.6476024585143,
+          "y": 208.90387907078605,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 313.0206199208805,
+          "y": 276.63225291584394,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 353.0005083703039,
+          "y": 301.6906074503088,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_10mg_kg_Low"
+      },
+      "points": [
+        {
+          "x": 170.18873542225077,
+          "y": 248.35297489371453,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 257.2722820448259,
+          "y": 321.55719072688015,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 347.83139169734073,
+          "y": 366.11743780177994,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 352.1927605904891,
+          "y": 367.6927546758782,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 581.0712573482156,
+          "y": 411.10509610176496,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 621.7307804428772,
+          "y": 414.17289576823885,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 650.5328470057714,
+          "y": 415.92029507069986,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Aducanumab_1mg_kg_QD"
+      },
+      "points": [
+        {
+          "x": 117.73431929515547,
+          "y": 273.94987634299844,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 131.68167856287937,
+          "y": 283.34461879012713,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 299.4451754191005,
+          "y": 384.6948138404497,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 448.7959804483907,
+          "y": 413.22078108080893,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 485.89944820516774,
+          "y": 416.59485617143434,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

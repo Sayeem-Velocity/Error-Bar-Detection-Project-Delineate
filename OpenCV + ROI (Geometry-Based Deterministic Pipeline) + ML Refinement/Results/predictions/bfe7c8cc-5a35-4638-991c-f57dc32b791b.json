@@ -1,0 +1,61 @@
+{
+  "image_file": "bfe7c8cc-5a35-4638-991c-f57dc32b791b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_50mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 122.8931282344397,
+          "y": 75.10658004730897,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 321.7820331674743,
+          "y": 235.08091602563877,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 328.260932302015,
+          "y": 239.66203185238373,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 515.5727979159724,
+          "y": 357.4691849240015,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 520.2677155113472,
+          "y": 360.0868945863415,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 625.0761574334142,
+          "y": 414.75121055185997,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

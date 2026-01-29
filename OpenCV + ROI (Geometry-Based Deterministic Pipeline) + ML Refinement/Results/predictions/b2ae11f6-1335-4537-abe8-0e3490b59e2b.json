@@ -1,0 +1,218 @@
+{
+  "image_file": "b2ae11f6-1335-4537-abe8-0e3490b59e2b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "PSA_Control"
+      },
+      "points": [
+        {
+          "x": 137.76790404617418,
+          "y": 206.91846246850673,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 184.18317037134358,
+          "y": 256.16541033355907,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 196.23916230949158,
+          "y": 220.78223080577345,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 206.93592577680982,
+          "y": 221.1044869053386,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 219.60382638391448,
+          "y": 322.2520244728237,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 266.96143510715365,
+          "y": 328.15459961111674,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "C-peptide_Active"
+      },
+      "points": [
+        {
+          "x": 250.2742808059769,
+          "y": 119.8419376657996,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 294.07206445931405,
+          "y": 98.77138252722307,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 307.294218825039,
+          "y": 94.30247281291668,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 310.52218500272915,
+          "y": 93.3151117930546,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 442.4216023559951,
+          "y": 73.46702362398185,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 593.9062738663879,
+          "y": 69.1789667526391,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 624.3539406735972,
+          "y": 68.92500396993387,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "AST_Placebo"
+      },
+      "points": [
+        {
+          "x": 79.92480747810528,
+          "y": 408.4615447761839,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 100.11901689357191,
+          "y": 321.0550319073136,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 154.95849657871645,
+          "y": 176.70427949398209,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 157.2944277882026,
+          "y": 172.65752448682986,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 277.3458541902536,
+          "y": 72.71424165915835,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Troponin-I_Control"
+      },
+      "points": [
+        {
+          "x": 75.20640830633793,
+          "y": 373.7776935113918,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 106.61613366987108,
+          "y": 403.6460719791852,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 131.4267040475153,
+          "y": 383.22054053983936,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 182.2516186543553,
+          "y": 414.7092723912971,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 225.34748917347844,
+          "y": 402.03045797018854,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

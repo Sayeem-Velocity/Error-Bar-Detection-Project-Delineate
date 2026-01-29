@@ -1,0 +1,132 @@
+{
+  "image_file": "0280a9da-de0c-44aa-bed1-2e13632c3e08.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Solanezumab_10mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 105.79527324636352,
+          "y": 141.82820493260982,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 151.94770806457558,
+          "y": 174.11471973962483,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 157.7744240949972,
+          "y": 182.5278516633075,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 233.05710137233658,
+          "y": 281.48094189042274,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 272.2951879178488,
+          "y": 317.4993130752242,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 321.9220352413772,
+          "y": 350.18697679060625,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 389.5158046921804,
+          "y": 378.7086417605184,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 424.7222084020717,
+          "y": 388.61511092049454,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Aducanumab_100mg_single"
+      },
+      "points": [
+        {
+          "x": 205.43046352127536,
+          "y": 85.20909551407192,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 219.82812282694795,
+          "y": 115.17449343361966,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 443.8464719025289,
+          "y": 363.29149175941956,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 459.5740888791008,
+          "y": 369.97519805775823,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 17.0,
+          "label": ""
+        },
+        {
+          "x": 498.88828178951906,
+          "y": 383.6271001374506,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 619.4185135046544,
+          "y": 407.38320246659055,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "image_file": "2117be10-61b7-44a2-90ab-c2dec186236d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Panitumumab_500mg_Control"
+      },
+      "points": [
+        {
+          "x": 129.5546151386383,
+          "y": 86.00514056991028,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 216.75344545922832,
+          "y": 169.99102681223007,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 259.3264799583906,
+          "y": 208.6896737095658,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 278.57512290033736,
+          "y": 225.02505957889366,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 307.27797208157506,
+          "y": 247.9573625883564,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 373.67349384832977,
+          "y": 294.6261342502049,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 621.9096572960216,
+          "y": 407.5417436470232,
+          "topBarPixelDistance": 17.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

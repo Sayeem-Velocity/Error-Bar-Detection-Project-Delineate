@@ -1,0 +1,61 @@
+{
+  "image_file": "450c10f4-c702-4a34-8a8a-cde9a4815124.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_1mg_kg_Low"
+      },
+      "points": [
+        {
+          "x": 113.50090504420211,
+          "y": 52.65678216053834,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 427.0343784561163,
+          "y": 340.557522671489,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 444.576117837996,
+          "y": 348.9366635316787,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 471.5377475743451,
+          "y": 360.42967322036293,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 601.3929293810337,
+          "y": 398.0579563698841,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 639.8150957924827,
+          "y": 405.15221700277687,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

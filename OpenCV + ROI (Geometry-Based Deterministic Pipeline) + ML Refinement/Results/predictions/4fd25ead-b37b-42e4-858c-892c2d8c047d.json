@@ -1,0 +1,116 @@
+{
+  "image_file": "4fd25ead-b37b-42e4-858c-892c2d8c047d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Hemoglobin_High"
+      },
+      "points": [
+        {
+          "x": 335.05371136352056,
+          "y": 95.47244552479657,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 349.3255118127803,
+          "y": 91.61740824663383,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 388.2772020756397,
+          "y": 82.5555705278486,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 570.3061080967051,
+          "y": 58.97066418203332,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 634.2258575082133,
+          "y": 55.00709907247659,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Troponin-I_CohortA"
+      },
+      "points": [
+        {
+          "x": 120.91061028531169,
+          "y": 251.99961320486784,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 210.1320055201884,
+          "y": 326.73022274921107,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 233.2588461491734,
+          "y": 341.2247704513101,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 257.8543116755382,
+          "y": 366.30981549808587,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 364.57488143670344,
+          "y": 405.9835381984068,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 452.0328907178839,
+          "y": 406.4814331339984,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 523.8323823816968,
+          "y": 403.15984661840116,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

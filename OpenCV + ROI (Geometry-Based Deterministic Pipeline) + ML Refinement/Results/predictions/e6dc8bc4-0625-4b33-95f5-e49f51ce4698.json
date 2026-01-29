@@ -1,0 +1,77 @@
+{
+  "image_file": "e6dc8bc4-0625-4b33-95f5-e49f51ce4698.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Nivolumab_500mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 139.2203274241394,
+          "y": 95.1947411723296,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 235.5944772852472,
+          "y": 138.6912419120058,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 274.27359314559556,
+          "y": 169.09570761754242,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 295.0083627894203,
+          "y": 185.77700712605798,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 376.1956333755688,
+          "y": 248.75950805567822,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 436.66585435552406,
+          "y": 291.1444682466536,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 499.18695923423144,
+          "y": 330.40215243691466,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 617.2947977619013,
+          "y": 392.9318953289107,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

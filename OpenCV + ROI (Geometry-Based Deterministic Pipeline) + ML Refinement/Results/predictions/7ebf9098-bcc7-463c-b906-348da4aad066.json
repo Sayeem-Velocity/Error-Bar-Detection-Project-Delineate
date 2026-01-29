@@ -1,0 +1,178 @@
+{
+  "image_file": "7ebf9098-bcc7-463c-b906-348da4aad066.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Panitumumab_50mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 189.58171485506216,
+          "y": 78.6536497231549,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 376.5434455849378,
+          "y": 293.84116535818873,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 558.5659265901094,
+          "y": 378.88160018365136,
+          "topBarPixelDistance": 44.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 647.9372691197907,
+          "y": 399.8772192315184,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Panitumumab_50mg_Control"
+      },
+      "points": [
+        {
+          "x": 227.72020775108484,
+          "y": 272.4380777741186,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 355.9513914816662,
+          "y": 375.0422937293506,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 454.8740458717247,
+          "y": 402.49314957080946,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 539.2811574704114,
+          "y": 412.5444984961008,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Rituximab_200mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 97.92414728049408,
+          "y": 257.40162523579124,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 153.52769575522976,
+          "y": 306.14721244252735,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 267.3492313475909,
+          "y": 379.9899287018284,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 319.1790340294623,
+          "y": 396.2845411466629,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 354.70242152309726,
+          "y": 403.8642674801722,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 417.1483711387168,
+          "y": 412.60161887885374,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Etanercept_500mg_multi"
+      },
+      "points": [
+        {
+          "x": 225.75379075432562,
+          "y": 222.29919981260366,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 284.82857716069526,
+          "y": 270.1226704047814,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 447.15218905929686,
+          "y": 356.0809417465347,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 480.04777010422555,
+          "y": 367.7098981979908,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

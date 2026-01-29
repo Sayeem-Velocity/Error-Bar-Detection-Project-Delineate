@@ -1,0 +1,77 @@
+{
+  "image_file": "a2df4768-7439-4706-b059-c5c5829c4575.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Hemoglobin_TrtB"
+      },
+      "points": [
+        {
+          "x": 75.26609827324424,
+          "y": 59.61024694154003,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 104.420766169867,
+          "y": 82.2917951151228,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 304.4405740814759,
+          "y": 274.54810543357917,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 366.73660871933316,
+          "y": 325.7003110080541,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 466.40429829927064,
+          "y": 343.16143380422875,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 537.5589454521705,
+          "y": 396.2785302841413,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 604.9149574760975,
+          "y": 400.0612476903824,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 638.7440121480537,
+          "y": 409.74467830800177,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

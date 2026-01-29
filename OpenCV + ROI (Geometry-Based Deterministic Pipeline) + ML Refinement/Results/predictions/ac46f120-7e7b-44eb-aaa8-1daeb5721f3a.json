@@ -1,0 +1,45 @@
+{
+  "image_file": "ac46f120-7e7b-44eb-aaa8-1daeb5721f3a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Vanucizumab_100mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 101.30551298953799,
+          "y": 62.66332179473352,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 312.25859134930306,
+          "y": 65.59763028629823,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 460.434522610813,
+          "y": 255.77416791855686,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 615.9137524633529,
+          "y": 392.8348143002271,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

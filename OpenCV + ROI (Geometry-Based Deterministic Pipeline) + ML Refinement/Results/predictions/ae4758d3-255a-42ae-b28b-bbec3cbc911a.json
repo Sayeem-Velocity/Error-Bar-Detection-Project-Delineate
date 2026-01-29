@@ -1,0 +1,148 @@
+{
+  "image_file": "ae4758d3-255a-42ae-b28b-bbec3cbc911a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 89.93900018141171,
+          "y": 115.26981988704006,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 118.80727908265935,
+          "y": 60.90593110180862,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 298.7935820363102,
+          "y": 319.10684244876006,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 404.5192032267356,
+          "y": 374.60359030083066,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 405.90000277793473,
+          "y": 375.0748906900082,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 424.30204448105485,
+          "y": 380.9089296572698,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 546.8742880238451,
+          "y": 404.54374036606725,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 608.9362720509309,
+          "y": 410.352569639411,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_100mg_single"
+      },
+      "points": [
+        {
+          "x": 244.3394592267826,
+          "y": 275.30135774989725,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 296.6158278305386,
+          "y": 315.6686409351786,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 325.65695416044707,
+          "y": 333.0633979217301,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 363.37135948688774,
+          "y": 351.3585382019338,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 383.6741247263763,
+          "y": 359.5281493386305,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 470.741875980167,
+          "y": 384.67701548279376,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 527.7782755158158,
+          "y": 394.9829409241986,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 626.2590040203042,
+          "y": 405.9125959865885,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

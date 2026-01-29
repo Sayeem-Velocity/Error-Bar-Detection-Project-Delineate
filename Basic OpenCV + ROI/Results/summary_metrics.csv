@@ -1,0 +1,11 @@
+Metric,Value
+Total Images,600
+Total Points,10229
+Mean Top Error (px),34.81
+Mean Bottom Error (px),33.95
+Mean Overall Error (px),34.38
+Median Overall Error (px),24.99
+RMSE (px),52.50
+Accuracy @ 5px (%),16.84
+Accuracy @ 10px (%),29.35
+Accuracy @ 20px (%),44.27

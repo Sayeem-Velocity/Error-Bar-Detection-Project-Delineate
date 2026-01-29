@@ -1,0 +1,202 @@
+{
+  "image_file": "fd838c2c-c2fd-419e-8412-da28a3a0229f.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_10mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 98.2264970707129,
+          "y": 76.72077451985388,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 206.6437269865551,
+          "y": 207.6443567875611,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 405.0853153586203,
+          "y": 376.4796742687312,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 500.5205205473111,
+          "y": 402.0266979508927,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 539.9993730977653,
+          "y": 408.30587425908504,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 587.1852293847979,
+          "y": 413.7464123611614,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 627.8444518577749,
+          "y": 417.1202267873564,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_10mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 100.52286086090764,
+          "y": 283.65203062331926,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 360.32846271399546,
+          "y": 387.255454378591,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 379.8091570459262,
+          "y": 392.541523246306,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 537.8373887606592,
+          "y": 417.69320949436155,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Trastuzumab_300mg_single"
+      },
+      "points": [
+        {
+          "x": 130.06889424513173,
+          "y": 85.42041570902154,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 264.45863854144955,
+          "y": 251.27830970758768,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 14.0,
+          "label": ""
+        },
+        {
+          "x": 340.959348354189,
+          "y": 310.93313392110326,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 466.7210080908301,
+          "y": 368.0475525367982,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Panitumumab_100mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 163.71922046038216,
+          "y": 159.28356442105434,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 275.7720621262539,
+          "y": 254.16079451869834,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 368.5090696749082,
+          "y": 307.4654878026077,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 374.02382171090966,
+          "y": 310.05991494775816,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 436.3540476864372,
+          "y": 335.7573670206669,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 511.5996491859556,
+          "y": 359.4007996824196,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "image_file": "e4446e9f-d48f-44fa-9e1a-24e4cebce208.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ipilimumab_1mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 107.2650821027816,
+          "y": 71.2301282336739,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 291.24058569668114,
+          "y": 209.20447507869085,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 334.31353496145766,
+          "y": 254.2289312467673,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 442.8853734815282,
+          "y": 334.5702663047198,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 618.0403762513929,
+          "y": 401.9107438990041,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 653.9569062506936,
+          "y": 410.05235092947294,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "image_file": "54b1ba9b-7f00-46ec-bbbb-776c81a777e1.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_0.3mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 135.83100295075255,
+          "y": 227.2280722006396,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 137.70363535937454,
+          "y": 228.97222139522034,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 536.3570772652181,
+          "y": 414.5685274722837,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 634.7650910028528,
+          "y": 422.408338310227,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Nivolumab_200mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 120.2388930327763,
+          "y": 44.51897275474863,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 201.3400051792728,
+          "y": 152.8329466694118,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 216.6008910655339,
+          "y": 174.29481514385577,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 218.70917945429582,
+          "y": 177.18800698126074,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "image_file": "1743cae0-6572-4274-89e7-7d148cb5c889.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_10mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 91.98445339564984,
+          "y": 266.0336232575885,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 366.12382275788616,
+          "y": 333.80032405409935,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 377.01530381591385,
+          "y": 337.2509357295953,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 455.2674461574851,
+          "y": 359.4108538295464,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 484.33037020436944,
+          "y": 366.47956652591404,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 642.3740963098111,
+          "y": 395.5444561312891,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 658.1335124078074,
+          "y": 397.7158948188406,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_0.3mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 224.15783290143725,
+          "y": 86.96002117853226,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 247.3848013647192,
+          "y": 113.21029375435546,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 250.65642147355047,
+          "y": 116.75597562652757,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 289.52012345374146,
+          "y": 156.1346729133199,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 574.0790561334185,
+          "y": 331.40518993527655,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 638.8862619525831,
+          "y": 353.0078642564396,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

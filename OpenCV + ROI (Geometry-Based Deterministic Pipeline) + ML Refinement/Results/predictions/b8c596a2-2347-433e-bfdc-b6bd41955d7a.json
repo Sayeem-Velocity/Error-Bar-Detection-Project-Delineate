@@ -1,0 +1,124 @@
+{
+  "image_file": "b8c596a2-2347-433e-bfdc-b6bd41955d7a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_0.1mg_kg_Low"
+      },
+      "points": [
+        {
+          "x": 105.28681197323746,
+          "y": 263.98471139414187,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 112.66141453826415,
+          "y": 255.73722295398508,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 141.25852448264956,
+          "y": 254.12715731707027,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 186.9114982390691,
+          "y": 287.41026032358485,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 191.02224618483618,
+          "y": 290.84325926782157,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 214.22840257690356,
+          "y": 309.7805618061215,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 225.15304415734752,
+          "y": 318.2254507190929,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 368.98890646059357,
+          "y": 393.77397184719337,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_3mg_kg_TrtA"
+      },
+      "points": [
+        {
+          "x": 110.94987901208827,
+          "y": 94.72432490929742,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 186.91803478621188,
+          "y": 131.257878612021,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 255.08736158436136,
+          "y": 196.8035083759142,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 607.1648220497893,
+          "y": 369.2786423081178,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 638.5213748884037,
+          "y": 376.40434515799126,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

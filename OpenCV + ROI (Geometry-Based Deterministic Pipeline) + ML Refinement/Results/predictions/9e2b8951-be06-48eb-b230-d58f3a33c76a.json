@@ -1,0 +1,148 @@
+{
+  "image_file": "9e2b8951-be06-48eb-b230-d58f3a33c76a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_10mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 191.13922817815512,
+          "y": 60.91482222871838,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 417.70171096097823,
+          "y": 297.064698671931,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 435.5911260455498,
+          "y": 308.63560207537563,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 506.7272341713081,
+          "y": 347.6550539106548,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 524.839897812712,
+          "y": 356.02994999127856,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 566.4126108551101,
+          "y": 373.22321672680823,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 627.6743909445876,
+          "y": 394.1242767861461,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Cetuximab_500mg_multi"
+      },
+      "points": [
+        {
+          "x": 101.44419655191813,
+          "y": 162.9304564507931,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 178.15875117509657,
+          "y": 108.33271156427827,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 206.21160311806887,
+          "y": 134.0764804258381,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 210.49749971700072,
+          "y": 138.40957560697234,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 254.04510370958803,
+          "y": 183.18295538054997,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 295.61658877271935,
+          "y": 222.84525722768007,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 301.65098735996105,
+          "y": 228.19749850151743,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 351.79954208505563,
+          "y": 268.4954659874522,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 357.3094513230754,
+          "y": 272.4808250948647,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

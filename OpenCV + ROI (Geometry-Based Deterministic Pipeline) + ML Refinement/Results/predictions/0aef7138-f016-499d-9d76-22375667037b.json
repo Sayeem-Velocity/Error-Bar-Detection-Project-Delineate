@@ -1,0 +1,148 @@
+{
+  "image_file": "0aef7138-f016-499d-9d76-22375667037b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Troponin-I_Mid"
+      },
+      "points": [
+        {
+          "x": 88.18253490930064,
+          "y": 340.15016383196,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 170.7967354422713,
+          "y": 362.93382629644566,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 248.9082629307918,
+          "y": 373.16146420405005,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 281.3609813329388,
+          "y": 340.1995651397116,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 342.425160716724,
+          "y": 380.11268131317473,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 14.0,
+          "label": ""
+        },
+        {
+          "x": 352.51426121045245,
+          "y": 390.110495060577,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 384.24793954682593,
+          "y": 357.6029674660134,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 449.4500972026359,
+          "y": 346.03918418725914,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 451.97406494814356,
+          "y": 388.6558930280222,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "BUN_High"
+      },
+      "points": [
+        {
+          "x": 109.63890449723888,
+          "y": 216.92910460097818,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 193.90684632705333,
+          "y": 115.11218663511966,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 484.5808448243752,
+          "y": 91.94065011020507,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 502.5988579875755,
+          "y": 91.91948741957032,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 580.8548590594155,
+          "y": 91.88086121012043,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 36.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 586.447348620298,
+          "y": 91.87977912382206,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 633.1137983693807,
+          "y": 91.8742274844671,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

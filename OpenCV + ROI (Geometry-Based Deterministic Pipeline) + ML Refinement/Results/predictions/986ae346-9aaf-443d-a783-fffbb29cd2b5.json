@@ -1,0 +1,53 @@
+{
+  "image_file": "986ae346-9aaf-443d-a783-fffbb29cd2b5.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_300mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 86.5782385115661,
+          "y": 72.61147373463103,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 221.84025937701034,
+          "y": 141.7065843839324,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 314.13617631676897,
+          "y": 256.69324913048706,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 359.67457425182425,
+          "y": 296.84547855045406,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 625.3400636142252,
+          "y": 412.4380403929976,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

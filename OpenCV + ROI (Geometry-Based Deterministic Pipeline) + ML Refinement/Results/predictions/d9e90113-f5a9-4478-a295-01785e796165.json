@@ -1,0 +1,77 @@
+{
+  "image_file": "d9e90113-f5a9-4478-a295-01785e796165.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ipilimumab_300mg_TrtA"
+      },
+      "points": [
+        {
+          "x": 83.02203524823648,
+          "y": 256.9316810043381,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 123.48980255456057,
+          "y": 81.36158627799898,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 202.9129410974495,
+          "y": 115.33005152679118,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 292.5915519322073,
+          "y": 205.6850737651257,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 407.3003986704475,
+          "y": 296.61328913664534,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 508.2022188495774,
+          "y": 355.58879417789865,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 631.4171003997843,
+          "y": 408.0765968366329,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 641.555955445169,
+          "y": 411.6328861754705,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

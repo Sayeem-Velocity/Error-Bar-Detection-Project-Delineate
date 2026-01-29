@@ -1,0 +1,139 @@
+{
+  "image_file": "1300d821-e55a-4bc8-bd56-02eaadea6f5d.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Durvalumab_1mg_kg_Q2W"
+      },
+      "points": [
+        {
+          "x": 406.6968120739954,
+          "y": 358.73995558092497,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 447.0840570998854,
+          "y": 390.6071999176668,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 452.0453425722125,
+          "y": 393.9582137479322,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 458.20350103449226,
+          "y": 397.9650823774671,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 465.9747383721826,
+          "y": 402.7903239992188,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Solanezumab_0.3mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 177.11949681989876,
+          "y": 185.20515885645005,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 198.74930627005526,
+          "y": 223.64485195568642,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 202.509615760718,
+          "y": 230.1734230562792,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 312.551287778655,
+          "y": 375.27643158072215,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Atezolizumab_100mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 97.22176432931217,
+          "y": 62.636299521384956,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 323.9095679596579,
+          "y": 106.73583802118782,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 429.47594260751794,
+          "y": 207.40959935254836,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 497.2833408277705,
+          "y": 258.25384828863486,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 646.9686962200195,
+          "y": 341.8782329370399,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

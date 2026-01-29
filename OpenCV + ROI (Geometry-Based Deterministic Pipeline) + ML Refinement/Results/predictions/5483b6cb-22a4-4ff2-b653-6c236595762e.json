@@ -1,0 +1,45 @@
+{
+  "image_file": "5483b6cb-22a4-4ff2-b653-6c236595762e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_200mg_Low"
+      },
+      "points": [
+        {
+          "x": 99.93856550447866,
+          "y": 258.67535825687355,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 252.00957121786234,
+          "y": 74.84985406032962,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 557.9213663956476,
+          "y": 334.0998057127573,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 651.030775983154,
+          "y": 388.3058044520377,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "image_file": "c074af98-8470-4b4d-8fa0-8e8f424a5d2a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "BNP_TrtB"
+      },
+      "points": [
+        {
+          "x": 121.74041813362004,
+          "y": 405.543857971576,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 301.1029169995562,
+          "y": 179.82747149089118,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 334.1514016771422,
+          "y": 160.51577056976544,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 627.571653514788,
+          "y": 93.38980566981127,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

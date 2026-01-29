@@ -1,0 +1,69 @@
+{
+  "image_file": "6978cc33-6424-489d-845b-cb4b6fcac2cb.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "VEGF_Low"
+      },
+      "points": [
+        {
+          "x": 108.4843135954199,
+          "y": 417.9747745780751,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 260.6417262096204,
+          "y": 318.82300736330103,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 315.4142039547463,
+          "y": 290.79194040324705,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 487.05381519843365,
+          "y": 167.14731722986164,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 522.3573695710518,
+          "y": 139.5440002802177,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 558.8204463918934,
+          "y": 114.61974255149596,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 644.4396104451096,
+          "y": 69.57624242592362,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

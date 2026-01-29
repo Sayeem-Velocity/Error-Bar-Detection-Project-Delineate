@@ -1,0 +1,124 @@
+{
+  "image_file": "7d641f90-ebf4-4a68-af47-64de60a3608f.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "BUN_CohortB"
+      },
+      "points": [
+        {
+          "x": 147.81255836135534,
+          "y": 254.7360826546866,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 252.0576747424504,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 302.8886787683783,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 371.6311474102674,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 395.7782480810832,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 436.789362867081,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 484.11221831599545,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 501.0595372493171,
+          "y": 357.8270221099481,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 17.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Insulin_CohortA"
+      },
+      "points": [
+        {
+          "x": 110.6223477350166,
+          "y": 60.64294610126137,
+          "topBarPixelDistance": 47.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 301.7716159396357,
+          "y": 74.92582453510238,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 347.61079317214234,
+          "y": 338.97283221046564,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 538.3242919520901,
+          "y": 403.28186497329375,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 633.0211815608145,
+          "y": 281.98522438236,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

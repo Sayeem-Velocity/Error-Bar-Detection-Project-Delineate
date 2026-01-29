@@ -1,0 +1,53 @@
+{
+  "image_file": "035b6e66-06fc-49f1-9474-7ee42dcf31f9.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_200mg_single"
+      },
+      "points": [
+        {
+          "x": 97.61221393677438,
+          "y": 42.32267211137605,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 470.60756526650437,
+          "y": 362.07097728487497,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 520.7041930486007,
+          "y": 381.53726332095096,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 629.7834523118963,
+          "y": 413.8839723642326,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 651.5592333797445,
+          "y": 419.00588057210507,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

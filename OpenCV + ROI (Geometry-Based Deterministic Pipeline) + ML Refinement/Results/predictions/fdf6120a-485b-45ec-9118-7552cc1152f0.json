@@ -1,0 +1,210 @@
+{
+  "image_file": "fdf6120a-485b-45ec-9118-7552cc1152f0.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Bevacizumab_200mg_QW"
+      },
+      "points": [
+        {
+          "x": 283.1381573072796,
+          "y": 279.5434541992191,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 318.340383904512,
+          "y": 302.79125853988796,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 319.6411434683111,
+          "y": 303.57543679478414,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 447.95142196017264,
+          "y": 359.91362055078395,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_300mg_QW"
+      },
+      "points": [
+        {
+          "x": 194.80714941906948,
+          "y": 163.85763215062934,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 226.36266348944406,
+          "y": 199.765621497251,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 307.5484075147875,
+          "y": 273.0506075545377,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 349.8944788651876,
+          "y": 300.77347049014725,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 352.57893163741636,
+          "y": 302.32982164061605,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 493.4946997971082,
+          "y": 359.3516360760776,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 582.4418031415588,
+          "y": 378.5600715378212,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_1mg_kg_QW"
+      },
+      "points": [
+        {
+          "x": 94.25637514334052,
+          "y": 313.1771737285269,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 126.79847063789893,
+          "y": 298.69482082691366,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 206.41511415737205,
+          "y": 351.5658354696387,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 243.146098630364,
+          "y": 369.86525551785223,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Adalimumab_10mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 162.61538938642508,
+          "y": 54.67552004591266,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 279.65741963883187,
+          "y": 234.36401849787705,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 349.9685501109258,
+          "y": 308.0881022542425,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 458.13607929050806,
+          "y": 368.9647062177226,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 476.83452226351267,
+          "y": 375.33205308398,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 517.0209395385006,
+          "y": 386.3048988978262,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 633.6975788467779,
+          "y": 404.3263634520774,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

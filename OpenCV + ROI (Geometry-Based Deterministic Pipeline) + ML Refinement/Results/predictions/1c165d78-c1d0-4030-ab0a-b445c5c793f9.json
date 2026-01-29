@@ -1,0 +1,139 @@
+{
+  "image_file": "1c165d78-c1d0-4030-ab0a-b445c5c793f9.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_1mg_kg_CohortA"
+      },
+      "points": [
+        {
+          "x": 98.38159965960597,
+          "y": 316.5099223801936,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 159.47050867301854,
+          "y": 244.24346667701687,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 333.87805261599647,
+          "y": 326.37905234950915,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 449.54643562173374,
+          "y": 372.62554358780176,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 612.4317769215941,
+          "y": 406.4903375939857,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_0.1mg_kg_Mid"
+      },
+      "points": [
+        {
+          "x": 119.606399618356,
+          "y": 132.6381408397255,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 238.18776417056398,
+          "y": 77.17030113696825,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 293.8895930029622,
+          "y": 129.2698805836455,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 374.85911129034935,
+          "y": 205.2618903989361,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 408.68377713814306,
+          "y": 232.99493151922712,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_100mg_QW"
+      },
+      "points": [
+        {
+          "x": 119.4264859011981,
+          "y": 167.44198529558133,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 282.5276940547167,
+          "y": 247.77411472134116,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 362.0078483561324,
+          "y": 297.37958164540817,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 598.3148643367994,
+          "y": 378.11668433771024,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "image_file": "e34a9faa-20a9-4bb7-9f43-8d72adbd654a.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_0.3mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 103.80424447009321,
+          "y": 146.37396760883422,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 245.37139951726425,
+          "y": 93.19916782070703,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 416.4410606333488,
+          "y": 287.96081546631945,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 620.7585984716827,
+          "y": 394.3882568754252,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

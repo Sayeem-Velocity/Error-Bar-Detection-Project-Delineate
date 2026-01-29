@@ -1,0 +1,77 @@
+{
+  "image_file": "96ba61fa-bbf1-4a8a-bfb4-b8f71b8ca771.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Nivolumab_3mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 135.3141786870717,
+          "y": 59.04962392075936,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 197.14286824054682,
+          "y": 88.85790195890877,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 209.4161880193265,
+          "y": 101.9884780272929,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 230.4105122814169,
+          "y": 125.15308272817236,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 334.6807452618573,
+          "y": 229.42293115499393,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 351.81131826950985,
+          "y": 243.92647232861395,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 483.888233776224,
+          "y": 333.87978121049287,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 618.8555540682706,
+          "y": 395.2780423774247,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

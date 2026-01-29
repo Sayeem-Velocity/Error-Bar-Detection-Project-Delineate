@@ -1,0 +1,132 @@
+{
+  "image_file": "4d0db76d-8171-42a2-b217-2a2a2e4b4601.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_3mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 107.01967569817495,
+          "y": 86.46838593185828,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 116.29627223033395,
+          "y": 88.97634588515871,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 144.46663791760415,
+          "y": 104.01038865683853,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 237.37478797560306,
+          "y": 169.54483406247368,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 345.77335684569533,
+          "y": 233.18378603525497,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 360.5581534939975,
+          "y": 240.53705746002413,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 365.5560491290241,
+          "y": 242.95740299450392,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 31.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 468.62024228140933,
+          "y": 286.2433737126021,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_300mg_QD"
+      },
+      "points": [
+        {
+          "x": 251.57966994900673,
+          "y": 280.8593308284467,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 251.69462654563603,
+          "y": 280.92156616500733,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 335.7728428270222,
+          "y": 320.49298152472625,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 481.7841655378684,
+          "y": 366.0209286469701,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 629.6046737726343,
+          "y": 392.7020432136039,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 644.9871047778058,
+          "y": 394.72479843838914,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

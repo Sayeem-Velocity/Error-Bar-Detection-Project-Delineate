@@ -1,0 +1,85 @@
+{
+  "image_file": "f0ab7cba-8ea2-482e-9b81-3bdaaee365a7.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_100mg_High"
+      },
+      "points": [
+        {
+          "x": 120.25745911866247,
+          "y": 54.00433367591796,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 186.02757627220234,
+          "y": 158.6006658243212,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 267.1011754671216,
+          "y": 252.25117842492193,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 277.84536394862744,
+          "y": 262.02934983042303,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 403.72326916932906,
+          "y": 344.41430212641023,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 424.95132875306024,
+          "y": 353.82465435928725,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 542.6453361124398,
+          "y": 391.0318596747356,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 582.3770047991811,
+          "y": 399.3472273913284,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 631.7636592261175,
+          "y": 407.5995479793022,
+          "topBarPixelDistance": 14.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

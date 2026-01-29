@@ -1,0 +1,77 @@
+{
+  "image_file": "597a4a23-4fc2-4d59-b2ac-4c2e88012c34.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Avelumab_0.3mg_kg_Mid"
+      },
+      "points": [
+        {
+          "x": 111.25361220420247,
+          "y": 79.35665488678393,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 457.6226824448445,
+          "y": 308.05436694539867,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 481.5950178308849,
+          "y": 325.64954212353615,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 537.7543554924314,
+          "y": 362.39389235992184,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 539.8831980624491,
+          "y": 363.6689682976539,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 596.9511682388068,
+          "y": 394.90162702332344,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 618.246464246955,
+          "y": 405.19493453184293,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 623.9582072694463,
+          "y": 407.83913004638805,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

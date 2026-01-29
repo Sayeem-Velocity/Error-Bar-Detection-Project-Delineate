@@ -1,0 +1,76 @@
+{
+  "image_file": "49185fcd-8634-4fbb-b755-7857fd1221e7.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Cetuximab_100mg_High"
+      },
+      "points": [
+        {
+          "x": 90.38315285349253,
+          "y": 260.89216079610355,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 519.7394256969623,
+          "y": 359.5928672832058,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 622.5945299218857,
+          "y": 383.66911512123136,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 653.4935416198305,
+          "y": 389.08910175659105,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_0.1mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 201.47652709816856,
+          "y": 71.21081186666657,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 372.86844834702197,
+          "y": 227.7601856912678,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 444.6496582115819,
+          "y": 270.6605564037435,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

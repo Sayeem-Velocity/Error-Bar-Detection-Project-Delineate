@@ -1,0 +1,69 @@
+{
+  "image_file": "45aa2355-6cd2-490c-a741-d6ac4b96d9a0.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Durvalumab_100mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 130.00340299354508,
+          "y": 67.20374246081172,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 223.9126367882014,
+          "y": 158.36114770114716,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 393.25982573203095,
+          "y": 309.3061137041358,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 532.1043617282687,
+          "y": 383.8903649457484,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 571.2416492066159,
+          "y": 399.3321027366702,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 619.4298342625355,
+          "y": 415.7454900476848,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 621.9324880679684,
+          "y": 416.52715810317875,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 23.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

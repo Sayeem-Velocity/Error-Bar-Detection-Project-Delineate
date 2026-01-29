@@ -1,0 +1,147 @@
+{
+  "image_file": "17285fdc-2599-4143-b733-3fe272a8513c.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_100mg_Q4W"
+      },
+      "points": [
+        {
+          "x": 168.68375927212085,
+          "y": 138.46792364246272,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 215.77954232164961,
+          "y": 185.9581633250499,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 259.87414167243713,
+          "y": 222.80945284875452,
+          "topBarPixelDistance": 11.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 360.246290998397,
+          "y": 285.42144261331634,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ponezumab_500mg_BID"
+      },
+      "points": [
+        {
+          "x": 206.04287101482302,
+          "y": 121.97940746183644,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 271.6813036164228,
+          "y": 236.15493625405253,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 324.1958127721674,
+          "y": 292.9800011132323,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 34.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 430.60381993679107,
+          "y": 355.5010871838872,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 636.9377191563709,
+          "y": 393.29496703355346,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Rituximab_300mg_Q2W"
+      },
+      "points": [
+        {
+          "x": 111.92696767154814,
+          "y": 62.34034613852748,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 148.05430336935137,
+          "y": 124.67826649041785,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 366.09526006436226,
+          "y": 329.7961649572149,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 408.27364815921214,
+          "y": 347.68720150308894,
+          "topBarPixelDistance": 34.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 34.0,
+          "label": ""
+        },
+        {
+          "x": 427.9497357055642,
+          "y": 354.67691950678625,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 473.9695949784823,
+          "y": 368.2765285282052,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "image_file": "9c7ee97d-b05e-460b-bdfa-10eb22ab9be9.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Etanercept_100mg_CohortA"
+      },
+      "points": [
+        {
+          "x": 87.70590174390959,
+          "y": 103.71620168655056,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 122.39207295148188,
+          "y": 46.13278257509609,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 138.34267516568897,
+          "y": 62.92021510441032,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 243.66553246709884,
+          "y": 222.02681212190856,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 246.85006014870834,
+          "y": 225.87186741801207,
+          "topBarPixelDistance": 16.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 293.07614353801887,
+          "y": 274.301724185416,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 303.15612279779344,
+          "y": 283.2059322525911,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 419.1606889323822,
+          "y": 354.73516221733485,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 487.10091998186397,
+          "y": 378.46948673302074,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 536.912120549158,
+          "y": 390.62746843177604,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 29.0,
+          "deviationPixelDistance": 29.0,
+          "label": ""
+        },
+        {
+          "x": 577.2545207761497,
+          "y": 398.1193048067963,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 637.8092214099553,
+          "y": 406.43868361107036,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

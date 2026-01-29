@@ -1,0 +1,37 @@
+{
+  "image_file": "c0a617ad-8fc3-4c3a-ae1a-d9118efcc264.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Durvalumab_10mg_kg_multi"
+      },
+      "points": [
+        {
+          "x": 107.81583218948826,
+          "y": 181.84657351826633,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 154.2036486638072,
+          "y": 91.07041870348701,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 646.9135393347486,
+          "y": 395.70922148846597,
+          "topBarPixelDistance": 20.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

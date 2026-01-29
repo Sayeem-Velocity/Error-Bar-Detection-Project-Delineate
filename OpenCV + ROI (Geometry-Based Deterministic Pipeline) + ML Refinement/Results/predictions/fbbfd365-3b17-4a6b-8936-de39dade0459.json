@@ -1,0 +1,69 @@
+{
+  "image_file": "fbbfd365-3b17-4a6b-8936-de39dade0459.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Trastuzumab_200mg_QW"
+      },
+      "points": [
+        {
+          "x": 127.01614313584057,
+          "y": 83.045028382142,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 164.9757927186272,
+          "y": 62.05121379662285,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 232.1051622499981,
+          "y": 110.76843748201753,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 333.57233526775383,
+          "y": 215.65338789159603,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 487.9061128106207,
+          "y": 332.0931539831986,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 586.2970520620958,
+          "y": 379.6790232037443,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 14.0,
+          "label": ""
+        },
+        {
+          "x": 631.830350798678,
+          "y": 396.6140140682333,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

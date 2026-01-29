@@ -1,0 +1,131 @@
+{
+  "image_file": "bd24a518-7c2c-4959-b597-8bf368b9758e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_300mg_Active"
+      },
+      "points": [
+        {
+          "x": 462.7250225587877,
+          "y": 330.3891142652239,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 487.6605877731923,
+          "y": 343.6464481050278,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 503.6406318388488,
+          "y": 351.4899260105977,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 635.3460481379143,
+          "y": 399.9575363571445,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Panitumumab_100mg_Placebo"
+      },
+      "points": [
+        {
+          "x": 242.49993866891091,
+          "y": 170.19948844439995,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 394.4137608769163,
+          "y": 248.05639563808109,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 407.1673990439743,
+          "y": 255.1743831387825,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 498.0285843825504,
+          "y": 301.4809258706297,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Aducanumab_50mg_Mid"
+      },
+      "points": [
+        {
+          "x": 110.52101888745321,
+          "y": 149.51556517622686,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 172.56301328168166,
+          "y": 59.92199156656187,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 20.0,
+          "label": ""
+        },
+        {
+          "x": 267.07960500319587,
+          "y": 141.95228909458712,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 331.5483778801397,
+          "y": 204.7064835129421,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 542.5190869263529,
+          "y": 342.3216174274754,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

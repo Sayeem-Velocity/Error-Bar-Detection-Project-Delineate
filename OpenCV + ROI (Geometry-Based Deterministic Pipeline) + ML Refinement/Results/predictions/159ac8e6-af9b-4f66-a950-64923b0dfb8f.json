@@ -1,0 +1,69 @@
+{
+  "image_file": "159ac8e6-af9b-4f66-a950-64923b0dfb8f.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Atezolizumab_0.1mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 102.91833663684949,
+          "y": 49.717617895577575,
+          "topBarPixelDistance": 38.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 233.44039059772436,
+          "y": 167.39489528007937,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 422.67472517273063,
+          "y": 309.0690166399577,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 456.43495043315386,
+          "y": 327.44094209917,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 572.5474871724751,
+          "y": 378.5554539028784,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 605.0975092801058,
+          "y": 390.06072798670783,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 28.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 654.3364335802538,
+          "y": 405.52761188731904,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

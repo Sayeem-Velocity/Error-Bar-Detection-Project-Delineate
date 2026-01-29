@@ -1,0 +1,529 @@
+{
+  "image_file": "5395ec21-0a0a-47e3-a177-d1d67d40dd4f.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_100mg_Control"
+      },
+      "points": [
+        {
+          "x": 78.78340751595603,
+          "y": 338.5313229615342,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 235.3392577792792,
+          "y": 314.3717523829006,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 249.6344864617281,
+          "y": 320.69973416489944,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 267.98010861528377,
+          "y": 328.3431228853165,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 274.47013515224114,
+          "y": 330.9187422548185,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 287.5130049610837,
+          "y": 335.8964968649704,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 343.8587899354459,
+          "y": 354.58068378068884,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 373.7622586976175,
+          "y": 362.8504227593767,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 391.37731224750456,
+          "y": 367.25791654761247,
+          "topBarPixelDistance": 35.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Avelumab_1mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 80.4616679491481,
+          "y": 292.8079615849989,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 83.28710211428097,
+          "y": 277.1888263696008,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 14.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 104.11094204780238,
+          "y": 205.02124793570164,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 299.70432548702985,
+          "y": 293.675583687545,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 358.35771356566363,
+          "y": 326.09080983401213,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 359.7079604909901,
+          "y": 326.7366229270563,
+          "topBarPixelDistance": 10.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 369.7953197952222,
+          "y": 331.4316310197119,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 9.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        },
+        {
+          "x": 376.3590416749964,
+          "y": 334.3669709521655,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 13.0,
+          "label": ""
+        },
+        {
+          "x": 381.4184298402046,
+          "y": 336.56725015710236,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 403.2848382140896,
+          "y": 345.48377718187396,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 418.3725922026733,
+          "y": 351.1099094445029,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 451.4201675724751,
+          "y": 362.0878604893026,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 462.1059546451477,
+          "y": 365.2777194649865,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 476.52302778845416,
+          "y": 369.3277400216222,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_0.1mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 148.84241435302252,
+          "y": 128.94397475739112,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 150.5833082286402,
+          "y": 129.2839989702539,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 195.59791932979067,
+          "y": 159.09099993202193,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 210.41390030842103,
+          "y": 173.17214367070852,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 215.78247098154623,
+          "y": 178.42207522953942,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 259.72406487287196,
+          "y": 221.01376415071167,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 270.36986179452816,
+          "y": 230.7574101344399,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 296.16297417910806,
+          "y": 252.94210954790475,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 30.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 304.12667408432014,
+          "y": 259.3591019506325,
+          "topBarPixelDistance": 46.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 310.17033282497107,
+          "y": 264.09024462236937,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Solanezumab_100mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 139.32642662229796,
+          "y": 132.26643014237044,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 199.62721635744055,
+          "y": 212.48173001989716,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 16.0,
+          "label": ""
+        },
+        {
+          "x": 237.4694428602533,
+          "y": 253.39349132460688,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 323.0303134493283,
+          "y": 320.5003915473254,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 340.6575471753968,
+          "y": 330.8986122675242,
+          "topBarPixelDistance": 49.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 341.3552561260027,
+          "y": 331.29030719982484,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 12.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 359.6845367942297,
+          "y": 341.072491077381,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 18.0,
+          "deviationPixelDistance": 18.0,
+          "label": ""
+        },
+        {
+          "x": 361.41325702376287,
+          "y": 341.9464341486472,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 363.19089446576925,
+          "y": 342.8366971597531,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 26.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 375.6699655521251,
+          "y": 348.85305842118316,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 378.92357357267366,
+          "y": 350.35661416247336,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 541.5724230334638,
+          "y": 400.07035927422953,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 542.5969019097485,
+          "y": 400.26598955113894,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Etanercept_10mg_kg_single"
+      },
+      "points": [
+        {
+          "x": 117.96007569171974,
+          "y": 83.57749818185329,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 152.60185044390738,
+          "y": 66.12562904167822,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 158.37214798439464,
+          "y": 68.91465190462992,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 174.50679613038557,
+          "y": 81.29021441416484,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 193.90351573849358,
+          "y": 101.6858194442716,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 276.1361479969333,
+          "y": 199.19998398270826,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 339.35958059725715,
+          "y": 260.1161883221744,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 341.3856304242119,
+          "y": 261.80417451296245,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 47.0,
+          "deviationPixelDistance": 47.0,
+          "label": ""
+        },
+        {
+          "x": 375.22230965874905,
+          "y": 287.76050482333676,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 421.566619584665,
+          "y": 317.14856134189944,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 490.44341231655886,
+          "y": 350.2229109618493,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 516.6231128473513,
+          "y": 360.1377686452023,
+          "topBarPixelDistance": 24.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        },
+        {
+          "x": 564.5843326663921,
+          "y": 375.29649676878563,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 570.5279059857596,
+          "y": 376.93770285585185,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 619.1208966132974,
+          "y": 388.6960690040504,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

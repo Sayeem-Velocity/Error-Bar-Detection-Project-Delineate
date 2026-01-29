@@ -1,0 +1,202 @@
+{
+  "image_file": "593bf4f2-31ae-4e29-9148-1ed7d373f7dc.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Pembrolizumab_3mg_kg_Mid"
+      },
+      "points": [
+        {
+          "x": 328.1872174759827,
+          "y": 178.4928155380536,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 438.6712219962089,
+          "y": 262.66374691046246,
+          "topBarPixelDistance": 25.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 460.6962440580639,
+          "y": 275.66772788331537,
+          "topBarPixelDistance": 37.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 471.2358735220334,
+          "y": 281.5134147740748,
+          "topBarPixelDistance": 43.0,
+          "bottomBarPixelDistance": 10.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 624.64432813552,
+          "y": 344.47397475511474,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Ipilimumab_500mg_Active"
+      },
+      "points": [
+        {
+          "x": 170.9227815835476,
+          "y": 73.74023265091716,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 196.96688549829452,
+          "y": 106.70602395853757,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 216.29926339296702,
+          "y": 133.15555747956444,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 402.1129010639922,
+          "y": 323.6358263619747,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 414.50289163823385,
+          "y": 331.1216107218986,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_100mg_Control"
+      },
+      "points": [
+        {
+          "x": 124.23353079813084,
+          "y": 88.7878072302999,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 23.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 192.8717009569003,
+          "y": 192.67645734780285,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 213.15385332432365,
+          "y": 221.2345378177223,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 331.5786308805627,
+          "y": 336.1862663007052,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 41.0,
+          "deviationPixelDistance": 41.0,
+          "label": ""
+        },
+        {
+          "x": 342.0523286033664,
+          "y": 342.8977924929717,
+          "topBarPixelDistance": 1.0,
+          "bottomBarPixelDistance": 35.0,
+          "deviationPixelDistance": 35.0,
+          "label": ""
+        },
+        {
+          "x": 395.8895290878864,
+          "y": 371.24054222831825,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Nivolumab_0.3mg_kg_Active"
+      },
+      "points": [
+        {
+          "x": 344.2782995415258,
+          "y": 387.582124904788,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 21.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 352.50813326768,
+          "y": 390.379593569814,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 407.0139749767104,
+          "y": 405.43120565379235,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 426.00329533617315,
+          "y": 409.4947365704669,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 500.92838146813057,
+          "y": 421.2621144960426,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

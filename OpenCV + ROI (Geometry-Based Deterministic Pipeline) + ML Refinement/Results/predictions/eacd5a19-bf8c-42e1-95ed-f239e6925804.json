@@ -1,0 +1,53 @@
+{
+  "image_file": "eacd5a19-bf8c-42e1-95ed-f239e6925804.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Platelets_TrtB"
+      },
+      "points": [
+        {
+          "x": 104.90189002419655,
+          "y": 98.31191011368554,
+          "topBarPixelDistance": 40.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 494.2776712750369,
+          "y": 383.45433794184555,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 581.2147620563746,
+          "y": 430.7577434025205,
+          "topBarPixelDistance": 28.0,
+          "bottomBarPixelDistance": 3.0,
+          "deviationPixelDistance": 28.0,
+          "label": ""
+        },
+        {
+          "x": 585.952433741618,
+          "y": 373.569525249497,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 37.0,
+          "deviationPixelDistance": 37.0,
+          "label": ""
+        },
+        {
+          "x": 645.6285808207687,
+          "y": 430.7577434025205,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "image_file": "c4efa3ec-afa0-4d4d-90c7-c53ab539abec.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_3mg_kg_QD"
+      },
+      "points": [
+        {
+          "x": 98.71213949368757,
+          "y": 74.26861647309852,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 274.5986480532708,
+          "y": 73.73157644546205,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 414.67298828916915,
+          "y": 280.6181664999106,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 603.3135014426259,
+          "y": 410.6907825209914,
+          "topBarPixelDistance": 3.0,
+          "bottomBarPixelDistance": 24.0,
+          "deviationPixelDistance": 24.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

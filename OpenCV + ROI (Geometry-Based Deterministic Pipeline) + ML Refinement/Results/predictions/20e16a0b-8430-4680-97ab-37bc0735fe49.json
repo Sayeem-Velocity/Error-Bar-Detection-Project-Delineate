@@ -1,0 +1,69 @@
+{
+  "image_file": "20e16a0b-8430-4680-97ab-37bc0735fe49.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Pembrolizumab_0.3mg_kg_High"
+      },
+      "points": [
+        {
+          "x": 93.87225917084415,
+          "y": 87.49797507214953,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 203.9789501496171,
+          "y": 187.4492311402061,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 264.03390687338117,
+          "y": 252.34009761200068,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 296.83192581473065,
+          "y": 280.3352442630371,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 531.7232265030592,
+          "y": 382.9338998017957,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 580.4510743148805,
+          "y": 391.96554763268574,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 658.0551308532988,
+          "y": 402.1260192629893,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

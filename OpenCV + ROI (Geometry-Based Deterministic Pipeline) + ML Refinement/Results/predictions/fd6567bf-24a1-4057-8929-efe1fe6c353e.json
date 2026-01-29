@@ -1,0 +1,194 @@
+{
+  "image_file": "fd6567bf-24a1-4057-8929-efe1fe6c353e.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Aducanumab_500mg_TrtB"
+      },
+      "points": [
+        {
+          "x": 393.2928187566648,
+          "y": 272.7146704161132,
+          "topBarPixelDistance": 22.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 22.0,
+          "label": ""
+        },
+        {
+          "x": 444.57405507799007,
+          "y": 303.92580545405156,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 1.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 512.8532659680322,
+          "y": 336.21449320892424,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 623.529059587204,
+          "y": 372.20797341580385,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Nivolumab_1mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 96.7986354624043,
+          "y": 178.46891604995238,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 122.16211036116354,
+          "y": 187.16303519956284,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 22.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 132.58682829791192,
+          "y": 196.3913669219454,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 477.41540381298887,
+          "y": 399.75523983882135,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Durvalumab_100mg_QW"
+      },
+      "points": [
+        {
+          "x": 172.21057832863787,
+          "y": 57.15240150672065,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 418.29605369758434,
+          "y": 334.4032768936318,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 32.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        },
+        {
+          "x": 447.0820201796105,
+          "y": 348.89613429852386,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 535.7124087995235,
+          "y": 380.83057456584993,
+          "topBarPixelDistance": 13.0,
+          "bottomBarPixelDistance": 15.0,
+          "deviationPixelDistance": 15.0,
+          "label": ""
+        },
+        {
+          "x": 642.3519139773846,
+          "y": 402.584391857166,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Infliximab_1mg_kg_High"
+      },
+      "points": [
+        {
+          "x": 99.49171945645895,
+          "y": 254.88577237999772,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 123.53965008504298,
+          "y": 256.210888287378,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 201.80825879134878,
+          "y": 311.0821480059317,
+          "topBarPixelDistance": 39.0,
+          "bottomBarPixelDistance": 40.0,
+          "deviationPixelDistance": 40.0,
+          "label": ""
+        },
+        {
+          "x": 326.1926138972997,
+          "y": 375.68141600429703,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 356.1782401876643,
+          "y": 385.7347523988201,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 27.0,
+          "deviationPixelDistance": 27.0,
+          "label": ""
+        },
+        {
+          "x": 360.44671551435783,
+          "y": 387.03422735736603,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 25.0,
+          "label": ""
+        },
+        {
+          "x": 398.3917426314258,
+          "y": 397.3230229743948,
+          "topBarPixelDistance": 18.0,
+          "bottomBarPixelDistance": 19.0,
+          "deviationPixelDistance": 19.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

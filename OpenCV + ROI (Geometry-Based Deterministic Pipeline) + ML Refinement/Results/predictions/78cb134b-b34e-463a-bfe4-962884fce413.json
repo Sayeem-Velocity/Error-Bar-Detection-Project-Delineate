@@ -1,0 +1,210 @@
+{
+  "image_file": "78cb134b-b34e-463a-bfe4-962884fce413.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Ponezumab_200mg_BID"
+      },
+      "points": [
+        {
+          "x": 94.3595590369687,
+          "y": 214.55684732946315,
+          "topBarPixelDistance": 30.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 30.0,
+          "label": ""
+        },
+        {
+          "x": 131.30408801405875,
+          "y": 206.45031249531178,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 148.28276419109457,
+          "y": 225.3382505568045,
+          "topBarPixelDistance": 31.0,
+          "bottomBarPixelDistance": 6.0,
+          "deviationPixelDistance": 31.0,
+          "label": ""
+        },
+        {
+          "x": 186.9933860164777,
+          "y": 276.5033490226614,
+          "topBarPixelDistance": 9.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 280.3392592419392,
+          "y": 364.5737974752282,
+          "topBarPixelDistance": 36.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 36.0,
+          "label": ""
+        },
+        {
+          "x": 296.2977426146022,
+          "y": 373.8302138091607,
+          "topBarPixelDistance": 42.0,
+          "bottomBarPixelDistance": 5.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 356.5996660467225,
+          "y": 398.60479186468615,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Cetuximab_0.1mg_kg_Low"
+      },
+      "points": [
+        {
+          "x": 104.89512239089326,
+          "y": 70.17640684947736,
+          "topBarPixelDistance": 29.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 43.0,
+          "label": ""
+        },
+        {
+          "x": 124.77992539552076,
+          "y": 94.88804434941403,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 165.33442901521448,
+          "y": 176.19388773059126,
+          "topBarPixelDistance": 5.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 175.53048633202962,
+          "y": 195.41400629271703,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 272.49648815189175,
+          "y": 322.4641853509912,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 48.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 305.05017143190696,
+          "y": 347.65528600032115,
+          "topBarPixelDistance": 32.0,
+          "bottomBarPixelDistance": 2.0,
+          "deviationPixelDistance": 32.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Pembrolizumab_0.3mg_kg_Q4W"
+      },
+      "points": [
+        {
+          "x": 92.60808644872887,
+          "y": 117.75661533836274,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 4.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 222.30443802163455,
+          "y": 262.7714709985904,
+          "topBarPixelDistance": 21.0,
+          "bottomBarPixelDistance": 7.0,
+          "deviationPixelDistance": 21.0,
+          "label": ""
+        },
+        {
+          "x": 295.5437801576171,
+          "y": 324.6076060267865,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 365.53329427988297,
+          "y": 362.093525344131,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 436.141907730179,
+          "y": 386.2962376911473,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Daratumumab_1mg_kg_BID"
+      },
+      "points": [
+        {
+          "x": 225.57672515202282,
+          "y": 262.7747898999395,
+          "topBarPixelDistance": 27.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 397.5884276933286,
+          "y": 391.01524967055644,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 609.5997135126904,
+          "y": 420.9172165592325,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 615.5405076669582,
+          "y": 421.186112586346,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

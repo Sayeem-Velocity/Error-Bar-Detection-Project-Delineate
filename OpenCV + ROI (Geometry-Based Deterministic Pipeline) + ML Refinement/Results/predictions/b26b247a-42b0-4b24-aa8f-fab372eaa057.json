@@ -1,0 +1,132 @@
+{
+  "image_file": "b26b247a-42b0-4b24-aa8f-fab372eaa057.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Daratumumab_3mg_kg_Q2W"
+      },
+      "points": [
+        {
+          "x": 187.646078480752,
+          "y": 95.09011659035349,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 43.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 326.595685442061,
+          "y": 245.26817878626196,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 16.0,
+          "deviationPixelDistance": 16.0,
+          "label": ""
+        },
+        {
+          "x": 342.96539088076537,
+          "y": 256.8729704874097,
+          "topBarPixelDistance": 41.0,
+          "bottomBarPixelDistance": 42.0,
+          "deviationPixelDistance": 42.0,
+          "label": ""
+        },
+        {
+          "x": 355.84572493673824,
+          "y": 265.33941317136924,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 33.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 366.73704280578437,
+          "y": 272.072222071636,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 25.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 519.9780918524136,
+          "y": 335.720235959939,
+          "topBarPixelDistance": 23.0,
+          "bottomBarPixelDistance": 44.0,
+          "deviationPixelDistance": 44.0,
+          "label": ""
+        },
+        {
+          "x": 548.1744849270415,
+          "y": 342.8723823208205,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 26.0,
+          "label": ""
+        },
+        {
+          "x": 622.1653040663339,
+          "y": 357.36593617837235,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 13.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Bevacizumab_0.1mg_kg_Control"
+      },
+      "points": [
+        {
+          "x": 117.80544002482253,
+          "y": 236.04119206520846,
+          "topBarPixelDistance": 26.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 134.68210982632496,
+          "y": 253.45443675415385,
+          "topBarPixelDistance": 33.0,
+          "bottomBarPixelDistance": 20.0,
+          "deviationPixelDistance": 33.0,
+          "label": ""
+        },
+        {
+          "x": 147.19855702157838,
+          "y": 265.4384400971019,
+          "topBarPixelDistance": 45.0,
+          "bottomBarPixelDistance": 8.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 249.8533651215551,
+          "y": 339.52084950089096,
+          "topBarPixelDistance": 8.0,
+          "bottomBarPixelDistance": 39.0,
+          "deviationPixelDistance": 39.0,
+          "label": ""
+        },
+        {
+          "x": 252.03455220038774,
+          "y": 340.71091573997364,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 388.1206662300363,
+          "y": 393.8760614483364,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

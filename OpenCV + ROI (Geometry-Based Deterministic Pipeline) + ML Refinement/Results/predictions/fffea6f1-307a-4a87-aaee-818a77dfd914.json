@@ -1,0 +1,124 @@
+{
+  "image_file": "fffea6f1-307a-4a87-aaee-818a77dfd914.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "Adalimumab_10mg_kg_Low"
+      },
+      "points": [
+        {
+          "x": 101.75660442605803,
+          "y": 98.02430397684986,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 154.9077539350223,
+          "y": 176.82730228307173,
+          "topBarPixelDistance": 48.0,
+          "bottomBarPixelDistance": 17.0,
+          "deviationPixelDistance": 48.0,
+          "label": ""
+        },
+        {
+          "x": 171.29319789408694,
+          "y": 205.83152968410246,
+          "topBarPixelDistance": 12.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 179.24170028299847,
+          "y": 218.9392639762927,
+          "topBarPixelDistance": 4.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 374.78142466557017,
+          "y": 382.69639028760116,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 379.1780966332159,
+          "y": 384.2309592228909,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 420.4485988923283,
+          "y": 396.3281059026456,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 608.4444381400681,
+          "y": 420.7536670913726,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "label": {
+        "lineName": "Vanucizumab_10mg_kg_CohortB"
+      },
+      "points": [
+        {
+          "x": 81.62960143215068,
+          "y": 235.8822931566271,
+          "topBarPixelDistance": 50.0,
+          "bottomBarPixelDistance": 11.0,
+          "deviationPixelDistance": 50.0,
+          "label": ""
+        },
+        {
+          "x": 104.54119580200651,
+          "y": 190.11241085512478,
+          "topBarPixelDistance": 19.0,
+          "bottomBarPixelDistance": 45.0,
+          "deviationPixelDistance": 45.0,
+          "label": ""
+        },
+        {
+          "x": 205.38961749961402,
+          "y": 291.2964325916503,
+          "topBarPixelDistance": 2.0,
+          "bottomBarPixelDistance": 38.0,
+          "deviationPixelDistance": 38.0,
+          "label": ""
+        },
+        {
+          "x": 308.39208165439123,
+          "y": 362.03288020883514,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        },
+        {
+          "x": 393.23719707293236,
+          "y": 393.366872238596,
+          "topBarPixelDistance": 0.0,
+          "bottomBarPixelDistance": 0.0,
+          "deviationPixelDistance": 0.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}

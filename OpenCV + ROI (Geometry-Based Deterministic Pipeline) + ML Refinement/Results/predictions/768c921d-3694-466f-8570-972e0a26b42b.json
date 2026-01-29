@@ -1,0 +1,53 @@
+{
+  "image_file": "768c921d-3694-466f-8570-972e0a26b42b.png",
+  "model": "CV Only (Baseline)",
+  "data_points": [
+    {
+      "label": {
+        "lineName": "BNP_Control"
+      },
+      "points": [
+        {
+          "x": 140.33419281658772,
+          "y": 392.97718081125333,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 46.0,
+          "deviationPixelDistance": 46.0,
+          "label": ""
+        },
+        {
+          "x": 189.80024785742862,
+          "y": 241.20543486253052,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 257.85169968973145,
+          "y": 148.94877720469583,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 297.89541441068565,
+          "y": 124.38979110320781,
+          "topBarPixelDistance": 7.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        },
+        {
+          "x": 616.8243109456273,
+          "y": 92.69461746072568,
+          "topBarPixelDistance": 6.0,
+          "bottomBarPixelDistance": 49.0,
+          "deviationPixelDistance": 49.0,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}
