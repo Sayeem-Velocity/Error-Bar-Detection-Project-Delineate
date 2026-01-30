@@ -100,8 +100,8 @@ Error-Bar-Detection-Project/
 |-- README.md
 |-- .gitignore
 |-- generate_synthetic_plots.py                # Synthetic data generation script
-|-- figure 1.png                                # Pipeline 1 architecture
-|-- figure 2.png                                # Pipeline 2 architecture
+|-- figure 1.jpg                                # Pipeline 1 architecture
+|-- figure 2.jpg                                # Pipeline 2 architecture
 |
 |-- Basic OpenCV + ROI/
 |   |-- OpenCV + ROI.ipynb
@@ -143,7 +143,7 @@ This project implements two distinct pipelines for error bar detection, each wit
 ### Pipeline 1: CV + ROI with ML Refinement
 
 <p align="center">
-  <img src="figure 1.png" alt="Pipeline 1 Architecture" width="500">
+  <img src="figure 1.jpg" alt="Pipeline 1 Architecture" width="500">
 </p>
 <p align="center"><em>Figure 1: Computer Vision + Machine Learning Hybrid Pipeline</em></p>
 
@@ -224,7 +224,7 @@ VERTICAL_TOLERANCE = 3  # Max x-axis deviation
 ### Pipeline 2: Vision-Language Model Approach
 
 <p align="center">
-  <img src="figure 2.png" alt="Pipeline 2 Architecture" width="650">
+  <img src="figure 2.jpg" alt="Pipeline 2 Architecture" width="650">
 </p>
 <p align="center"><em>Figure 2: Vision-Language Model Pipeline</em></p>
 
