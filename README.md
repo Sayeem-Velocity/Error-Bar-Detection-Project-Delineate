@@ -134,6 +134,59 @@ Error-Bar-Detection-Project/
 
 ---
 
+## Setup and Execution
+
+### Prerequisites
+
+```bash
+pip install numpy matplotlib opencv-python pillow tqdm pandas scikit-learn torch transformers peft
+```
+
+For GPU acceleration (VLM models):
+```bash
+pip install accelerate bitsandbytes
+```
+
+### Data Generation
+
+Generate 3,000 synthetic plots with ground truth annotations:
+
+```bash
+python generate_synthetic_plots.py
+```
+
+**Output:**
+- Creates `D:\Delineate Task'\generated_plots\` directory
+- Generates 3,000 PNG images in `images/` folder
+- Creates corresponding JSON labels in `labels/` folder
+
+### Running Evaluation
+
+All notebooks are designed to run on **Kaggle** with the [graph-plots](https://www.kaggle.com/datasets/shahriar26s/graph-plots) dataset.
+
+**Option 1: Kaggle (Recommended)**
+1. Upload notebook to Kaggle
+2. Add dataset: `shahriar26s/graph-plots`
+3. Enable GPU for VLM notebooks (T4 recommended)
+4. Run all cells
+
+**Option 2: Local Execution**
+1. Download dataset from Kaggle or Google Drive
+2. Update paths in notebook configuration cells
+3. Run using Jupyter:
+```bash
+jupyter notebook
+```
+
+**Notebook Execution Order:**
+1. `Basic OpenCV + ROI/OpenCV + ROI.ipynb` - Fast CV baseline
+2. `OpenCV + ROI + ML Refinement/cv-ml-hybrid-errorbar-detection-new.ipynb` - Hybrid approach
+3. `Zero shot QWEN2.5-VL-7B base & finetuned/Zero shot QWEN2.5-VL-7B inference.ipynb` - Base VLM
+4. `Zero shot QWEN2.5-VL-7B base & finetuned/qwen2-5-vl-error-bar-detection-fine-tuning.ipynb` - Fine-tuning
+5. `Zero shot QWEN2.5-VL-7B base & finetuned/Chartqwen inference.ipynb` - Fine-tuned VLM
+
+---
+
 ## Methodology
 
 This project implements two distinct pipelines for error bar detection, each with different trade-offs between speed, accuracy, and computational requirements.
